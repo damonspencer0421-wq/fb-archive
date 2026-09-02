@@ -1,13 +1,41 @@
 {
   "texas-stand-up": [
     "Dust Bowl",
-    "Texas City disaster",
-    "Galveston hurricane of 1900",
     "Spindletop",
     "Photographs by Russell Lee",
     "Photographs by Arthur Rothstein",
     "History of Galveston, Texas",
-    "Cotton in Texas"
+    "Military installations in Texas",
+    "World War II airfields in Texas",
+    "Cold War sites in the United States"
+  ],
+  "texas-unearthed": [
+    "African Americans in Texas",
+    "Slavery in the United States",
+    "Juneteenth",
+    "History of Texas",
+    "Sharecropping",
+    "Convict leasing",
+    "Segregation in the United States"
+  ],
+  "texas-frontier-files": [
+    "Texas Revolution",
+    "Comanche",
+    "Texas Ranger Division",
+    "Mexican-American War",
+    "Alamo Mission in San Antonio",
+    "Forts in Texas",
+    "Cattle drives",
+    "American Old West"
+  ],
+  "lonestar-legacy": [
+    "Ghost towns in Texas",
+    "Marfa lights",
+    "Outlaws of the American Old West",
+    "Folklore of the United States",
+    "Abandoned buildings in Texas",
+    "Roadside attractions in the United States",
+    "Republic of Texas"
   ],
   "black-unearthed": [
     "Tuskegee Airmen",
@@ -19,16 +47,27 @@
     "Frederick Douglass",
     "Great Migration (African American)",
     "Tuskegee Institute",
-    "African-American soldiers in World War II"
+    "African Americans in World War II",
+    "African-American history"
   ],
   "appalachia": [
     "Battle of Blair Mountain",
-    "Monongah mining disaster",
-    "Coal miners in the United States",
+    "Coal mining in the United States",
+    "Mining disasters in the United States",
     "Photographs by Marion Post Wolcott",
     "Coal mining in West Virginia",
     "Coal mining in Kentucky",
-    "Company towns in the United States"
+    "Company towns in the United States",
+    "West Virginia"
+  ],
+  "appalachia-unexplained": [
+    "Abandoned buildings in West Virginia",
+    "Ghost towns in West Virginia",
+    "Blue Ridge Mountains",
+    "Great Smoky Mountains",
+    "Caves of Kentucky",
+    "Fog",
+    "Cemeteries in West Virginia"
   ],
   "florida": [
     "Everglades",
@@ -36,36 +75,41 @@
     "1935 Labor Day hurricane",
     "Florida East Coast Railway",
     "History of Key West, Florida",
-    "Photographs by Jack Delano"
+    "Photographs by Jack Delano",
+    "History of Florida"
   ],
   "growing-up-italian": [
     "Photographs by Lewis Hine",
-    "Photographs by Jacob Riis",
+    "Jacob Riis",
     "Little Italy, Manhattan",
-    "Mulberry Street, Manhattan",
-    "Immigrants at Ellis Island",
+    "Lower East Side",
     "Ellis Island",
-    "Child labor in the United States"
+    "Child labor in the United States",
+    "Italian-American culture",
+    "Tenements"
   ],
   "louisiana": [
     "Great Mississippi Flood of 1927",
     "History of New Orleans",
-    "Storyville, New Orleans",
-    "Sugar plantations in Louisiana",
-    "Photographs by Ben Shahn"
+    "New Orleans",
+    "Photographs by Ben Shahn",
+    "Sugarcane",
+    "Louisiana"
   ],
   "alabama": [
     "Photographs by Walker Evans",
     "Photographs by Dorothea Lange",
     "Coal mining in Alabama",
     "History of Birmingham, Alabama",
-    "Sharecropping"
+    "Sharecropping",
+    "Alabama"
   ],
   "georgia": [
     "History of Atlanta",
     "Civilian Conservation Corps",
     "Works Progress Administration",
-    "Cotton production in the United States",
-    "Farm Security Administration"
+    "Cotton in the United States",
+    "Farm Security Administration",
+    "Georgia (U.S. state)"
   ]
 }
