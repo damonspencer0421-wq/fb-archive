@@ -1,33 +1,62 @@
 #!/usr/bin/env python3
 """Pull public-domain archival photographs from Wikimedia Commons.
 
-Writes report.json alongside manifest.json so the yield of every category
-is visible without reading the Action log. A category that does not exist
-shows exists=false, which is the difference between a bad guess and a
-genuinely empty vein.
+Wikimedia rate-limits hard from cloud IPs. Three things keep it happy:
+a User-Agent that identifies the project and gives a contact URL, the
+maxlag parameter so we back off when their replication lags, and an
+exponential retry that honours Retry-After instead of hammering.
+
+Writes report.json next to manifest.json so every category's yield and
+any error is visible without opening the Action log.
 """
 import json, os, re, time, hashlib
 import requests
 
 API = "https://commons.wikimedia.org/w/api.php"
-UA = "fb-archive-harvester/1.0 (github actions)"
+UA = ("fb-archive-harvester/1.1 "
+      "(https://github.com/damonspencer0421-wq/fb-archive; archival research)")
 MIN_WIDTH = 1100
 MAX_BYTES = 9000000
-PER_CATEGORY = 60
-SUBCAT_LIMIT = 14
+PER_CATEGORY = 40
+SUBCAT_LIMIT = 10
 MAX_EDGE = 2400
+PACE = 1.1
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OK_LICENSE = re.compile(r"public domain|^pd|cc0|no known copyright|cc.by", re.I)
 SKIP_SUBCAT = re.compile(r"media needing|categories requiring|to be checked|"
                          r"unidentified|flags of|maps of|coats of arms", re.I)
 
+SESSION = requests.Session()
+SESSION.headers.update({"User-Agent": UA, "Accept-Encoding": "gzip"})
 
-def api(params):
-    p = {"format": "json", "formatversion": "2"}
+
+def api(params, tries=6):
+    p = {"format": "json", "formatversion": "2", "maxlag": "5"}
     p.update(params)
-    r = requests.get(API, params=p, headers={"User-Agent": UA}, timeout=60)
-    r.raise_for_status()
-    return r.json()
+    delay = 2.0
+    last = None
+    for attempt in range(tries):
+        try:
+            r = SESSION.get(API, params=p, timeout=60)
+            if r.status_code in (429, 503):
+                wait = float(r.headers.get("Retry-After", delay))
+                print("   throttled, sleeping %.0fs" % wait)
+                time.sleep(min(wait, 60))
+                delay = min(delay * 2, 60)
+                continue
+            r.raise_for_status()
+            d = r.json()
+            if "error" in d and d["error"].get("code") == "maxlag":
+                time.sleep(min(delay, 30))
+                delay = min(delay * 2, 60)
+                continue
+            time.sleep(PACE)
+            return d
+        except requests.RequestException as e:
+            last = e
+            time.sleep(min(delay, 30))
+            delay = min(delay * 2, 60)
+    raise RuntimeError("gave up after %d tries: %s" % (tries, last))
 
 
 def cat_exists(cat):
@@ -58,7 +87,6 @@ def direct_files(cat, limit):
         if "continue" not in d:
             break
         cont = d["continue"]
-        time.sleep(0.3)
     return out[:limit]
 
 
@@ -81,7 +109,7 @@ def subcats(cat):
     return names[:SUBCAT_LIMIT]
 
 
-def gather(cat, limit, depth=2):
+def gather(cat, limit, depth=1):
     files = direct_files(cat, limit)
     if len(files) < limit and depth > 0:
         for sub in subcats(cat):
@@ -100,17 +128,18 @@ def main():
     targets = json.load(open(os.path.join(ROOT, "targets.json")))
     mpath = os.path.join(ROOT, "manifest.json")
     manifest = json.load(open(mpath)) if os.path.exists(mpath) else {}
-    report = {}
+    rpath = os.path.join(ROOT, "report.json")
+    report = json.load(open(rpath)) if os.path.exists(rpath) else {}
     added = 0
 
     for page, cats in targets.items():
         outdir = os.path.join(ROOT, "images", page)
         os.makedirs(outdir, exist_ok=True)
         for cat in cats:
-            rec = {"page": page, "exists": cat_exists(cat),
-                   "candidates": 0, "too_small": 0, "wrong_license": 0,
-                   "already_had": 0, "kept": 0}
+            rec = {"page": page, "exists": None, "candidates": 0,
+                   "too_small": 0, "wrong_license": 0, "already_had": 0, "kept": 0}
             report[cat] = rec
+            rec["exists"] = cat_exists(cat)
             if rec["exists"] is False:
                 print("MISSING CATEGORY", cat)
                 continue
@@ -118,6 +147,7 @@ def main():
                 files = gather(cat, PER_CATEGORY)
             except Exception as e:
                 rec["error"] = str(e)[:200]
+                print("FAILED", cat, rec["error"])
                 continue
             rec["candidates"] = len(files)
 
@@ -146,7 +176,7 @@ def main():
                 name = key + ext
                 dest = os.path.join(outdir, name)
                 try:
-                    r = requests.get(url, headers={"User-Agent": UA}, timeout=120)
+                    r = SESSION.get(url, timeout=120)
                     r.raise_for_status()
                     if len(r.content) > MAX_BYTES:
                         continue
@@ -170,13 +200,14 @@ def main():
                 }
                 added += 1
                 rec["kept"] += 1
-                time.sleep(0.2)
+                time.sleep(0.4)
             print(cat, rec)
 
-    with open(mpath, "w") as fh:
-        json.dump(manifest, fh, indent=1, sort_keys=True)
-    with open(os.path.join(ROOT, "report.json"), "w") as fh:
-        json.dump(report, fh, indent=1, sort_keys=True)
+            with open(mpath, "w") as fh:
+                json.dump(manifest, fh, indent=1, sort_keys=True)
+            with open(rpath, "w") as fh:
+                json.dump(report, fh, indent=1, sort_keys=True)
+
     print("ADDED", added, "TOTAL", len(manifest))
 
 
