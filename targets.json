@@ -1,46 +1,71 @@
 {
   "texas-stand-up": [
-    "History of Texas",
-    "Texas City disaster",
-    "Galveston, Texas",
     "Dust Bowl",
-    "Farm Security Administration photographs of Texas"
+    "Texas City disaster",
+    "Galveston hurricane of 1900",
+    "Spindletop",
+    "Photographs by Russell Lee",
+    "Photographs by Arthur Rothstein",
+    "History of Galveston, Texas",
+    "Cotton in Texas"
   ],
   "black-unearthed": [
-    "African-American history",
     "Tuskegee Airmen",
-    "Harlem Renaissance",
     "Buffalo Soldiers",
-    "Photographs by Gordon Parks"
+    "Harlem Renaissance",
+    "Photographs by Gordon Parks",
+    "Negro league baseball",
+    "Booker T. Washington",
+    "Frederick Douglass",
+    "Great Migration (African American)",
+    "Tuskegee Institute",
+    "African-American soldiers in World War II"
   ],
   "appalachia": [
+    "Battle of Blair Mountain",
+    "Monongah mining disaster",
+    "Coal miners in the United States",
+    "Photographs by Marion Post Wolcott",
     "Coal mining in West Virginia",
     "Coal mining in Kentucky",
-    "Appalachia",
-    "Farm Security Administration photographs of West Virginia"
+    "Company towns in the United States"
   ],
   "florida": [
-    "History of Florida",
     "Everglades",
-    "Farm Security Administration photographs of Florida"
+    "Seminole people",
+    "1935 Labor Day hurricane",
+    "Florida East Coast Railway",
+    "History of Key West, Florida",
+    "Photographs by Jack Delano"
   ],
   "growing-up-italian": [
+    "Photographs by Lewis Hine",
+    "Photographs by Jacob Riis",
     "Little Italy, Manhattan",
-    "Italian-American culture",
-    "Immigration to the United States"
+    "Mulberry Street, Manhattan",
+    "Immigrants at Ellis Island",
+    "Ellis Island",
+    "Child labor in the United States"
   ],
   "louisiana": [
-    "History of Louisiana",
     "Great Mississippi Flood of 1927",
-    "New Orleans in the 20th century"
+    "History of New Orleans",
+    "Storyville, New Orleans",
+    "Sugar plantations in Louisiana",
+    "Photographs by Ben Shahn"
   ],
   "alabama": [
-    "History of Alabama",
-    "Birmingham, Alabama",
-    "Farm Security Administration photographs of Alabama"
+    "Photographs by Walker Evans",
+    "Photographs by Dorothea Lange",
+    "Coal mining in Alabama",
+    "History of Birmingham, Alabama",
+    "Sharecropping"
   ],
   "georgia": [
-    "History of Georgia (U.S. state)",
-    "Farm Security Administration photographs of Georgia"
+    "History of Atlanta",
+    "Civilian Conservation Corps",
+    "Works Progress Administration",
+    "Cotton production in the United States",
+    "Farm Security Administration"
   ]
 }
