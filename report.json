@@ -1,11 +1,56 @@
 {
  "1935 Labor Day hurricane": {
+  "already_had": 20,
+  "candidates": 40,
+  "exists": true,
+  "kept": 0,
+  "page": "florida",
+  "too_small": 19,
+  "wrong_license": 0
+ },
+ "Abandoned buildings in Texas": {
+  "already_had": 3,
+  "candidates": 40,
+  "exists": true,
+  "kept": 34,
+  "page": "lonestar-legacy",
+  "too_small": 3,
+  "wrong_license": 0
+ },
+ "Abandoned buildings in West Virginia": {
+  "already_had": 0,
+  "candidates": 12,
+  "exists": true,
+  "kept": 9,
+  "page": "appalachia-unexplained",
+  "too_small": 3,
+  "wrong_license": 0
+ },
+ "African Americans in Texas": {
   "already_had": 0,
   "candidates": 40,
   "exists": true,
   "kept": 20,
-  "page": "florida",
+  "page": "texas-unearthed",
   "too_small": 19,
+  "wrong_license": 0
+ },
+ "African Americans in World War II": {
+  "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 22,
+  "page": "black-unearthed",
+  "too_small": 13,
+  "wrong_license": 0
+ },
+ "African-American history": {
+  "already_had": 0,
+  "candidates": 0,
+  "exists": true,
+  "kept": 0,
+  "page": "black-unearthed",
+  "too_small": 0,
   "wrong_license": 0
  },
  "African-American soldiers in World War II": {
@@ -17,20 +62,56 @@
   "too_small": 0,
   "wrong_license": 0
  },
- "Battle of Blair Mountain": {
+ "Alabama": {
   "already_had": 0,
+  "candidates": 27,
+  "exists": true,
+  "kept": 13,
+  "page": "alabama",
+  "too_small": 14,
+  "wrong_license": 0
+ },
+ "Alamo Mission in San Antonio": {
+  "already_had": 0,
+  "candidates": 0,
+  "exists": false,
+  "kept": 0,
+  "page": "texas-frontier-files",
+  "too_small": 0,
+  "wrong_license": 0
+ },
+ "American Old West": {
+  "already_had": 0,
+  "candidates": 0,
+  "exists": true,
+  "kept": 0,
+  "page": "texas-frontier-files",
+  "too_small": 0,
+  "wrong_license": 0
+ },
+ "Battle of Blair Mountain": {
+  "already_had": 5,
   "candidates": 17,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 12,
   "wrong_license": 0
  },
- "Booker T. Washington": {
+ "Blue Ridge Mountains": {
   "already_had": 0,
   "candidates": 40,
   "exists": true,
-  "kept": 17,
+  "kept": 32,
+  "page": "appalachia-unexplained",
+  "too_small": 1,
+  "wrong_license": 0
+ },
+ "Booker T. Washington": {
+  "already_had": 17,
+  "candidates": 40,
+  "exists": true,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 23,
   "wrong_license": 0
@@ -44,20 +125,47 @@
   "too_small": 0,
   "wrong_license": 0
  },
- "Child labor in the United States": {
+ "Cattle drives": {
+  "already_had": 0,
+  "candidates": 0,
+  "exists": false,
+  "kept": 0,
+  "page": "texas-frontier-files",
+  "too_small": 0,
+  "wrong_license": 0
+ },
+ "Caves of Kentucky": {
   "already_had": 0,
   "candidates": 40,
   "exists": true,
-  "kept": 35,
+  "kept": 23,
+  "page": "appalachia-unexplained",
+  "too_small": 2,
+  "wrong_license": 6
+ },
+ "Cemeteries in West Virginia": {
+  "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 37,
+  "page": "appalachia-unexplained",
+  "too_small": 3,
+  "wrong_license": 0
+ },
+ "Child labor in the United States": {
+  "already_had": 35,
+  "candidates": 40,
+  "exists": true,
+  "kept": 4,
   "page": "growing-up-italian",
   "too_small": 1,
   "wrong_license": 0
  },
  "Civilian Conservation Corps": {
-  "already_had": 0,
+  "already_had": 20,
   "candidates": 40,
   "exists": true,
-  "kept": 20,
+  "kept": 9,
   "page": "georgia",
   "too_small": 5,
   "wrong_license": 0
@@ -72,10 +180,10 @@
   "wrong_license": 0
  },
  "Coal mining in Alabama": {
-  "already_had": 1,
+  "already_had": 25,
   "candidates": 40,
   "exists": true,
-  "kept": 24,
+  "kept": 0,
   "page": "alabama",
   "too_small": 0,
   "wrong_license": 0
@@ -90,7 +198,7 @@
   "wrong_license": 0
  },
  "Coal mining in West Virginia": {
-  "already_had": 1,
+  "already_had": 11,
   "candidates": 40,
   "exists": true,
   "kept": 10,
@@ -98,12 +206,48 @@
   "too_small": 2,
   "wrong_license": 0
  },
- "Company towns in the United States": {
+ "Coal mining in the United States": {
   "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 23,
+  "page": "appalachia",
+  "too_small": 16,
+  "wrong_license": 0
+ },
+ "Cold War sites in the United States": {
+  "already_had": 0,
+  "candidates": 0,
+  "exists": false,
+  "kept": 0,
+  "page": "texas-stand-up",
+  "too_small": 0,
+  "wrong_license": 0
+ },
+ "Comanche": {
+  "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 21,
+  "page": "texas-frontier-files",
+  "too_small": 13,
+  "wrong_license": 0
+ },
+ "Company towns in the United States": {
+  "already_had": 36,
   "candidates": 36,
   "exists": true,
-  "kept": 36,
+  "kept": 0,
   "page": "appalachia",
+  "too_small": 0,
+  "wrong_license": 0
+ },
+ "Convict leasing": {
+  "already_had": 0,
+  "candidates": 0,
+  "exists": false,
+  "kept": 0,
+  "page": "texas-unearthed",
   "too_small": 0,
   "wrong_license": 0
  },
@@ -116,6 +260,15 @@
   "too_small": 0,
   "wrong_license": 0
  },
+ "Cotton in the United States": {
+  "already_had": 3,
+  "candidates": 34,
+  "exists": true,
+  "kept": 23,
+  "page": "georgia",
+  "too_small": 8,
+  "wrong_license": 0
+ },
  "Cotton production in the United States": {
   "already_had": 0,
   "candidates": 0,
@@ -126,55 +279,82 @@
   "wrong_license": 0
  },
  "Dust Bowl": {
-  "already_had": 17,
+  "already_had": 27,
   "candidates": 40,
   "exists": true,
-  "kept": 10,
+  "kept": 4,
   "page": "texas-stand-up",
   "too_small": 9,
   "wrong_license": 0
  },
  "Ellis Island": {
-  "already_had": 0,
+  "already_had": 30,
   "candidates": 40,
   "exists": true,
-  "kept": 30,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 10,
   "wrong_license": 0
  },
  "Everglades": {
-  "already_had": 1,
+  "already_had": 39,
   "candidates": 40,
   "exists": true,
-  "kept": 38,
+  "kept": 0,
   "page": "florida",
   "too_small": 1,
   "wrong_license": 0
  },
  "Farm Security Administration": {
-  "already_had": 6,
+  "already_had": 37,
   "candidates": 40,
   "exists": true,
-  "kept": 31,
+  "kept": 0,
   "page": "georgia",
   "too_small": 3,
   "wrong_license": 0
  },
  "Florida East Coast Railway": {
-  "already_had": 0,
+  "already_had": 34,
   "candidates": 40,
   "exists": true,
-  "kept": 34,
+  "kept": 0,
   "page": "florida",
   "too_small": 6,
   "wrong_license": 0
  },
- "Frederick Douglass": {
+ "Fog": {
   "already_had": 0,
   "candidates": 40,
   "exists": true,
-  "kept": 17,
+  "kept": 28,
+  "page": "appalachia-unexplained",
+  "too_small": 2,
+  "wrong_license": 0
+ },
+ "Folklore of the United States": {
+  "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 11,
+  "page": "lonestar-legacy",
+  "too_small": 22,
+  "wrong_license": 0
+ },
+ "Forts in Texas": {
+  "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 27,
+  "page": "texas-frontier-files",
+  "too_small": 11,
+  "wrong_license": 0
+ },
+ "Frederick Douglass": {
+  "already_had": 17,
+  "candidates": 40,
+  "exists": true,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 22,
   "wrong_license": 0
@@ -188,76 +368,130 @@
   "too_small": 0,
   "wrong_license": 0
  },
- "Great Migration (African American)": {
+ "Georgia (U.S. state)": {
   "already_had": 0,
+  "candidates": 34,
+  "exists": true,
+  "kept": 4,
+  "page": "georgia",
+  "too_small": 30,
+  "wrong_license": 0
+ },
+ "Ghost towns in Texas": {
+  "already_had": 1,
+  "candidates": 40,
+  "exists": true,
+  "kept": 30,
+  "page": "lonestar-legacy",
+  "too_small": 9,
+  "wrong_license": 0
+ },
+ "Ghost towns in West Virginia": {
+  "already_had": 1,
+  "candidates": 25,
+  "exists": true,
+  "kept": 22,
+  "page": "appalachia-unexplained",
+  "too_small": 2,
+  "wrong_license": 0
+ },
+ "Great Migration (African American)": {
+  "already_had": 12,
   "candidates": 19,
   "exists": true,
-  "kept": 12,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 7,
   "wrong_license": 0
  },
  "Great Mississippi Flood of 1927": {
-  "already_had": 0,
+  "already_had": 10,
   "candidates": 40,
   "exists": true,
-  "kept": 10,
+  "kept": 9,
   "page": "louisiana",
   "too_small": 2,
   "wrong_license": 0
  },
- "Harlem Renaissance": {
-  "already_had": 1,
+ "Great Smoky Mountains": {
+  "already_had": 0,
   "candidates": 40,
   "exists": true,
-  "kept": 10,
+  "kept": 19,
+  "page": "appalachia-unexplained",
+  "too_small": 4,
+  "wrong_license": 0
+ },
+ "Harlem Renaissance": {
+  "already_had": 11,
+  "candidates": 40,
+  "exists": true,
+  "kept": 4,
   "page": "black-unearthed",
   "too_small": 23,
   "wrong_license": 0
  },
  "History of Atlanta": {
-  "already_had": 0,
+  "already_had": 19,
   "candidates": 40,
   "exists": true,
-  "kept": 19,
+  "kept": 4,
   "page": "georgia",
   "too_small": 16,
   "wrong_license": 1
  },
  "History of Birmingham, Alabama": {
-  "already_had": 0,
+  "already_had": 35,
   "candidates": 40,
   "exists": true,
-  "kept": 35,
+  "kept": 0,
   "page": "alabama",
   "too_small": 5,
   "wrong_license": 0
  },
- "History of Galveston, Texas": {
-  "already_had": 23,
+ "History of Florida": {
+  "already_had": 2,
   "candidates": 40,
   "exists": true,
-  "kept": 7,
+  "kept": 10,
+  "page": "florida",
+  "too_small": 24,
+  "wrong_license": 0
+ },
+ "History of Galveston, Texas": {
+  "already_had": 30,
+  "candidates": 40,
+  "exists": true,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 10,
   "wrong_license": 0
  },
  "History of Key West, Florida": {
-  "already_had": 0,
+  "already_had": 27,
   "candidates": 40,
   "exists": true,
-  "kept": 27,
+  "kept": 4,
   "page": "florida",
   "too_small": 9,
   "wrong_license": 0
  },
  "History of New Orleans": {
-  "already_had": 0,
+  "already_had": 28,
   "candidates": 40,
   "exists": true,
-  "kept": 27,
+  "kept": 0,
   "page": "louisiana",
   "too_small": 6,
+  "wrong_license": 0
+ },
+ "History of Texas": {
+  "already_had": 1,
+  "candidates": 40,
+  "exists": true,
+  "kept": 12,
+  "page": "texas-unearthed",
+  "too_small": 27,
   "wrong_license": 0
  },
  "Immigrants at Ellis Island": {
@@ -269,13 +503,94 @@
   "too_small": 0,
   "wrong_license": 0
  },
- "Little Italy, Manhattan": {
-  "already_had": 1,
-  "candidates": 40,
+ "Italian-American culture": {
+  "already_had": 0,
+  "candidates": 12,
   "exists": true,
-  "kept": 37,
+  "kept": 11,
   "page": "growing-up-italian",
   "too_small": 1,
+  "wrong_license": 0
+ },
+ "Jacob Riis": {
+  "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 6,
+  "page": "growing-up-italian",
+  "too_small": 20,
+  "wrong_license": 0
+ },
+ "Juneteenth": {
+  "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 31,
+  "page": "texas-unearthed",
+  "too_small": 7,
+  "wrong_license": 0
+ },
+ "Little Italy, Manhattan": {
+  "already_had": 38,
+  "candidates": 40,
+  "exists": true,
+  "kept": 1,
+  "page": "growing-up-italian",
+  "too_small": 1,
+  "wrong_license": 0
+ },
+ "Louisiana": {
+  "already_had": 0,
+  "candidates": 26,
+  "exists": true,
+  "kept": 19,
+  "page": "louisiana",
+  "too_small": 7,
+  "wrong_license": 0
+ },
+ "Lower East Side": {
+  "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 18,
+  "page": "growing-up-italian",
+  "too_small": 12,
+  "wrong_license": 0
+ },
+ "Marfa lights": {
+  "already_had": 0,
+  "candidates": 9,
+  "exists": true,
+  "kept": 5,
+  "page": "lonestar-legacy",
+  "too_small": 4,
+  "wrong_license": 0
+ },
+ "Mexican-American War": {
+  "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 25,
+  "page": "texas-frontier-files",
+  "too_small": 11,
+  "wrong_license": 0
+ },
+ "Military installations in Texas": {
+  "already_had": 0,
+  "candidates": 0,
+  "exists": false,
+  "kept": 0,
+  "page": "texas-stand-up",
+  "too_small": 0,
+  "wrong_license": 0
+ },
+ "Mining disasters in the United States": {
+  "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 19,
+  "page": "appalachia",
+  "too_small": 21,
   "wrong_license": 0
  },
  "Monongah mining disaster": {
@@ -297,55 +612,73 @@
   "wrong_license": 0
  },
  "Negro league baseball": {
-  "already_had": 0,
+  "already_had": 11,
   "candidates": 40,
   "exists": true,
-  "kept": 11,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 29,
   "wrong_license": 0
  },
- "Photographs by Arthur Rothstein": {
-  "already_had": 12,
+ "New Orleans": {
+  "already_had": 0,
   "candidates": 40,
   "exists": true,
-  "kept": 6,
+  "kept": 10,
+  "page": "louisiana",
+  "too_small": 30,
+  "wrong_license": 0
+ },
+ "Outlaws of the American Old West": {
+  "already_had": 0,
+  "candidates": 0,
+  "exists": false,
+  "kept": 0,
+  "page": "lonestar-legacy",
+  "too_small": 0,
+  "wrong_license": 0
+ },
+ "Photographs by Arthur Rothstein": {
+  "already_had": 18,
+  "candidates": 40,
+  "exists": true,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 16,
   "wrong_license": 0
  },
  "Photographs by Ben Shahn": {
-  "already_had": 0,
+  "already_had": 31,
   "candidates": 40,
   "exists": true,
-  "kept": 31,
+  "kept": 0,
   "page": "louisiana",
   "too_small": 8,
   "wrong_license": 0
  },
  "Photographs by Dorothea Lange": {
-  "already_had": 0,
+  "already_had": 23,
   "candidates": 40,
   "exists": true,
-  "kept": 23,
+  "kept": 10,
   "page": "alabama",
   "too_small": 2,
   "wrong_license": 0
  },
  "Photographs by Gordon Parks": {
-  "already_had": 0,
+  "already_had": 13,
   "candidates": 40,
   "exists": true,
-  "kept": 13,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 27,
   "wrong_license": 0
  },
  "Photographs by Jack Delano": {
-  "already_had": 0,
+  "already_had": 24,
   "candidates": 40,
   "exists": true,
-  "kept": 24,
+  "kept": 0,
   "page": "florida",
   "too_small": 16,
   "wrong_license": 0
@@ -360,19 +693,19 @@
   "wrong_license": 0
  },
  "Photographs by Lewis Hine": {
-  "already_had": 0,
+  "already_had": 11,
   "candidates": 40,
   "exists": true,
-  "kept": 11,
+  "kept": 10,
   "page": "growing-up-italian",
   "too_small": 2,
   "wrong_license": 0
  },
  "Photographs by Marion Post Wolcott": {
-  "already_had": 0,
+  "already_had": 12,
   "candidates": 40,
   "exists": true,
-  "kept": 12,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 28,
   "wrong_license": 0
@@ -387,37 +720,73 @@
   "wrong_license": 0
  },
  "Photographs by Walker Evans": {
-  "already_had": 0,
+  "already_had": 22,
   "candidates": 40,
   "exists": true,
-  "kept": 22,
+  "kept": 0,
   "page": "alabama",
   "too_small": 17,
   "wrong_license": 0
  },
- "Seminole people": {
+ "Republic of Texas": {
+  "already_had": 1,
+  "candidates": 40,
+  "exists": true,
+  "kept": 12,
+  "page": "lonestar-legacy",
+  "too_small": 26,
+  "wrong_license": 0
+ },
+ "Roadside attractions in the United States": {
   "already_had": 0,
   "candidates": 40,
   "exists": true,
-  "kept": 13,
+  "kept": 31,
+  "page": "lonestar-legacy",
+  "too_small": 9,
+  "wrong_license": 0
+ },
+ "Segregation in the United States": {
+  "already_had": 4,
+  "candidates": 40,
+  "exists": true,
+  "kept": 14,
+  "page": "texas-unearthed",
+  "too_small": 8,
+  "wrong_license": 0
+ },
+ "Seminole people": {
+  "already_had": 13,
+  "candidates": 40,
+  "exists": true,
+  "kept": 0,
   "page": "florida",
   "too_small": 27,
   "wrong_license": 0
  },
  "Sharecropping": {
-  "already_had": 2,
+  "already_had": 25,
+  "candidates": 40,
+  "exists": true,
+  "kept": 0,
+  "page": "alabama",
+  "too_small": 15,
+  "wrong_license": 0
+ },
+ "Slavery in the United States": {
+  "already_had": 0,
   "candidates": 40,
   "exists": true,
   "kept": 23,
-  "page": "alabama",
-  "too_small": 15,
+  "page": "texas-unearthed",
+  "too_small": 17,
   "wrong_license": 0
  },
  "Spindletop": {
   "already_had": 19,
   "candidates": 40,
   "exists": true,
-  "kept": 0,
+  "kept": 10,
   "page": "texas-stand-up",
   "too_small": 9,
   "wrong_license": 0
@@ -440,6 +809,24 @@
   "too_small": 1,
   "wrong_license": 0
  },
+ "Sugarcane": {
+  "already_had": 0,
+  "candidates": 0,
+  "exists": true,
+  "kept": 0,
+  "page": "louisiana",
+  "too_small": 0,
+  "wrong_license": 0
+ },
+ "Tenements": {
+  "already_had": 0,
+  "candidates": 0,
+  "exists": true,
+  "kept": 0,
+  "page": "growing-up-italian",
+  "too_small": 0,
+  "wrong_license": 0
+ },
  "Texas City disaster": {
   "already_had": 0,
   "candidates": 0,
@@ -449,31 +836,67 @@
   "too_small": 0,
   "wrong_license": 0
  },
- "Tuskegee Airmen": {
-  "already_had": 11,
+ "Texas Ranger Division": {
+  "already_had": 0,
   "candidates": 40,
   "exists": true,
-  "kept": 11,
+  "kept": 20,
+  "page": "texas-frontier-files",
+  "too_small": 14,
+  "wrong_license": 0
+ },
+ "Texas Revolution": {
+  "already_had": 0,
+  "candidates": 40,
+  "exists": true,
+  "kept": 15,
+  "page": "texas-frontier-files",
+  "too_small": 25,
+  "wrong_license": 0
+ },
+ "Tuskegee Airmen": {
+  "already_had": 22,
+  "candidates": 40,
+  "exists": true,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 7,
   "wrong_license": 0
  },
  "Tuskegee Institute": {
-  "already_had": 0,
+  "already_had": 29,
   "candidates": 40,
   "exists": true,
-  "kept": 29,
+  "kept": 2,
   "page": "black-unearthed",
   "too_small": 9,
   "wrong_license": 0
  },
- "Works Progress Administration": {
-  "already_had": 0,
+ "West Virginia": {
+  "already_had": 1,
   "candidates": 40,
   "exists": true,
-  "kept": 21,
+  "kept": 27,
+  "page": "appalachia",
+  "too_small": 12,
+  "wrong_license": 0
+ },
+ "Works Progress Administration": {
+  "already_had": 21,
+  "candidates": 40,
+  "exists": true,
+  "kept": 0,
   "page": "georgia",
   "too_small": 19,
+  "wrong_license": 0
+ },
+ "World War II airfields in Texas": {
+  "already_had": 0,
+  "candidates": 0,
+  "exists": false,
+  "kept": 0,
+  "page": "texas-stand-up",
+  "too_small": 0,
   "wrong_license": 0
  }
 }
