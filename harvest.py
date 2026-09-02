@@ -1,15 +1,24 @@
 #!/usr/bin/env python3
-"""Pull public-domain archival photographs from Wikimedia Commons."""
+"""Pull public-domain archival photographs from Wikimedia Commons.
+
+Commons top-level categories are usually containers of subcategories with
+very few files directly in them, so this walks one level of subcategories
+as well. That is the difference between 40 plates and several hundred.
+"""
 import json, os, re, time, hashlib
 import requests
 
 API = "https://commons.wikimedia.org/w/api.php"
 UA = "fb-archive-harvester/1.0 (github actions)"
 MIN_WIDTH = 1400
-PER_CATEGORY = 40
+MAX_BYTES = 9000000
+PER_CATEGORY = 60
+SUBCAT_LIMIT = 14
 MAX_EDGE = 2400
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OK_LICENSE = re.compile(r"public domain|^pd|cc0|no known copyright", re.I)
+SKIP_SUBCAT = re.compile(r"media needing|categories requiring|to be checked|"
+                         r"unidentified|flags of|maps of|coats of arms", re.I)
 
 
 def api(params):
@@ -20,7 +29,7 @@ def api(params):
     return r.json()
 
 
-def category_files(cat, limit):
+def direct_files(cat, limit):
     out, cont = [], {}
     while len(out) < limit:
         q = {
@@ -39,8 +48,38 @@ def category_files(cat, limit):
         if "continue" not in d:
             break
         cont = d["continue"]
-        time.sleep(0.4)
+        time.sleep(0.3)
     return out[:limit]
+
+
+def subcats(cat):
+    try:
+        d = api({
+            "action": "query",
+            "list": "categorymembers",
+            "cmtitle": "Category:" + cat,
+            "cmtype": "subcat",
+            "cmlimit": "50",
+        })
+    except Exception as e:
+        print("SUBCAT FAIL", cat, e)
+        return []
+    names = []
+    for m in d.get("query", {}).get("categorymembers", []):
+        t = m.get("title", "").replace("Category:", "", 1)
+        if t and not SKIP_SUBCAT.search(t):
+            names.append(t)
+    return names[:SUBCAT_LIMIT]
+
+
+def gather(cat, limit, depth=1):
+    files = direct_files(cat, limit)
+    if len(files) < limit and depth > 0:
+        for sub in subcats(cat):
+            if len(files) >= limit:
+                break
+            files.extend(gather(sub, limit - len(files), depth - 1))
+    return files[:limit]
 
 
 def field(meta, key):
@@ -59,11 +98,12 @@ def main():
         os.makedirs(outdir, exist_ok=True)
         for cat in cats:
             try:
-                files = category_files(cat, PER_CATEGORY)
+                files = gather(cat, PER_CATEGORY)
             except Exception as e:
                 print("SKIP CATEGORY", cat, e)
                 continue
             print("CATEGORY", cat, len(files), "candidates")
+            kept = 0
             for f in files:
                 ii = (f.get("imageinfo") or [{}])[0]
                 if ii.get("width", 0) < MIN_WIDTH:
@@ -88,6 +128,9 @@ def main():
                 try:
                     r = requests.get(url, headers={"User-Agent": UA}, timeout=120)
                     r.raise_for_status()
+                    if len(r.content) > MAX_BYTES:
+                        print("TOO BIG", url, len(r.content))
+                        continue
                     with open(dest, "wb") as fh:
                         fh.write(r.content)
                 except Exception as e:
@@ -108,8 +151,9 @@ def main():
                     "source": ii.get("descriptionurl", ""),
                 }
                 added += 1
-                print("GOT", page, name, ii.get("width"), "x", ii.get("height"))
-                time.sleep(0.3)
+                kept += 1
+                time.sleep(0.2)
+            print("  kept", kept)
 
     with open(mpath, "w") as fh:
         json.dump(manifest, fh, indent=1, sort_keys=True)
