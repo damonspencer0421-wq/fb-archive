@@ -6,6 +6,13 @@ a User-Agent that identifies the project and gives a contact URL, the
 maxlag parameter so we back off when their replication lags, and an
 exponential retry that honours Retry-After instead of hammering.
 
+Two quality gates matter downstream. MIN_WIDTH keeps genuinely small
+scans out. BOOK_SCAN rejects halftones lifted from printed books: those
+are dot screens, not photographs, and they fall apart the moment they
+are enlarged to fill a vertical video frame. manifest records
+video_ready so the picker can demand a higher bar for reels than for
+cards without a second harvest.
+
 Writes report.json next to manifest.json so every category's yield and
 any error is visible without opening the Action log.
 """
@@ -13,9 +20,10 @@ import json, os, re, time, hashlib
 import requests
 
 API = "https://commons.wikimedia.org/w/api.php"
-UA = ("fb-archive-harvester/1.1 "
+UA = ("fb-archive-harvester/1.2 "
       "(https://github.com/damonspencer0421-wq/fb-archive; archival research)")
-MIN_WIDTH = 1100
+MIN_WIDTH = 1400          # anything narrower is not worth storing
+VIDEO_MIN_WIDTH = 2500    # vertical video crops hard; below this it goes soft
 MAX_BYTES = 9000000
 PER_CATEGORY = 40
 SUBCAT_LIMIT = 10
@@ -25,6 +33,11 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 OK_LICENSE = re.compile(r"public domain|^pd|cc0|no known copyright|cc.by", re.I)
 SKIP_SUBCAT = re.compile(r"media needing|categories requiring|to be checked|"
                          r"unidentified|flags of|maps of|coats of arms", re.I)
+# printed halftones, engravings and book plates: real sources, wrong texture
+BOOK_SCAN = re.compile(r"boys' life of|boys life of|illustrated london|"
+                       r"harper's weekly|frank leslie|engraving|lithograph|"
+                       r"woodcut|book plate|bookplate|title page|frontispiece|"
+                       r"\bplate \d|magazine cover|sheet music", re.I)
 
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": UA, "Accept-Encoding": "gzip"})
@@ -137,7 +150,8 @@ def main():
         os.makedirs(outdir, exist_ok=True)
         for cat in cats:
             rec = {"page": page, "exists": None, "candidates": 0,
-                   "too_small": 0, "wrong_license": 0, "already_had": 0, "kept": 0}
+                   "too_small": 0, "book_scan": 0, "wrong_license": 0,
+                   "already_had": 0, "kept": 0, "video_ready": 0}
             report[cat] = rec
             rec["exists"] = cat_exists(cat)
             if rec["exists"] is False:
@@ -152,9 +166,13 @@ def main():
             rec["candidates"] = len(files)
 
             for f in files:
+                title = f.get("title", "")
                 ii = (f.get("imageinfo") or [{}])[0]
                 if ii.get("width", 0) < MIN_WIDTH:
                     rec["too_small"] += 1
+                    continue
+                if BOOK_SCAN.search(title):
+                    rec["book_scan"] += 1
                     continue
                 meta = ii.get("extmetadata", {})
                 lic = field(meta, "LicenseShortName") + " " + field(meta, "UsageTerms")
@@ -185,13 +203,15 @@ def main():
                 except Exception:
                     continue
 
+                ready = ii.get("width", 0) >= VIDEO_MIN_WIDTH
                 manifest[key] = {
                     "page": page,
                     "category": cat,
                     "path": "images/%s/%s" % (page, name),
-                    "title": f.get("title", ""),
+                    "title": title,
                     "orig_width": ii.get("width"),
                     "orig_height": ii.get("height"),
+                    "video_ready": ready,
                     "credit": field(meta, "Credit") or field(meta, "Artist"),
                     "description": field(meta, "ImageDescription"),
                     "date": field(meta, "DateTimeOriginal"),
@@ -200,6 +220,8 @@ def main():
                 }
                 added += 1
                 rec["kept"] += 1
+                if ready:
+                    rec["video_ready"] += 1
                 time.sleep(0.4)
             print(cat, rec)
 
