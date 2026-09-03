@@ -18,10 +18,22 @@ jobs:
           python-version: '3.11'
       - run: pip install requests
       - run: python harvest.py
-      - name: Commit new plates
+      - name: Commit new plates in small pushes
         run: |
           git config user.name "harvest-bot"
           git config user.email "harvest-bot@users.noreply.github.com"
+          # One push carrying a whole run's photographs is rejected by GitHub
+          # with "RPC failed; HTTP 500" once it gets large. Runs 9, 10 and 11
+          # each downloaded thousands of plates, failed this step, and threw
+          # the lot away. Push the images in batches of 150 so no single push
+          # is big enough to be refused, then commit the manifest last.
+          while :; do
+            batch=$(git ls-files --others --exclude-standard -- images | head -150)
+            [ -z "$batch" ] && break
+            printf '%s\n' "$batch" | xargs -d '\n' git add --
+            git commit -q -m "harvest plates $(date -u +%Y-%m-%dT%H%M%S)"
+            git push
+          done
           git add -A
           git diff --staged --quiet || git commit -m "harvest $(date -u +%Y-%m-%d)"
           git push
