@@ -25,9 +25,9 @@ UA = ("fb-archive-harvester/1.2 "
 MIN_WIDTH = 1400          # anything narrower is not worth storing
 VIDEO_MIN_WIDTH = 2500    # vertical video crops hard; below this it goes soft
 MAX_BYTES = 9000000
-PER_CATEGORY = 40
+PER_CATEGORY = 80        # raised Sept 3 2026: supply, not storage, is the constraint
 SUBCAT_LIMIT = 10
-MAX_EDGE = 2400
+MAX_EDGE = 2000          # 1080x1920 vertical needs <=1920; 2000 keeps headroom
 PACE = 1.1
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OK_LICENSE = re.compile(r"public domain|^pd|cc0|no known copyright|cc.by", re.I)
