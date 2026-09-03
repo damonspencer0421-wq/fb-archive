@@ -195,7 +195,10 @@ def main():
     mpath = os.path.join(ROOT, "manifest.json")
     manifest = json.load(open(mpath)) if os.path.exists(mpath) else {}
     rpath = os.path.join(ROOT, "report.json")
-    report = json.load(open(rpath)) if os.path.exists(rpath) else {}
+    # Start the report EMPTY every run. It used to be loaded and updated, which
+    # meant category names removed from targets.json stayed in the report for
+    # ever and read as fresh failures. The report describes THIS run only.
+    report = {}
     added = 0
 
     for page, cats in targets.items():
