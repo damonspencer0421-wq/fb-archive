@@ -1,0 +1,41 @@
+name: harvest-v2
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /*
+            !/images/
+          sparse-checkout-cone-mode: false
+      - run: df -h /
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - run: python harvest.py
+      - name: Commit new plates in small pushes
+        run: |
+          git config user.name "harvest-bot"
+          git config user.email "harvest-bot@users.noreply.github.com"
+          while :; do
+            batch=$(git ls-files --others --exclude-standard -- images | head -120)
+            [ -z "$batch" ] && break
+            printf '%s\n' "$batch" | xargs -d '\n' git add --sparse --
+            git commit -q -m "harvest plates $(date -u +%Y-%m-%dT%H%M%S)"
+            git push || { git pull --rebase && git push; }
+            df -h / | tail -1
+          done
+          git add --sparse manifest.json report.json
+          git diff --staged --quiet || git commit -m "harvest $(date -u +%Y-%m-%d)"
+          git push || { git pull --rebase && git push; }
