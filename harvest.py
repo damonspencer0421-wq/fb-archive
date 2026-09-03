@@ -132,6 +132,59 @@ def gather(cat, limit, depth=1):
     return files[:limit]
 
 
+# A photo dated after 1975 is not automatically useless. A 2013 picture of a
+# surviving Rosenwald schoolhouse is exactly the "what stands there now" beat
+# the page is built on. A 2011 candle-lighting ceremony with a master sergeant
+# in it is not. era splits the two so the reel builder can use the first as a
+# closing frame and never touch the second.
+YEAR_RX = re.compile(r"\b(1[6-9]\d\d|20[0-2]\d)\b")
+MODERN_AFTER = 1975
+
+EVENT_RX = re.compile(
+    r"ceremony|ceremonies|festival|parade|booth|convention|conference|panel|"
+    r"reenact|re-enact|speaks|speaking|discussing|discusses|shares|interview|"
+    r"awards?|celebrat|commemorat|anniversary|rally|luncheon|banquet|"
+    r"month event|opening of|unveiling|visitor|tourists|"
+    r"sgt\.|sergeant|master sgt|chief master|gen\.|general |colonel|"
+    r"air force|u\.s\. army|u\.s\. navy|airman|cadet", re.I)
+
+# Checked BEFORE the event words. A headstone photographed at a Navy cemetery
+# is a grave marker, not a Navy event, and the rank vocabulary in its caption
+# should not drag it into the quarantine bucket.
+HARD_SITE_RX = re.compile(
+    r"headstone|gravestone|\bgrave\b|cemetery|plaque|historical marker|"
+    r"\bmarker\b|monument|memorial|historic district|national register|"
+    r"schoolhouse|ruins of", re.I)
+
+SITE_RX = re.compile(
+    r"school|schoolhouse|house|home|building|hotel|motel|church|chapel|store|"
+    r"depot|station|cemetery|grave|headstone|marker|plaque|monument|memorial|"
+    r"museum|historic district|national register|nrhp|ruins|site|street|"
+    r"avenue|road|bridge|hall|library|theat|lodge|farm|barn|facade|exterior|"
+    r"interior|storefront|cabin|mill|factory", re.I)
+
+
+def classify(rec):
+    """Return (year, era). era is historical | site_today | modern_event."""
+    # Take the EARLIEST year anywhere in the metadata, not the first one found.
+    # Digitised archival scans routinely carry a modern capture date next to
+    # the real one, and the older year is the honest answer.
+    years = []
+    for f in ("date", "title", "description"):
+        years += [int(y) for y in YEAR_RX.findall(str(rec.get(f) or ""))]
+    year = min(years) if years else None
+    if year is None or year <= MODERN_AFTER:
+        return year, "historical"
+    text = "%s %s" % (rec.get("title") or "", rec.get("description") or "")
+    if HARD_SITE_RX.search(text):
+        return year, "site_today"
+    if EVENT_RX.search(text):
+        return year, "modern_event"
+    if SITE_RX.search(text):
+        return year, "site_today"
+    return year, "modern_event"
+
+
 def field(meta, key):
     v = (meta or {}).get(key, {}).get("value", "")
     return re.sub(r"<[^>]+>", "", str(v)).strip()[:400]
@@ -230,7 +283,24 @@ def main():
             with open(rpath, "w") as fh:
                 json.dump(report, fh, indent=1, sort_keys=True)
 
-    print("ADDED", added, "TOTAL", len(manifest))
+    # Backfill pass. Runs over the WHOLE manifest every time, not just the
+    # records added this run, so a change to the era rules reclassifies
+    # everything already on disk instead of only new arrivals.
+    eras = {}
+    for rec in manifest.values():
+        year, era = classify(rec)
+        rec["year"] = year
+        rec["era"] = era
+        if rec.get("video_ready"):
+            eras[era] = eras.get(era, 0) + 1
+    report["_era_video_ready"] = eras
+
+    with open(mpath, "w") as fh:
+        json.dump(manifest, fh, indent=1, sort_keys=True)
+    with open(rpath, "w") as fh:
+        json.dump(report, fh, indent=1, sort_keys=True)
+
+    print("ADDED", added, "TOTAL", len(manifest), "ERAS", eras)
 
 
 if __name__ == "__main__":
