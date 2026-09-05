@@ -66,14 +66,14 @@
   "wrong_license": 0
  },
  "African American soldiers": {
-  "already_had": 41,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 10,
   "page": "black-unearthed",
   "too_small": 16,
-  "video_ready": 3,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "African American soldiers of World War I": {
@@ -154,13 +154,13 @@
   "wrong_license": 0
  },
  "Black cowboys": {
-  "already_had": 27,
+  "already_had": 26,
   "book_scan": 0,
-  "candidates": 57,
+  "candidates": 54,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 30,
+  "too_small": 28,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -209,14 +209,14 @@
   "wrong_license": 0
  },
  "Buffalo soldiers": {
-  "already_had": 52,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 18,
-  "video_ready": 7,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Carter G. Woodson": {
@@ -231,36 +231,36 @@
   "wrong_license": 0
  },
  "Cattle round-ups and drives": {
-  "already_had": 27,
+  "already_had": 37,
   "book_scan": 0,
   "candidates": 74,
   "exists": true,
   "kept": 10,
   "page": "texas-frontier-files",
   "too_small": 21,
-  "video_ready": 9,
+  "video_ready": 5,
   "wrong_license": 0
  },
  "Caves of Kentucky": {
-  "already_had": 52,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 9,
   "page": "appalachia-unexplained",
   "too_small": 3,
   "video_ready": 9,
   "wrong_license": 6
  },
  "Cemeteries in West Virginia": {
-  "already_had": 66,
+  "already_had": 67,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "appalachia-unexplained",
   "too_small": 11,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Chain gangs": {
@@ -279,21 +279,21 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 6,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Civil Rights Movement": {
-  "already_had": 38,
+  "already_had": 47,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 9,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 32,
-  "video_ready": 5,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Civilian Conservation Corps": {
@@ -308,14 +308,14 @@
   "wrong_license": 0
  },
  "Coal mining in Alabama": {
-  "already_had": 70,
+  "already_had": 79,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 9,
+  "kept": 0,
   "page": "alabama",
   "too_small": 1,
-  "video_ready": 8,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Coal mining in Kentucky": {
@@ -323,32 +323,32 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 10,
   "page": "appalachia",
   "too_small": 7,
-  "video_ready": 0,
+  "video_ready": 8,
   "wrong_license": 0
  },
  "Coal mining in West Virginia": {
-  "already_had": 64,
+  "already_had": 74,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 2,
   "page": "appalachia",
   "too_small": 4,
-  "video_ready": 9,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Coal mining in the United States": {
-  "already_had": 43,
+  "already_had": 47,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 32,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Comanche": {
@@ -407,18 +407,18 @@
   "wrong_license": 0
  },
  "Dyess Air Force Base": {
-  "already_had": 60,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 10,
-  "video_ready": 9,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Ellis Island": {
-  "already_had": 50,
+  "already_had": 55,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -477,10 +477,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 5,
   "page": "appalachia-unexplained",
   "too_small": 8,
-  "video_ready": 0,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Folklore of the United States": {
@@ -506,14 +506,14 @@
   "wrong_license": 0
  },
  "Fort Phantom Hill": {
-  "already_had": 17,
+  "already_had": 23,
   "book_scan": 0,
   "candidates": 25,
   "exists": true,
-  "kept": 6,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 2,
-  "video_ready": 6,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Forts in Texas": {
@@ -616,14 +616,14 @@
   "wrong_license": 0
  },
  "Great Smoky Mountains": {
-  "already_had": 63,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 8,
+  "kept": 0,
   "page": "appalachia-unexplained",
   "too_small": 8,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Harlem Renaissance": {
@@ -638,14 +638,14 @@
   "wrong_license": 0
  },
  "Harriet Tubman": {
-  "already_had": 34,
+  "already_had": 39,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 40,
-  "video_ready": 5,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Historically black colleges and universities": {
@@ -682,18 +682,18 @@
   "wrong_license": 0
  },
  "History of Florida": {
-  "already_had": 32,
+  "already_had": 35,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "florida",
   "too_small": 43,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 1
  },
  "History of Galveston, Texas": {
-  "already_had": 49,
+  "already_had": 59,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -704,14 +704,14 @@
   "wrong_license": 0
  },
  "History of Key West, Florida": {
-  "already_had": 61,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "florida",
   "too_small": 16,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 2
  },
  "History of New Orleans": {
@@ -748,14 +748,14 @@
   "wrong_license": 0
  },
  "Indianola, Texas": {
-  "already_had": 6,
+  "already_had": 13,
   "book_scan": 0,
   "candidates": 19,
   "exists": true,
-  "kept": 7,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 6,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Italian-American culture": {
@@ -836,14 +836,14 @@
   "wrong_license": 0
  },
  "Lower East Side": {
-  "already_had": 49,
+  "already_had": 58,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 9,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 22,
-  "video_ready": 5,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Madam C. J. Walker": {
@@ -858,25 +858,25 @@
   "wrong_license": 2
  },
  "March on Washington for Jobs and Freedom": {
-  "already_had": 57,
+  "already_had": 59,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 21,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Marcus Garvey": {
-  "already_had": 48,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 28,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Marfa lights": {
@@ -917,10 +917,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 10,
   "page": "texas-stand-up",
   "too_small": 14,
-  "video_ready": 0,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Mining disasters in the United States": {
@@ -939,10 +939,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 10,
   "page": "texas-stand-up",
   "too_small": 15,
-  "video_ready": 0,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Missile silos in the United States": {
@@ -968,14 +968,14 @@
   "wrong_license": 0
  },
  "NARA images of African American history": {
-  "already_had": 73,
+  "already_had": 76,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 4,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Negro league baseball": {
@@ -1001,25 +1001,25 @@
   "wrong_license": 0
  },
  "Nuclear weapon test sites of the United States": {
-  "already_had": 4,
+  "already_had": 12,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 8,
+  "kept": 11,
   "page": "texas-stand-up",
   "too_small": 29,
-  "video_ready": 4,
+  "video_ready": 11,
   "wrong_license": 0
  },
  "Orange, Texas": {
-  "already_had": 53,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 8,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 19,
-  "video_ready": 6,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Photographs by Arthur Rothstein": {
@@ -1089,14 +1089,14 @@
   "wrong_license": 0
  },
  "Photographs by Lewis Hine": {
-  "already_had": 45,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 30,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Photographs by Marion Post Wolcott": {
@@ -1122,14 +1122,14 @@
   "wrong_license": 0
  },
  "Photographs of W.E.B. Du Bois": {
-  "already_had": 24,
+  "already_had": 25,
   "book_scan": 0,
   "candidates": 50,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 19,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Plantations in Louisiana": {
@@ -1166,11 +1166,11 @@
   "wrong_license": 0
  },
  "Randolph Field": {
-  "already_had": 7,
+  "already_had": 11,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 69,
   "video_ready": 0,
@@ -1221,14 +1221,14 @@
   "wrong_license": 0
  },
  "SM-65 Atlas": {
-  "already_had": 18,
+  "already_had": 24,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 6,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 56,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Sabine River": {
@@ -1364,14 +1364,14 @@
   "wrong_license": 0
  },
  "The Alamo": {
-  "already_had": 45,
+  "already_had": 55,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 5,
   "page": "texas-frontier-files",
   "too_small": 20,
-  "video_ready": 5,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "The Negro Motorist Green Book": {
@@ -1485,8 +1485,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 1520,
-  "modern_event": 651,
-  "site_today": 520
+  "historical": 1558,
+  "modern_event": 662,
+  "site_today": 527
  }
 }
