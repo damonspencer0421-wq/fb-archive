@@ -48,10 +48,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 10,
   "page": "black-unearthed",
   "too_small": 31,
-  "video_ready": 0,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "African American churches in the United States": {
@@ -66,14 +66,14 @@
   "wrong_license": 0
  },
  "African American soldiers": {
-  "already_had": 51,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 4,
   "page": "black-unearthed",
   "too_small": 16,
-  "video_ready": 4,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "African American soldiers of World War I": {
@@ -231,25 +231,25 @@
   "wrong_license": 0
  },
  "Cattle round-ups and drives": {
-  "already_had": 37,
+  "already_had": 47,
   "book_scan": 0,
   "candidates": 74,
   "exists": true,
-  "kept": 10,
+  "kept": 6,
   "page": "texas-frontier-files",
   "too_small": 21,
   "video_ready": 5,
   "wrong_license": 0
  },
  "Caves of Kentucky": {
-  "already_had": 62,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 9,
+  "kept": 0,
   "page": "appalachia-unexplained",
   "too_small": 3,
-  "video_ready": 9,
+  "video_ready": 0,
   "wrong_license": 6
  },
  "Cemeteries in West Virginia": {
@@ -275,14 +275,14 @@
   "wrong_license": 0
  },
  "Child labor in the United States": {
-  "already_had": 73,
+  "already_had": 74,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 6,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Civil Rights Movement": {
@@ -319,25 +319,25 @@
   "wrong_license": 0
  },
  "Coal mining in Kentucky": {
-  "already_had": 42,
+  "already_had": 52,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 10,
   "page": "appalachia",
   "too_small": 7,
-  "video_ready": 8,
+  "video_ready": 6,
   "wrong_license": 0
  },
  "Coal mining in West Virginia": {
-  "already_had": 74,
+  "already_had": 76,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 4,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Coal mining in the United States": {
@@ -389,10 +389,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 11,
   "page": "texas-frontier-files",
   "too_small": 36,
-  "video_ready": 0,
+  "video_ready": 8,
   "wrong_license": 0
  },
  "Dust Bowl": {
@@ -418,14 +418,14 @@
   "wrong_license": 0
  },
  "Ellis Island": {
-  "already_had": 55,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 19,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Everglades": {
@@ -473,14 +473,14 @@
   "wrong_license": 0
  },
  "Fog": {
-  "already_had": 67,
+  "already_had": 72,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "appalachia-unexplained",
   "too_small": 8,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Folklore of the United States": {
@@ -693,11 +693,11 @@
   "wrong_license": 1
  },
  "History of Galveston, Texas": {
-  "already_had": 59,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 11,
   "video_ready": 0,
@@ -913,14 +913,14 @@
   "wrong_license": 0
  },
  "Military bases in Texas": {
-  "already_had": 33,
+  "already_had": 43,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 10,
   "page": "texas-stand-up",
   "too_small": 14,
-  "video_ready": 2,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Mining disasters in the United States": {
@@ -935,14 +935,14 @@
   "wrong_license": 0
  },
  "Minuteman Missile National Historic Site": {
-  "already_had": 19,
+  "already_had": 29,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 15,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Missile silos in the United States": {
@@ -1001,14 +1001,14 @@
   "wrong_license": 0
  },
  "Nuclear weapon test sites of the United States": {
-  "already_had": 12,
+  "already_had": 23,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 11,
+  "kept": 10,
   "page": "texas-stand-up",
   "too_small": 29,
-  "video_ready": 11,
+  "video_ready": 7,
   "wrong_license": 0
  },
  "Orange, Texas": {
@@ -1364,14 +1364,14 @@
   "wrong_license": 0
  },
  "The Alamo": {
-  "already_had": 55,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "texas-frontier-files",
   "too_small": 20,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "The Negro Motorist Green Book": {
@@ -1485,8 +1485,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 1558,
-  "modern_event": 662,
-  "site_today": 527
+  "historical": 1577,
+  "modern_event": 669,
+  "site_today": 534
  }
 }
