@@ -44,14 +44,14 @@
   "wrong_license": 0
  },
  "African American Civil War history": {
-  "already_had": 28,
+  "already_had": 38,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 9,
   "page": "black-unearthed",
   "too_small": 31,
-  "video_ready": 3,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "African American churches in the United States": {
@@ -66,14 +66,14 @@
   "wrong_license": 0
  },
  "African American soldiers": {
-  "already_had": 60,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 1,
   "page": "black-unearthed",
-  "too_small": 16,
-  "video_ready": 3,
+  "too_small": 17,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "African American soldiers of World War I": {
@@ -231,14 +231,14 @@
   "wrong_license": 0
  },
  "Cattle round-ups and drives": {
-  "already_had": 47,
+  "already_had": 53,
   "book_scan": 0,
   "candidates": 74,
   "exists": true,
-  "kept": 6,
+  "kept": 0,
   "page": "texas-frontier-files",
   "too_small": 21,
-  "video_ready": 5,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Caves of Kentucky": {
@@ -319,7 +319,7 @@
   "wrong_license": 0
  },
  "Coal mining in Kentucky": {
-  "already_had": 52,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -385,14 +385,14 @@
   "wrong_license": 0
  },
  "Cowboys": {
-  "already_had": 12,
+  "already_had": 23,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 11,
+  "kept": 10,
   "page": "texas-frontier-files",
   "too_small": 36,
-  "video_ready": 8,
+  "video_ready": 6,
   "wrong_license": 0
  },
  "Dust Bowl": {
@@ -418,14 +418,14 @@
   "wrong_license": 0
  },
  "Ellis Island": {
-  "already_had": 60,
+  "already_had": 59,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 19,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Everglades": {
@@ -913,14 +913,14 @@
   "wrong_license": 0
  },
  "Military bases in Texas": {
-  "already_had": 43,
+  "already_had": 53,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 10,
   "page": "texas-stand-up",
   "too_small": 14,
-  "video_ready": 1,
+  "video_ready": 7,
   "wrong_license": 0
  },
  "Mining disasters in the United States": {
@@ -939,10 +939,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 11,
   "page": "texas-stand-up",
   "too_small": 15,
-  "video_ready": 0,
+  "video_ready": 8,
   "wrong_license": 0
  },
  "Missile silos in the United States": {
@@ -1001,7 +1001,7 @@
   "wrong_license": 0
  },
  "Nuclear weapon test sites of the United States": {
-  "already_had": 23,
+  "already_had": 33,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -1485,8 +1485,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 1577,
-  "modern_event": 669,
-  "site_today": 534
+  "historical": 1592,
+  "modern_event": 678,
+  "site_today": 548
  }
 }
