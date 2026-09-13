@@ -22,11 +22,11 @@
   "wrong_license": 0
  },
  "Abandoned buildings in Alabama": {
-  "already_had": 49,
+  "already_had": 54,
   "book_scan": 0,
   "candidates": 63,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "alabama",
   "too_small": 9,
   "video_ready": 0,
@@ -308,14 +308,14 @@
   "wrong_license": 0
  },
  "Apalachicola, Florida": {
-  "already_had": 44,
+  "already_had": 56,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 11,
   "page": "florida",
   "too_small": 10,
-  "video_ready": 10,
+  "video_ready": 9,
   "wrong_license": 0
  },
  "Appalachian Mountains": {
@@ -385,14 +385,14 @@
   "wrong_license": 0
  },
  "Barksdale Air Force Base": {
-  "already_had": 15,
+  "already_had": 16,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "louisiana",
   "too_small": 48,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 16
  },
  "Battle of Blair Mountain": {
@@ -495,14 +495,14 @@
   "wrong_license": 0
  },
  "Blue Ridge Parkway": {
-  "already_had": 50,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 8,
   "page": "appalachia",
   "too_small": 12,
-  "video_ready": 7,
+  "video_ready": 5,
   "wrong_license": 0
  },
  "Boarding houses": {
@@ -693,7 +693,7 @@
   "wrong_license": 0
  },
  "Caves of West Virginia": {
-  "already_had": 38,
+  "already_had": 44,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -770,14 +770,14 @@
   "wrong_license": 0
  },
  "Children of Italy": {
-  "already_had": 25,
+  "already_had": 35,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 43,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 2
  },
  "Chisholm Trail": {
@@ -836,7 +836,7 @@
   "wrong_license": 0
  },
  "Clinton Engineer Works": {
-  "already_had": 29,
+  "already_had": 39,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -968,25 +968,25 @@
   "wrong_license": 0
  },
  "Convair B-36 Peacemaker": {
-  "already_had": 38,
+  "already_had": 45,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 7,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 35,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Coral Castle": {
-  "already_had": 69,
+  "already_had": 75,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 6,
+  "kept": 0,
   "page": "florida",
   "too_small": 5,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Cotton gins": {
@@ -1188,14 +1188,14 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 12,
+  "already_had": 22,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 8,
   "page": "florida",
   "too_small": 8,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 2
  },
  "Farm Security Administration": {
@@ -1287,14 +1287,14 @@
   "wrong_license": 0
  },
  "Fort Crockett": {
-  "already_had": 10,
+  "already_had": 12,
   "book_scan": 0,
   "candidates": 16,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 4,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Fort Davis National Historic Site": {
@@ -1727,14 +1727,14 @@
   "wrong_license": 0
  },
  "Hurricane Katrina": {
-  "already_had": 57,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "louisiana",
   "too_small": 19,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Ida B. Wells": {
@@ -1795,11 +1795,11 @@
  "Italian-American culture": {
   "already_had": 11,
   "book_scan": 0,
-  "candidates": 12,
+  "candidates": 14,
   "exists": true,
   "kept": 0,
   "page": "growing-up-italian",
-  "too_small": 1,
+  "too_small": 3,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1848,11 +1848,11 @@
   "wrong_license": 0
  },
  "K-25": {
-  "already_had": 29,
+  "already_had": 39,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "appalachia",
   "too_small": 14,
   "video_ready": 0,
@@ -2013,14 +2013,14 @@
   "wrong_license": 2
  },
  "Mammoth Cave National Park": {
-  "already_had": 45,
+  "already_had": 47,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 1,
   "page": "appalachia-unexplained",
   "too_small": 27,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "March on Washington for Jobs and Freedom": {
@@ -2068,14 +2068,14 @@
   "wrong_license": 0
  },
  "Marshall Space Flight Center": {
-  "already_had": 47,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 11,
   "page": "alabama",
   "too_small": 5,
-  "video_ready": 9,
+  "video_ready": 10,
   "wrong_license": 0
  },
  "Matagorda Bay": {
@@ -2255,14 +2255,14 @@
   "wrong_license": 0
  },
  "Naval Air Station Key West": {
-  "already_had": 69,
+  "already_had": 76,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 7,
+  "kept": 0,
   "page": "florida",
   "too_small": 4,
-  "video_ready": 7,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Negro league baseball": {
@@ -2354,7 +2354,7 @@
   "wrong_license": 0
  },
  "Oak Ridge, Tennessee": {
-  "already_had": 34,
+  "already_had": 44,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -2380,10 +2380,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 11,
   "page": "georgia",
   "too_small": 11,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "One-room schoolhouses": {
@@ -2398,14 +2398,14 @@
   "wrong_license": 0
  },
  "Operation Paperclip": {
-  "already_had": 38,
+  "already_had": 46,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 8,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 34,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Orange, Texas": {
@@ -2442,11 +2442,11 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 67,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 5,
   "video_ready": 0,
@@ -2464,14 +2464,14 @@
   "wrong_license": 0
  },
  "Pantex Plant": {
-  "already_had": 30,
+  "already_had": 40,
   "book_scan": 0,
   "candidates": 57,
   "exists": true,
   "kept": 10,
   "page": "texas-stand-up",
   "too_small": 7,
-  "video_ready": 9,
+  "video_ready": 10,
   "wrong_license": 0
  },
  "Pensacola, Florida": {
@@ -2644,10 +2644,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 7,
   "page": "texas-stand-up",
   "too_small": 50,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Pullman porters": {
@@ -2882,13 +2882,13 @@
   "wrong_license": 0
  },
  "Selma to Montgomery marches": {
-  "already_had": 42,
+  "already_had": 41,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "alabama",
-  "too_small": 38,
+  "too_small": 39,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2926,11 +2926,11 @@
   "wrong_license": 0
  },
  "Sherman's March to the Sea": {
-  "already_had": 52,
+  "already_had": 62,
   "book_scan": 3,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 2,
   "page": "georgia",
   "too_small": 13,
   "video_ready": 0,
@@ -2970,14 +2970,14 @@
   "wrong_license": 0
  },
  "Silver Springs, Florida": {
-  "already_had": 55,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 8,
   "page": "florida",
   "too_small": 7,
-  "video_ready": 10,
+  "video_ready": 8,
   "wrong_license": 0
  },
  "Slavery in the United States": {
@@ -3124,14 +3124,14 @@
   "wrong_license": 0
  },
  "Tennessee Valley Authority": {
-  "already_had": 56,
+  "already_had": 66,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 5,
   "page": "alabama",
   "too_small": 9,
-  "video_ready": 10,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Texas Hill Country": {
@@ -3190,11 +3190,11 @@
   "wrong_license": 0
  },
  "Texas in the 20th century": {
-  "already_had": 34,
+  "already_had": 41,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 7,
+  "kept": 0,
   "page": "texas-unearthed",
   "too_small": 39,
   "video_ready": 0,
@@ -3300,11 +3300,11 @@
   "wrong_license": 0
  },
  "Tybee Island": {
-  "already_had": 68,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "georgia",
   "too_small": 9,
   "video_ready": 0,
@@ -3337,10 +3337,10 @@
   "book_scan": 0,
   "candidates": 35,
   "exists": true,
-  "kept": 0,
+  "kept": 8,
   "page": "florida",
   "too_small": 18,
-  "video_ready": 0,
+  "video_ready": 5,
   "wrong_license": 0
  },
  "West Virginia": {
@@ -3399,19 +3399,19 @@
   "wrong_license": 0
  },
  "Y-12 National Security Complex": {
-  "already_had": 45,
+  "already_had": 46,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 34,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 3689,
-  "modern_event": 3608,
-  "site_today": 1766
+  "historical": 3733,
+  "modern_event": 3627,
+  "site_today": 1779
  }
 }
