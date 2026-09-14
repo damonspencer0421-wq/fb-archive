@@ -112,11 +112,11 @@
  "African American churches in the United States": {
   "already_had": 60,
   "book_scan": 1,
-  "candidates": 80,
+  "candidates": 79,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 19,
+  "too_small": 18,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -308,14 +308,14 @@
   "wrong_license": 0
  },
  "Apalachicola, Florida": {
-  "already_had": 56,
+  "already_had": 67,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 11,
+  "kept": 3,
   "page": "florida",
   "too_small": 10,
-  "video_ready": 9,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Appalachian Mountains": {
@@ -495,14 +495,14 @@
   "wrong_license": 0
  },
  "Blue Ridge Parkway": {
-  "already_had": 60,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 8,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 12,
-  "video_ready": 5,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Boarding houses": {
@@ -693,14 +693,14 @@
   "wrong_license": 0
  },
  "Caves of West Virginia": {
-  "already_had": 44,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 6,
+  "kept": 3,
   "page": "appalachia-unexplained",
   "too_small": 23,
-  "video_ready": 6,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Cemeteries in Kentucky": {
@@ -836,14 +836,14 @@
   "wrong_license": 0
  },
  "Clinton Engineer Works": {
-  "already_had": 39,
+  "already_had": 49,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 10,
   "page": "appalachia",
   "too_small": 19,
-  "video_ready": 8,
+  "video_ready": 9,
   "wrong_license": 0
  },
  "Coal miners": {
@@ -1188,11 +1188,11 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 22,
+  "already_had": 30,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 8,
+  "kept": 10,
   "page": "florida",
   "too_small": 8,
   "video_ready": 0,
@@ -1507,14 +1507,14 @@
   "wrong_license": 0
  },
  "Grocery stores": {
-  "already_had": 41,
+  "already_had": 40,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 39,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Gullah": {
@@ -1848,11 +1848,11 @@
   "wrong_license": 0
  },
  "K-25": {
-  "already_had": 39,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 14,
   "video_ready": 0,
@@ -1949,11 +1949,11 @@
  "Louisiana": {
   "already_had": 14,
   "book_scan": 0,
-  "candidates": 26,
+  "candidates": 27,
   "exists": true,
   "kept": 0,
   "page": "louisiana",
-  "too_small": 12,
+  "too_small": 13,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2017,10 +2017,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 6,
   "page": "appalachia-unexplained",
   "too_small": 27,
-  "video_ready": 1,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "March on Washington for Jobs and Freedom": {
@@ -2068,14 +2068,14 @@
   "wrong_license": 0
  },
  "Marshall Space Flight Center": {
-  "already_had": 57,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 11,
+  "kept": 6,
   "page": "alabama",
   "too_small": 5,
-  "video_ready": 10,
+  "video_ready": 6,
   "wrong_license": 0
  },
  "Matagorda Bay": {
@@ -2354,7 +2354,7 @@
   "wrong_license": 0
  },
  "Oak Ridge, Tennessee": {
-  "already_had": 44,
+  "already_had": 54,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -2376,14 +2376,14 @@
   "wrong_license": 0
  },
  "Okefenokee Swamp": {
-  "already_had": 7,
+  "already_had": 18,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 11,
   "page": "georgia",
   "too_small": 11,
-  "video_ready": 1,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "One-room schoolhouses": {
@@ -2464,14 +2464,14 @@
   "wrong_license": 0
  },
  "Pantex Plant": {
-  "already_had": 40,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 57,
   "exists": true,
-  "kept": 10,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 7,
-  "video_ready": 10,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Pensacola, Florida": {
@@ -2629,25 +2629,25 @@
   "wrong_license": 0
  },
  "Prisons in Texas": {
-  "already_had": 52,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-unearthed",
   "too_small": 28,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Project Nike": {
-  "already_had": 12,
+  "already_had": 19,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 7,
+  "kept": 9,
   "page": "texas-stand-up",
   "too_small": 50,
-  "video_ready": 1,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Pullman porters": {
@@ -2706,11 +2706,11 @@
   "wrong_license": 0
  },
  "Red River War": {
-  "already_had": 52,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-frontier-files",
   "too_small": 28,
   "video_ready": 0,
@@ -2926,11 +2926,11 @@
   "wrong_license": 0
  },
  "Sherman's March to the Sea": {
-  "already_had": 62,
+  "already_had": 64,
   "book_scan": 3,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "georgia",
   "too_small": 13,
   "video_ready": 0,
@@ -2970,14 +2970,14 @@
   "wrong_license": 0
  },
  "Silver Springs, Florida": {
-  "already_had": 65,
+  "already_had": 73,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 8,
+  "kept": 0,
   "page": "florida",
   "too_small": 7,
-  "video_ready": 8,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Slavery in the United States": {
@@ -3124,14 +3124,14 @@
   "wrong_license": 0
  },
  "Tennessee Valley Authority": {
-  "already_had": 66,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "alabama",
   "too_small": 9,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Texas Hill Country": {
@@ -3333,14 +3333,14 @@
   "wrong_license": 0
  },
  "Weeki Wachee Springs": {
-  "already_had": 9,
+  "already_had": 17,
   "book_scan": 0,
   "candidates": 35,
   "exists": true,
-  "kept": 8,
+  "kept": 0,
   "page": "florida",
   "too_small": 18,
-  "video_ready": 5,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "West Virginia": {
@@ -3410,8 +3410,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 3733,
-  "modern_event": 3627,
-  "site_today": 1779
+  "historical": 3745,
+  "modern_event": 3650,
+  "site_today": 1785
  }
 }
