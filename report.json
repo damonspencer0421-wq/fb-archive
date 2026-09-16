@@ -209,11 +209,11 @@
   "wrong_license": 0
  },
  "Airship hangars in the United States": {
-  "already_had": 58,
+  "already_had": 59,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 21,
   "video_ready": 0,
@@ -528,11 +528,11 @@
   "wrong_license": 0
  },
  "Booker T. Washington": {
-  "already_had": 33,
+  "already_had": 32,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 47,
   "video_ready": 0,
@@ -836,14 +836,14 @@
   "wrong_license": 0
  },
  "Clinton Engineer Works": {
-  "already_had": 59,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 19,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Coal miners": {
@@ -1188,14 +1188,14 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 40,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 13,
   "page": "florida",
   "too_small": 8,
-  "video_ready": 0,
+  "video_ready": 4,
   "wrong_license": 2
  },
  "Farm Security Administration": {
@@ -1848,14 +1848,14 @@
   "wrong_license": 0
  },
  "K-25": {
-  "already_had": 60,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 4,
   "page": "appalachia",
   "too_small": 14,
-  "video_ready": 0,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Killeen, Texas": {
@@ -2035,14 +2035,14 @@
   "wrong_license": 0
  },
  "Marcus Garvey": {
-  "already_had": 51,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 28,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Mardi Gras": {
@@ -2178,13 +2178,13 @@
   "wrong_license": 0
  },
  "Mobile, Alabama": {
-  "already_had": 46,
+  "already_had": 45,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "alabama",
-  "too_small": 34,
+  "too_small": 35,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2303,10 +2303,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
-  "too_small": 39,
-  "video_ready": 0,
+  "too_small": 38,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Nike missile sites": {
@@ -2354,14 +2354,14 @@
   "wrong_license": 0
  },
  "Oak Ridge, Tennessee": {
-  "already_had": 64,
+  "already_had": 74,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 5,
   "page": "appalachia",
   "too_small": 1,
-  "video_ready": 10,
+  "video_ready": 5,
   "wrong_license": 0
  },
  "Oil wells in Texas": {
@@ -2376,14 +2376,14 @@
   "wrong_license": 0
  },
  "Okefenokee Swamp": {
-  "already_had": 29,
+  "already_had": 39,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 21,
   "page": "georgia",
   "too_small": 11,
-  "video_ready": 7,
+  "video_ready": 8,
   "wrong_license": 0
  },
  "One-room schoolhouses": {
@@ -2640,14 +2640,14 @@
   "wrong_license": 0
  },
  "Project Nike": {
-  "already_had": 28,
+  "already_had": 29,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 50,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Pullman porters": {
@@ -3344,11 +3344,11 @@
   "wrong_license": 0
  },
  "West Virginia": {
-  "already_had": 37,
+  "already_had": 32,
   "book_scan": 0,
-  "candidates": 64,
+  "candidates": 60,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "appalachia",
   "too_small": 27,
   "video_ready": 0,
@@ -3410,8 +3410,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 3747,
-  "modern_event": 3667,
+  "historical": 3749,
+  "modern_event": 3686,
   "site_today": 1786
  }
 }
