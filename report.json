@@ -429,14 +429,14 @@
   "wrong_license": 0
  },
  "Big Bend National Park": {
-  "already_had": 79,
+  "already_had": 78,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 0,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Big Inch": {
@@ -528,11 +528,11 @@
   "wrong_license": 0
  },
  "Booker T. Washington": {
-  "already_had": 32,
+  "already_had": 33,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 47,
   "video_ready": 0,
@@ -1188,14 +1188,14 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 50,
+  "already_had": 63,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 13,
+  "kept": 7,
   "page": "florida",
   "too_small": 8,
-  "video_ready": 4,
+  "video_ready": 6,
   "wrong_license": 2
  },
  "Farm Security Administration": {
@@ -1247,7 +1247,7 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "florida",
   "too_small": 27,
   "video_ready": 0,
@@ -1848,14 +1848,14 @@
   "wrong_license": 0
  },
  "K-25": {
-  "already_had": 62,
+  "already_had": 66,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 14,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Killeen, Texas": {
@@ -2035,14 +2035,14 @@
   "wrong_license": 0
  },
  "Marcus Garvey": {
-  "already_had": 50,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 28,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Mardi Gras": {
@@ -2299,14 +2299,14 @@
   "wrong_license": 0
  },
  "Newsboys": {
-  "already_had": 37,
+  "already_had": 38,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 38,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Nike missile sites": {
@@ -2354,14 +2354,14 @@
   "wrong_license": 0
  },
  "Oak Ridge, Tennessee": {
-  "already_had": 74,
+  "already_had": 79,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 1,
-  "video_ready": 5,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Oil wells in Texas": {
@@ -2376,14 +2376,14 @@
   "wrong_license": 0
  },
  "Okefenokee Swamp": {
-  "already_had": 39,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 21,
+  "kept": 9,
   "page": "georgia",
   "too_small": 11,
-  "video_ready": 8,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "One-room schoolhouses": {
@@ -2981,13 +2981,13 @@
   "wrong_license": 0
  },
  "Slavery in the United States": {
-  "already_had": 37,
+  "already_had": 38,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 43,
+  "too_small": 42,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3344,11 +3344,11 @@
   "wrong_license": 0
  },
  "West Virginia": {
-  "already_had": 32,
+  "already_had": 33,
   "book_scan": 0,
   "candidates": 60,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 27,
   "video_ready": 0,
@@ -3411,7 +3411,7 @@
  },
  "_era_video_ready": {
   "historical": 3749,
-  "modern_event": 3686,
-  "site_today": 1786
+  "modern_event": 3695,
+  "site_today": 1787
  }
 }
