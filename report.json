@@ -308,13 +308,13 @@
   "wrong_license": 0
  },
  "Apalachicola, Florida": {
-  "already_had": 70,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "florida",
-  "too_small": 10,
+  "too_small": 11,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -429,14 +429,14 @@
   "wrong_license": 0
  },
  "Big Bend National Park": {
-  "already_had": 78,
+  "already_had": 79,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 0,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Big Inch": {
@@ -1188,14 +1188,14 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 63,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 7,
+  "kept": 0,
   "page": "florida",
   "too_small": 8,
-  "video_ready": 6,
+  "video_ready": 0,
   "wrong_license": 2
  },
  "Farm Security Administration": {
@@ -1243,11 +1243,11 @@
   "wrong_license": 0
  },
  "Florida Keys": {
-  "already_had": 49,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "florida",
   "too_small": 27,
   "video_ready": 0,
@@ -2376,14 +2376,14 @@
   "wrong_license": 0
  },
  "Okefenokee Swamp": {
-  "already_had": 60,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 9,
+  "kept": 0,
   "page": "georgia",
   "too_small": 11,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "One-room schoolhouses": {
@@ -2827,14 +2827,14 @@
   "wrong_license": 0
  },
  "San Antonio, Texas": {
-  "already_had": 70,
+  "already_had": 66,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 4,
   "page": "lonestar-legacy",
   "too_small": 10,
-  "video_ready": 0,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Savannah, Georgia": {
@@ -3411,7 +3411,7 @@
  },
  "_era_video_ready": {
   "historical": 3749,
-  "modern_event": 3695,
+  "modern_event": 3699,
   "site_today": 1787
  }
 }
