@@ -2827,15 +2827,15 @@
   "wrong_license": 0
  },
  "San Antonio, Texas": {
-  "already_had": 66,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 10,
-  "video_ready": 4,
-  "wrong_license": 0
+  "video_ready": 0,
+  "wrong_license": 1
  },
  "Savannah, Georgia": {
   "already_had": 62,
