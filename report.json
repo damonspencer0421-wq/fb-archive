@@ -264,13 +264,13 @@
   "wrong_license": 0
  },
  "Amarillo, Texas": {
-  "already_had": 56,
+  "already_had": 55,
   "book_scan": 0,
-  "candidates": 76,
+  "candidates": 73,
   "exists": true,
   "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 20,
+  "too_small": 18,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1232,13 +1232,13 @@
   "wrong_license": 1
  },
  "Florida East Coast Railway": {
-  "already_had": 65,
+  "already_had": 63,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 4,
   "page": "florida",
-  "too_small": 15,
+  "too_small": 13,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1441,11 +1441,11 @@
   "wrong_license": 0
  },
  "Ghost towns in West Virginia": {
-  "already_had": 23,
+  "already_had": 22,
   "book_scan": 0,
   "candidates": 25,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "appalachia-unexplained",
   "too_small": 2,
   "video_ready": 0,
@@ -2706,11 +2706,11 @@
   "wrong_license": 0
  },
  "Red River War": {
-  "already_had": 52,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-frontier-files",
   "too_small": 28,
   "video_ready": 0,
@@ -2827,15 +2827,15 @@
   "wrong_license": 0
  },
  "San Antonio, Texas": {
-  "already_had": 69,
+  "already_had": 56,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 12,
   "page": "lonestar-legacy",
-  "too_small": 10,
-  "video_ready": 0,
-  "wrong_license": 1
+  "too_small": 8,
+  "video_ready": 12,
+  "wrong_license": 4
  },
  "Savannah, Georgia": {
   "already_had": 62,
@@ -3411,7 +3411,7 @@
  },
  "_era_video_ready": {
   "historical": 3749,
-  "modern_event": 3699,
+  "modern_event": 3711,
   "site_today": 1787
  }
 }
