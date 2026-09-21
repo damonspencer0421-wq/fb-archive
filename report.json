@@ -77,13 +77,13 @@
   "wrong_license": 0
  },
  "Abandoned mines": {
-  "already_had": 65,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "appalachia-unexplained",
-  "too_small": 14,
+  "too_small": 15,
   "video_ready": 0,
   "wrong_license": 1
  },
@@ -1232,11 +1232,11 @@
   "wrong_license": 1
  },
  "Florida East Coast Railway": {
-  "already_had": 63,
+  "already_had": 67,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "florida",
   "too_small": 13,
   "video_ready": 0,
@@ -1364,11 +1364,11 @@
   "wrong_license": 0
  },
  "Frederick Douglass": {
-  "already_had": 35,
+  "already_had": 34,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 43,
   "video_ready": 0,
@@ -1441,11 +1441,11 @@
   "wrong_license": 0
  },
  "Ghost towns in West Virginia": {
-  "already_had": 22,
+  "already_had": 23,
   "book_scan": 0,
   "candidates": 25,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "appalachia-unexplained",
   "too_small": 2,
   "video_ready": 0,
@@ -2706,11 +2706,11 @@
   "wrong_license": 0
  },
  "Red River War": {
-  "already_had": 51,
+  "already_had": 52,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-frontier-files",
   "too_small": 28,
   "video_ready": 0,
@@ -2827,15 +2827,15 @@
   "wrong_license": 0
  },
  "San Antonio, Texas": {
-  "already_had": 56,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 12,
+  "kept": 3,
   "page": "lonestar-legacy",
   "too_small": 8,
-  "video_ready": 12,
-  "wrong_license": 4
+  "video_ready": 3,
+  "wrong_license": 0
  },
  "Savannah, Georgia": {
   "already_had": 62,
@@ -3091,13 +3091,13 @@
   "wrong_license": 0
  },
  "Tampa, Florida": {
-  "already_had": 34,
+  "already_had": 31,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "florida",
-  "too_small": 46,
+  "too_small": 49,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3411,7 +3411,7 @@
  },
  "_era_video_ready": {
   "historical": 3749,
-  "modern_event": 3711,
+  "modern_event": 3714,
   "site_today": 1787
  }
 }
