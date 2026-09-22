@@ -143,14 +143,14 @@
   "wrong_license": 0
  },
  "African Americans": {
-  "already_had": 77,
+  "already_had": 76,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-unearthed",
   "too_small": 2,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "African Americans in Texas": {
@@ -1188,15 +1188,15 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 70,
+  "already_had": 46,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 24,
   "page": "florida",
-  "too_small": 8,
-  "video_ready": 0,
-  "wrong_license": 2
+  "too_small": 10,
+  "video_ready": 19,
+  "wrong_license": 0
  },
  "Farm Security Administration": {
   "already_had": 74,
@@ -1364,11 +1364,11 @@
   "wrong_license": 0
  },
  "Frederick Douglass": {
-  "already_had": 34,
+  "already_had": 35,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 43,
   "video_ready": 0,
@@ -1606,11 +1606,11 @@
   "wrong_license": 1
  },
  "History of Galveston, Texas": {
-  "already_had": 69,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
   "too_small": 11,
   "video_ready": 0,
@@ -2827,14 +2827,14 @@
   "wrong_license": 0
  },
  "San Antonio, Texas": {
-  "already_had": 69,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 8,
-  "video_ready": 3,
+  "too_small": 10,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Savannah, Georgia": {
@@ -3410,8 +3410,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 3749,
-  "modern_event": 3714,
-  "site_today": 1787
+  "historical": 3750,
+  "modern_event": 3730,
+  "site_today": 1790
  }
 }
