@@ -1188,14 +1188,14 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 46,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 24,
+  "kept": 0,
   "page": "florida",
   "too_small": 10,
-  "video_ready": 19,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Farm Security Administration": {
@@ -1421,11 +1421,11 @@
  "Georgia (U.S. state)": {
   "already_had": 4,
   "book_scan": 0,
-  "candidates": 35,
+  "candidates": 28,
   "exists": true,
-  "kept": 0,
+  "kept": 10,
   "page": "georgia",
-  "too_small": 31,
+  "too_small": 6,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1606,11 +1606,11 @@
   "wrong_license": 1
  },
  "History of Galveston, Texas": {
-  "already_had": 68,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 11,
   "video_ready": 0,
@@ -2299,13 +2299,13 @@
   "wrong_license": 0
  },
  "Newsboys": {
-  "already_had": 38,
+  "already_had": 37,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "growing-up-italian",
-  "too_small": 38,
+  "too_small": 39,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2442,14 +2442,14 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 69,
+  "already_had": 63,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 6,
   "page": "growing-up-italian",
   "too_small": 5,
-  "video_ready": 0,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Palo Duro Canyon": {
@@ -2838,13 +2838,13 @@
   "wrong_license": 0
  },
  "Savannah, Georgia": {
-  "already_had": 62,
+  "already_had": 63,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "georgia",
-  "too_small": 18,
+  "too_small": 17,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2871,13 +2871,13 @@
   "wrong_license": 0
  },
  "Segregation in the United States": {
-  "already_had": 53,
+  "already_had": 54,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "texas-unearthed",
-  "too_small": 24,
+  "too_small": 23,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3058,11 +3058,11 @@
   "wrong_license": 0
  },
  "Steamboats": {
-  "already_had": 62,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "louisiana",
   "too_small": 18,
   "video_ready": 0,
@@ -3410,8 +3410,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 3750,
+  "historical": 3751,
   "modern_event": 3730,
-  "site_today": 1790
+  "site_today": 1794
  }
 }
