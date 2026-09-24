@@ -143,14 +143,14 @@
   "wrong_license": 0
  },
  "African Americans": {
-  "already_had": 76,
+  "already_had": 77,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-unearthed",
   "too_small": 2,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "African Americans in Texas": {
@@ -1419,11 +1419,11 @@
   "wrong_license": 0
  },
  "Georgia (U.S. state)": {
-  "already_had": 4,
+  "already_had": 14,
   "book_scan": 0,
   "candidates": 28,
   "exists": true,
-  "kept": 10,
+  "kept": 8,
   "page": "georgia",
   "too_small": 6,
   "video_ready": 0,
@@ -2442,14 +2442,14 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 63,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 6,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 5,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Palo Duro Canyon": {
@@ -2959,11 +2959,11 @@
   "wrong_license": 0
  },
  "Sicily": {
-  "already_had": 65,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 12,
   "video_ready": 0,
@@ -3058,11 +3058,11 @@
   "wrong_license": 0
  },
  "Steamboats": {
-  "already_had": 61,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "louisiana",
   "too_small": 18,
   "video_ready": 0,
