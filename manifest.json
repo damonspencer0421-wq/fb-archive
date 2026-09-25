@@ -105633,6 +105633,22 @@
   "title": "File:Part of the restored tipple and conveyor structure at Nuttallburg, West Virginia, a ghost town that was once one of about 50 places that sprang up in the deep West Virginia forests along the New River LCCN2015634260.tif",
   "year": 2015
  },
+ "768466683fb2": {
+  "category": "Tarpon Springs, Florida",
+  "credit": "https://web.archive.org/web/20161016121937/http://www.panoramio.com/photo/46293350",
+  "date": "Taken on\u00a031 December 2010",
+  "description": "house",
+  "era": "site_today",
+  "license": "CC BY 3.0",
+  "orig_height": 3056,
+  "orig_width": 4592,
+  "page": "florida",
+  "path": "images/florida/768466683fb2.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:House_-_panoramio_(12).jpg",
+  "title": "File:House - panoramio (12).jpg",
+  "video_ready": true,
+  "year": 2010
+ },
  "7688e879f7e6": {
   "category": "Gullah",
   "credit": "Library of Congress\n\nCatalog: http://lccn.loc.gov/2010651631\nImage download: http://cdn.loc.gov/service/pnp/ppmsca/11400/11400v.jpg\nOriginal url: https://www.loc.gov/pictures/item/2010651631/",
@@ -152539,6 +152555,22 @@
   "video_ready": false,
   "year": 2009
  },
+ "ab6bf5ee2789": {
+  "category": "St. Augustine, Florida",
+  "credit": "Own work",
+  "date": "2024-01-02 00:27:23",
+  "description": "San Agustin, Florida",
+  "era": "modern_event",
+  "license": "CC BY 4.0",
+  "orig_height": 3824,
+  "orig_width": 5728,
+  "page": "florida",
+  "path": "images/florida/ab6bf5ee2789.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:San_Agust%C3%ADn_FL.jpg",
+  "title": "File:San Agust\u00edn FL.jpg",
+  "video_ready": true,
+  "year": 2024
+ },
  "ab6f0251da4e": {
   "category": "Mardi Gras",
   "credit": "HSI at Mardi Gras",
@@ -175517,6 +175549,22 @@
   "title": "File:Watertoren Spinnerij Almelo 1914.jpg",
   "video_ready": false,
   "year": 1914
+ },
+ "c5f7424f11a0": {
+  "category": "Airship hangars",
+  "credit": "Found among the old negatives of my father's photos. He took it on a bicycle tour through Germany in 1936. At that time the Hindenburg Zeppelin was in the hall showing the olympic rings of 1936. I also have photos of that.",
+  "date": "1936-08-31",
+  "description": "Zeppelin hangar in Frankfurt 1936, the Hindenburg airship was inside at that time.",
+  "era": "historical",
+  "license": "CC BY 4.0",
+  "orig_height": 1951,
+  "orig_width": 2888,
+  "page": "texas-stand-up",
+  "path": "images/texas-stand-up/c5f7424f11a0.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Zeppelinhangar1936.jpg",
+  "title": "File:Zeppelinhangar1936.jpg",
+  "video_ready": true,
+  "year": 1936
  },
  "c5fbd41fdda4": {
   "category": "Everglades",

@@ -202,10 +202,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
-  "too_small": 46,
-  "video_ready": 0,
+  "too_small": 45,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Airship hangars in the United States": {
@@ -1419,11 +1419,11 @@
   "wrong_license": 0
  },
  "Georgia (U.S. state)": {
-  "already_had": 14,
+  "already_had": 22,
   "book_scan": 0,
   "candidates": 28,
   "exists": true,
-  "kept": 8,
+  "kept": 0,
   "page": "georgia",
   "too_small": 6,
   "video_ready": 0,
@@ -2959,11 +2959,11 @@
   "wrong_license": 0
  },
  "Sicily": {
-  "already_had": 64,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 12,
   "video_ready": 0,
@@ -3036,14 +3036,14 @@
   "wrong_license": 0
  },
  "St. Augustine, Florida": {
-  "already_had": 57,
+  "already_had": 56,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "florida",
   "too_small": 23,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Stagecoaches": {
@@ -3106,11 +3106,11 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "florida",
   "too_small": 30,
-  "video_ready": 0,
-  "wrong_license": 3
+  "video_ready": 1,
+  "wrong_license": 2
  },
  "Tenement houses in New York City": {
   "already_had": 52,
@@ -3410,8 +3410,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 3751,
-  "modern_event": 3730,
-  "site_today": 1794
+  "historical": 3752,
+  "modern_event": 3731,
+  "site_today": 1795
  }
 }
