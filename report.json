@@ -209,14 +209,14 @@
   "wrong_license": 0
  },
  "Airship hangars in the United States": {
-  "already_had": 59,
+  "already_had": 30,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 24,
   "page": "texas-stand-up",
-  "too_small": 21,
-  "video_ready": 0,
+  "too_small": 26,
+  "video_ready": 16,
   "wrong_license": 0
  },
  "Airships": {
@@ -275,80 +275,80 @@
   "wrong_license": 0
  },
  "Anglo-Saxon Chronicle": {
-  "already_had": 0,
+  "already_had": 6,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 67,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Anglo-Saxon architecture": {
-  "already_had": 0,
+  "already_had": 14,
   "book_scan": 0,
   "candidates": 27,
   "exists": true,
-  "kept": 14,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 12,
-  "video_ready": 9,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Anglo-Saxon art": {
-  "already_had": 0,
+  "already_had": 17,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 14,
+  "kept": 8,
   "page": "anglo-saxon",
   "too_small": 53,
-  "video_ready": 6,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Anglo-Saxon brooches": {
-  "already_had": 1,
+  "already_had": 38,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 34,
+  "kept": 8,
   "page": "anglo-saxon",
   "too_small": 27,
-  "video_ready": 21,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Anglo-Saxon coins": {
-  "already_had": 1,
+  "already_had": 19,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 18,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 61,
-  "video_ready": 8,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Anglo-Saxon jewellery": {
-  "already_had": 9,
+  "already_had": 49,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 32,
+  "kept": 6,
   "page": "anglo-saxon",
   "too_small": 25,
-  "video_ready": 23,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Anglo-Saxons": {
-  "already_had": 0,
+  "already_had": 15,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 14,
+  "kept": 9,
   "page": "anglo-saxon",
   "too_small": 37,
-  "video_ready": 2,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Anniston Army Depot": {
@@ -451,14 +451,14 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 0,
+  "already_had": 43,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 43,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 35,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Bakeries": {
@@ -473,14 +473,14 @@
   "wrong_license": 0
  },
  "Banks in Texas": {
-  "already_had": 1,
+  "already_had": 38,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 35,
+  "kept": 10,
   "page": "lonestar-legacy",
   "too_small": 22,
-  "video_ready": 26,
+  "video_ready": 5,
   "wrong_license": 1
  },
  "Barksdale Air Force Base": {
@@ -495,14 +495,14 @@
   "wrong_license": 16
  },
  "Barns in Texas": {
-  "already_had": 2,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 59,
   "exists": true,
-  "kept": 55,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 2,
-  "video_ready": 55,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Battle of Blair Mountain": {
@@ -517,25 +517,25 @@
   "wrong_license": 0
  },
  "Battle of Hastings": {
-  "already_had": 1,
+  "already_had": 46,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 43,
+  "kept": 5,
   "page": "anglo-saxon",
   "too_small": 27,
-  "video_ready": 26,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Bayeux Tapestry": {
-  "already_had": 13,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 66,
   "exists": true,
-  "kept": 37,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 14,
-  "video_ready": 24,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Bayous": {
@@ -561,25 +561,25 @@
   "wrong_license": 0
  },
  "Bede": {
-  "already_had": 0,
+  "already_had": 25,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 25,
+  "kept": 3,
   "page": "anglo-saxon",
   "too_small": 48,
-  "video_ready": 13,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Beowulf": {
-  "already_had": 0,
+  "already_had": 21,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 21,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 59,
-  "video_ready": 5,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Big Bend National Park": {
@@ -682,14 +682,14 @@
   "wrong_license": 0
  },
  "Book of Kells": {
-  "already_had": 0,
+  "already_had": 16,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 16,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 57,
-  "video_ready": 10,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Booker T. Washington": {
@@ -704,14 +704,14 @@
   "wrong_license": 0
  },
  "Bridges in Texas": {
-  "already_had": 1,
+  "already_had": 59,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 58,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 21,
-  "video_ready": 46,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Brooks Air Force Base": {
@@ -880,14 +880,14 @@
   "wrong_license": 0
  },
  "Celtic crosses": {
-  "already_had": 0,
+  "already_had": 47,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 47,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 33,
-  "video_ready": 34,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Cemeteries in Kentucky": {
@@ -913,14 +913,14 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 2,
+  "already_had": 55,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 55,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 50,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Cemeteries in West Virginia": {
@@ -1188,14 +1188,14 @@
   "wrong_license": 0
  },
  "Corpus Christi, Texas": {
-  "already_had": 1,
+  "already_had": 34,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 33,
+  "kept": 9,
   "page": "lonestar-legacy",
   "too_small": 25,
-  "video_ready": 28,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Cotton gins": {
@@ -1254,14 +1254,14 @@
   "wrong_license": 0
  },
  "County courthouses in Texas": {
-  "already_had": 1,
+  "already_had": 54,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 53,
+  "kept": 12,
   "page": "lonestar-legacy",
   "too_small": 9,
-  "video_ready": 33,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Cowboys": {
@@ -1298,14 +1298,14 @@
   "wrong_license": 0
  },
  "Dance halls": {
-  "already_had": 0,
+  "already_had": 39,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 39,
+  "kept": 9,
   "page": "lonestar-legacy",
   "too_small": 30,
-  "video_ready": 26,
+  "video_ready": 2,
   "wrong_license": 1
  },
  "Davis-Monthan Air Force Base": {
@@ -1320,14 +1320,14 @@
   "wrong_license": 0
  },
  "Domesday Book": {
-  "already_had": 0,
+  "already_had": 15,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 15,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 65,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Dust Bowl": {
@@ -1364,14 +1364,14 @@
   "wrong_license": 0
  },
  "El Paso, Texas": {
-  "already_had": 0,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 51,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 12,
-  "video_ready": 40,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Ellis Island": {
@@ -1474,14 +1474,14 @@
   "wrong_license": 0
  },
  "Farms in Texas": {
-  "already_had": 0,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 69,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 7,
-  "video_ready": 55,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Fishing boats of Italy": {
@@ -1496,11 +1496,11 @@
   "wrong_license": 1
  },
  "Florida East Coast Railway": {
-  "already_had": 65,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "florida",
   "too_small": 12,
   "video_ready": 0,
@@ -1639,14 +1639,14 @@
   "wrong_license": 0
  },
  "Fredericksburg, Texas": {
-  "already_had": 6,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 51,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 22,
-  "video_ready": 35,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Freedmen": {
@@ -1683,14 +1683,14 @@
   "wrong_license": 0
  },
  "General stores": {
-  "already_had": 0,
+  "already_had": 31,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 31,
+  "kept": 9,
   "page": "lonestar-legacy",
   "too_small": 40,
-  "video_ready": 20,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "George Washington Carver": {
@@ -1738,14 +1738,14 @@
   "wrong_license": 0
  },
  "Gokstad ship": {
-  "already_had": 0,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 68,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 12,
-  "video_ready": 53,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Great Migration (African American)": {
@@ -2002,25 +2002,25 @@
   "wrong_license": 0
  },
  "Hotels in Texas": {
-  "already_had": 3,
+  "already_had": 63,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 60,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 16,
-  "video_ready": 55,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Houses in Texas": {
-  "already_had": 1,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 49,
+  "kept": 10,
   "page": "lonestar-legacy",
   "too_small": 8,
-  "video_ready": 33,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Huntsville, Alabama": {
@@ -2068,14 +2068,14 @@
   "wrong_license": 0
  },
  "Illuminated manuscripts": {
-  "already_had": 0,
+  "already_had": 15,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 15,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 64,
-  "video_ready": 8,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Immigrants": {
@@ -2112,14 +2112,14 @@
   "wrong_license": 15
  },
  "Iona Abbey": {
-  "already_had": 0,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 69,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 11,
-  "video_ready": 66,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Italian diaspora": {
@@ -2167,14 +2167,14 @@
   "wrong_license": 0
  },
  "Jefferson, Texas": {
-  "already_had": 12,
+  "already_had": 77,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 65,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 3,
-  "video_ready": 61,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Jim Crow laws": {
@@ -2244,14 +2244,14 @@
   "wrong_license": 0
  },
  "L'Anse aux Meadows": {
-  "already_had": 0,
+  "already_had": 16,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 16,
+  "kept": 8,
   "page": "anglo-saxon",
   "too_small": 6,
-  "video_ready": 16,
+  "video_ready": 8,
   "wrong_license": 0
  },
  "Lake Buchanan": {
@@ -2277,14 +2277,14 @@
   "wrong_license": 0
  },
  "Lindisfarne": {
-  "already_had": 0,
+  "already_had": 12,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 12,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 68,
-  "video_ready": 10,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Little Italy, Manhattan": {
@@ -2354,14 +2354,14 @@
   "wrong_license": 0
  },
  "Lubbock, Texas": {
-  "already_had": 1,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 61,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 18,
-  "video_ready": 48,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "MacDill Air Force Base": {
@@ -2453,14 +2453,14 @@
   "wrong_license": 0
  },
  "Marfa, Texas": {
-  "already_had": 0,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 69,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 11,
-  "video_ready": 60,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Marshall Space Flight Center": {
@@ -2761,14 +2761,14 @@
   "wrong_license": 0
  },
  "Offa's Dyke": {
-  "already_had": 0,
+  "already_had": 25,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 25,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 54,
-  "video_ready": 15,
+  "video_ready": 0,
   "wrong_license": 1
  },
  "Oil wells in Texas": {
@@ -2794,14 +2794,14 @@
   "wrong_license": 0
  },
  "Old English language": {
-  "already_had": 1,
+  "already_had": 17,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 16,
+  "kept": 2,
   "page": "anglo-saxon",
   "too_small": 61,
-  "video_ready": 6,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "One-room schoolhouses": {
@@ -2849,14 +2849,14 @@
   "wrong_license": 0
  },
  "Oseberg ship": {
-  "already_had": 0,
+  "already_had": 58,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 57,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 8,
-  "video_ready": 51,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Overseas Railroad": {
@@ -3190,14 +3190,14 @@
   "wrong_license": 0
  },
  "Rodeos in Texas": {
-  "already_had": 1,
+  "already_had": 76,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 75,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 4,
-  "video_ready": 75,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Rosa Parks in 1956": {
@@ -3223,14 +3223,14 @@
   "wrong_license": 0
  },
  "Runic inscriptions": {
-  "already_had": 3,
+  "already_had": 38,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 35,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 41,
-  "video_ready": 21,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "SM-65 Atlas": {
@@ -3300,14 +3300,14 @@
   "wrong_license": 0
  },
  "Schools in Texas": {
-  "already_had": 0,
+  "already_had": 58,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 58,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 22,
-  "video_ready": 49,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Scottsboro Boys": {
@@ -3509,14 +3509,14 @@
   "wrong_license": 0
  },
  "Staffordshire Hoard": {
-  "already_had": 0,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 62,
+  "kept": 10,
   "page": "anglo-saxon",
   "too_small": 4,
-  "video_ready": 47,
+  "video_ready": 10,
   "wrong_license": 0
  },
  "Stagecoaches": {
@@ -3564,14 +3564,14 @@
   "wrong_license": 0
  },
  "Sutton Hoo": {
-  "already_had": 0,
+  "already_had": 46,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 46,
+  "kept": 3,
   "page": "anglo-saxon",
   "too_small": 31,
-  "video_ready": 34,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Tampa, Florida": {
@@ -3729,14 +3729,14 @@
   "wrong_license": 0
  },
  "Train stations in Texas": {
-  "already_had": 1,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 56,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 23,
-  "video_ready": 46,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Tulsa race riot": {
@@ -3806,14 +3806,14 @@
   "wrong_license": 0
  },
  "U.S. Route 66 in Texas": {
-  "already_had": 3,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 60,
   "exists": true,
-  "kept": 54,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 3,
-  "video_ready": 48,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Underground Railroad": {
@@ -3839,58 +3839,58 @@
   "wrong_license": 0
  },
  "Viking Age": {
-  "already_had": 0,
+  "already_had": 59,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 59,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 20,
-  "video_ready": 44,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Viking art": {
-  "already_had": 6,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 51,
+  "kept": 5,
   "page": "anglo-saxon",
   "too_small": 18,
-  "video_ready": 43,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Viking ships": {
-  "already_had": 0,
+  "already_had": 44,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 44,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 28,
-  "video_ready": 28,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Vikings": {
-  "already_had": 9,
+  "already_had": 39,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 30,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 39,
-  "video_ready": 19,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Waco, Texas": {
-  "already_had": 4,
+  "already_had": 52,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 48,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 27,
-  "video_ready": 32,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Weeki Wachee Springs": {
@@ -3971,8 +3971,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4118,
-  "modern_event": 4358,
-  "site_today": 2408
+  "historical": 4149,
+  "modern_event": 4383,
+  "site_today": 2425
  }
 }
