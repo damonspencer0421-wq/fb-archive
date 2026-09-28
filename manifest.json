@@ -1429,6 +1429,22 @@
   "video_ready": true,
   "year": 2012
  },
+ "014b57deb2af": {
+  "category": "Banks in Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a01 December 2009",
+  "description": "The Briggs State Bank building in Brigg, Texas, United States. The Briggs State Bank was chartered on May 27, 1909 and this building was constructed the same year. The bank closed in 1928. The property was listed on the National Register of Historic Places on August 11, 2000 and designated a Recorded Texas Historic Landmark in 2002.",
+  "era": "historical",
+  "license": "CC BY 4.0",
+  "orig_height": 1080,
+  "orig_width": 1565,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/014b57deb2af.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Briggs_state_bank_2009.jpg",
+  "title": "File:Briggs state bank 2009.jpg",
+  "video_ready": false,
+  "year": 1909
+ },
  "014deb17c840": {
   "category": "Celtic crosses",
   "credit": "BALLYBRICKEN CHURCH AND CHURCHYARD IN WATERFORD [MOST HOLY TRINITY WITHOUT]-155308",
@@ -2156,6 +2172,22 @@
   "title": "File:Photograph of Lester A. Walton, Envoy Extraordinary and Minister Plenipotentiary to Liberia, with U.S. Army Women, ca. 1 - NARA - 535837.jpg",
   "video_ready": true,
   "year": 1943
+ },
+ "021a55d37ef1": {
+  "category": "Book of Kells",
+  "credit": "Scanned from Treasures of Irish Art, 1500 B.C. to 1500 a.D.\u00a0: From the Collections of the National Museum of Ireland, Royal Irish Academy, &amp; Trinity College, Dublin, Metropolitan Museum of Art &amp; Alfred A. Knopf, New York, 1977, ISBN\u00a00394428072",
+  "date": "9th centurydate QS:P,+850-00-00T00:00:00Z/7",
+  "description": "Book of Kells, Folio 114v, Arrest of Christ.",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 1952,
+  "orig_width": 1500,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/021a55d37ef1.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:KellsFol114rArrestOfChrist.jpg",
+  "title": "File:KellsFol114rArrestOfChrist.jpg",
+  "video_ready": false,
+  "year": null
  },
  "02250595053d": {
   "category": "Apalachicola, Florida",
@@ -4431,6 +4463,22 @@
   "title": "File:Parade, 1st Prov. Regt., Ft. Crockett, Galveston, Tex LCCN2007664432.tif",
   "year": 1911
  },
+ "044979658188": {
+  "category": "Anglo-Saxons",
+  "credit": "https://finds.org.uk/database/ajax/download/id/130391Catalog: https://finds.org.uk/database/images/image/id/130391/recordtype/artefacts archive copy at the Wayback MachineArtefact: https://finds.org.uk/database/artefacts/record/id/155668",
+  "date": "between 50 and 1066",
+  "description": "A Roman pottery rim fragment from a flagon (AD50-170).  The fabric is white and sandy with irregular quartz and some mica inclusions.  It resembles Verulamium Region White Ware.  The sherd has been trimmed and it is very abraded probably through use.  This suggests the rim was reused probably as a spindle whorl or possibly as a weight.  The reuse could date Roman \u2013 Early Medieval - Anglo-Saxon (AD",
+  "era": "historical",
+  "license": "CC BY-SA 2.0",
+  "orig_height": 1033,
+  "orig_width": 3827,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/044979658188.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:A_Roman_-_Early_Medieval_pottery_spindle_whorl._(FindID_155668).jpg",
+  "title": "File:A Roman - Early Medieval pottery spindle whorl. (FindID 155668).jpg",
+  "video_ready": true,
+  "year": null
+ },
  "0451c86b29f5": {
   "category": "St. Augustine, Florida",
   "credit": "Own work",
@@ -5991,6 +6039,22 @@
   "title": "File:Canal Run Trail (5178697717).jpg",
   "video_ready": true,
   "year": 2010
+ },
+ "05b64f299913": {
+  "category": "Oseberg ship",
+  "credit": "Own work",
+  "date": "2015-10-19 11:08:03",
+  "description": "Wikingerschiffsmuseum Oslo Oseberg-Schiff",
+  "era": "site_today",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 4928,
+  "orig_width": 3264,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/05b64f299913.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:NO-vikingskiphuset-oseberg-01.jpg",
+  "title": "File:NO-vikingskiphuset-oseberg-01.jpg",
+  "video_ready": true,
+  "year": 2015
  },
  "05b9162ec074": {
   "category": "Little Italy, Manhattan",
@@ -8777,6 +8841,22 @@
   "video_ready": false,
   "year": 1874
  },
+ "08640aacf5d1": {
+  "category": "Anglo-Saxon brooches",
+  "credit": "Own work",
+  "date": "2014-09-14 22:58:04",
+  "description": "Anglo-Saxon objects in the Ashmolean Museum -",
+  "era": "site_today",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 1738,
+  "orig_width": 3533,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/08640aacf5d1.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Ashmolean_Museum,_anglo-Saxon_zDSCF0220_04.JPG",
+  "title": "File:Ashmolean Museum, anglo-Saxon zDSCF0220 04.JPG",
+  "video_ready": true,
+  "year": 2014
+ },
  "0864fca0c8eb": {
   "category": "African American soldiers of World War I",
   "credit": "U.S. National Archives and Records Administration",
@@ -11203,6 +11283,22 @@
   "title": "File:Black History Month event program, Seattle Public Library, 1985.jpg",
   "video_ready": true,
   "year": 1985
+ },
+ "0a886c619a8e": {
+  "category": "Houses in Texas",
+  "credit": "https://www.flickr.com/photos/texasstatearchives/9502390943/",
+  "date": "2013-08-13 14:03:02",
+  "description": "Title:  George M. Patrick log cabin with lean to shed attached\nLocation: Anderson, Texas\n\nDate: 1935",
+  "era": "historical",
+  "license": "No restrictions",
+  "orig_height": 1232,
+  "orig_width": 1983,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/0a886c619a8e.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fannie_Ratchford_1970_0046_(9502390943).jpg",
+  "title": "File:Fannie Ratchford 1970 0046 (9502390943).jpg",
+  "video_ready": false,
+  "year": 1935
  },
  "0a8ee985eb11": {
   "category": "Bayeux Tapestry",
@@ -13991,6 +14087,22 @@
   "video_ready": false,
   "year": 1910
  },
+ "0d098640a58e": {
+  "category": "Staffordshire Hoard",
+  "credit": "Cloisonn\u00e9 work",
+  "date": "2009-11-27 07:20",
+  "description": "The Hoard contained a large number of objects decorated with cloisonn\u00e9 inlay. In this technique small gold walls are soldered upright onto a backing plate. The resulting cells are then inlaid with shaped and polished slivers of garnet. Fine gold foils with impressed waffle patterns were mounted beneath the garnets. These reflect light and so increase the glittering effect. The patterned gold foil ",
+  "era": "modern_event",
+  "license": "CC BY 2.0",
+  "orig_height": 2736,
+  "orig_width": 3648,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/0d098640a58e.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Cloisonn%C3%A9_work_(4138873191).jpg",
+  "title": "File:Cloisonn\u00e9 work (4138873191).jpg",
+  "video_ready": true,
+  "year": 2009
+ },
  "0d0da1f90374": {
   "category": "Carswell Air Force Base",
   "credit": "This image was released by the United States Navy with the ID 050403-N-3928T-004 (next).\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.\n\n\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u00a0\u2219 \u09ac\u09be\u0982\u09b2\u09be\u00a0\u2219 \nBahasa Indonesia\u00a0\u2219 \nBahaso Jambi\u00a0\u2219 \nDeutsch\u00a0\u2219 Deutsch (Sie-Form)\u00a0\u2219 English\u00a0\u2219 espa\u00f1ol\u00a0\u2219 euskara\u00a0\u2219 \u0641\u0627\u0631\u0633\u06cc\u00a0\u2219 fran\u00e7ais\u00a0\u2219 italiano\u00a0\u2219 \u65e5\u672c\u8a9e\u00a0\u2219 \ud55c\uad6d\uc5b4\u00a0\u2219 \u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\u00a0\u2219 \u0d2e\u0d32\u0d2f",
@@ -16585,6 +16697,22 @@
   "video_ready": true,
   "year": 2024
  },
+ "0fc480eca6c0": {
+  "category": "Houses in Texas",
+  "credit": "https://www.flickr.com/photos/texasstatearchives/9502239991/",
+  "date": "2013-08-13 13:39:18",
+  "description": "Title: David C. Dickson Home, built 1840s\nLocation: Anderson, Texas\n\nDate: 1936",
+  "era": "historical",
+  "license": "No restrictions",
+  "orig_height": 2157,
+  "orig_width": 2946,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/0fc480eca6c0.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fannie_Ratchford_1970_0023_(9502239991).jpg",
+  "title": "File:Fannie Ratchford 1970 0023 (9502239991).jpg",
+  "video_ready": true,
+  "year": 1936
+ },
  "0fc6762d80f2": {
   "category": "Georgia (U.S. state)",
   "credit": "Biblioth\u00e8que nationale de France",
@@ -19061,6 +19189,22 @@
   "title": "File:Auguste Escoffier School of Culinary Arts Boulder Campus Kitchen Items.jpg",
   "video_ready": true,
   "year": 2022
+ },
+ "1240ad2fece8": {
+  "category": "Banks in Texas",
+  "credit": "Own work: I took photo on July 15, 2008.Billy Hathorn (talk) 01:21, 23 July 2008 (UTC)\nTransferred from en.wikipedia",
+  "date": "Taken on\u00a015 July 2008",
+  "description": "West side of 6th Street at Main Street on the edge of the courthouse square, Memphis, Texas.  At center left, with decorative light: Heritage Hall, the former First National Bank building, on the SW corner.",
+  "era": "site_today",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 1944,
+  "orig_width": 2592,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/1240ad2fece8.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Mem._street_IMG_0672.JPG",
+  "title": "File:Mem. street IMG 0672.JPG",
+  "video_ready": true,
+  "year": 2008
  },
  "124c3349677b": {
   "category": "Dance halls",
@@ -24581,6 +24725,22 @@
   "title": "File:16 22 165 jarrell.jpg",
   "video_ready": false,
   "year": 1900
+ },
+ "17d034e94fdf": {
+  "category": "Houses in Texas",
+  "credit": "https://www.flickr.com/photos/texasstatearchives/9505189554/",
+  "date": "2013-08-13 14:03:04",
+  "description": "Title:  Neblett Home built by Manwarren\nLocation: Anderson, Texas\n\nDate: 1935",
+  "era": "historical",
+  "license": "No restrictions",
+  "orig_height": 1258,
+  "orig_width": 1958,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/17d034e94fdf.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fannie_Ratchford_1970_0039_(9505189554).jpg",
+  "title": "File:Fannie Ratchford 1970 0039 (9505189554).jpg",
+  "video_ready": false,
+  "year": 1935
  },
  "17d08a89ea91": {
   "category": "Savannah, Georgia",
@@ -31483,6 +31643,22 @@
   "video_ready": true,
   "year": 2026
  },
+ "1dfd8be0d7c3": {
+  "category": "Houses in Texas",
+  "credit": "https://www.flickr.com/photos/texasstatearchives/9505039834/",
+  "date": "2013-08-13 13:39:20",
+  "description": "Title: Fanthorp Inn, built 1834\nLocation: Anderson, Texas\n\nDate: 1936",
+  "era": "historical",
+  "license": "No restrictions",
+  "orig_height": 2157,
+  "orig_width": 2997,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/1dfd8be0d7c3.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fannie_Ratchford_1970_0026_(9505039834).jpg",
+  "title": "File:Fannie Ratchford 1970 0026 (9505039834).jpg",
+  "video_ready": true,
+  "year": 1834
+ },
  "1dfe3d639302": {
   "category": "Racial segregation in the United States",
   "credit": "U.S. National Archives and Records Administration",
@@ -31640,6 +31816,22 @@
   "source": "https://commons.wikimedia.org/wiki/File:FSA_in_the_news_(IA_fsainnews1949unit).pdf",
   "title": "File:FSA in the news (IA fsainnews1949unit).pdf",
   "year": 1946
+ },
+ "1e2f25caec42": {
+  "category": "Anglo-Saxon brooches",
+  "credit": "Own work",
+  "date": "2018-12-01 13:51:35",
+  "description": "Jewellery from Grave 102, a female burial in the Anglo-Saxon cemetery at Berinsfield, Oxfordshire. On display in the Ashmolean Museum, Oxford.",
+  "era": "site_today",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 4291,
+  "orig_width": 3051,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/1e2f25caec42.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Jewellery_from_Berinsfield_Anglo-Saxon_Cemetery_in_the_Ashmolean_Museum.jpg",
+  "title": "File:Jewellery from Berinsfield Anglo-Saxon Cemetery in the Ashmolean Museum.jpg",
+  "video_ready": true,
+  "year": 2018
  },
  "1e2fcecb98e1": {
   "category": "Hotels in Texas",
@@ -34792,6 +34984,22 @@
   "title": "File:DAILY MENU (held by) GOLDEN GRAIN BREAD CO. LTD. (at) ENGLAND(?) (FOR;) (NYPL Hades-274594-4000010811).tiff",
   "video_ready": true,
   "year": 1900
+ },
+ "21202c0efe90": {
+  "category": "Barksdale Air Force Base",
+  "credit": "Louisiana Writers' Project. (1941). Louisiana: a guide to the state. New York: Hastings House.",
+  "date": "1941",
+  "description": "Barksdale Field near Shreveport pictured circa 1941",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 1174,
+  "orig_width": 1595,
+  "page": "louisiana",
+  "path": "images/louisiana/21202c0efe90.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Barksdale_Field_Near_Shreveport_US_Army_Air_Corps_1941.jpg",
+  "title": "File:Barksdale Field Near Shreveport US Army Air Corps 1941.jpg",
+  "video_ready": false,
+  "year": 1941
  },
  "212387bad819": {
   "category": "Gullah",
@@ -41628,6 +41836,22 @@
   "video_ready": false,
   "year": 1915
  },
+ "2809dc464dd5": {
+  "category": "Book of Kells",
+  "credit": "Own work",
+  "date": "2022-05-29 12:25:22",
+  "description": "Book of Kells at the Long Room of the Library of the Trinity College, Dubline, Ireland",
+  "era": "site_today",
+  "license": "CC BY 4.0",
+  "orig_height": 3856,
+  "orig_width": 2861,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/2809dc464dd5.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Dublin_Trinity_College_Library_Long_Room_Book_of_Kells_4.jpg",
+  "title": "File:Dublin Trinity College Library Long Room Book of Kells 4.jpg",
+  "video_ready": true,
+  "year": 2022
+ },
  "2813ae48d6a7": {
   "category": "Airships",
   "credit": "Page 564 Bottom - English airship C27 at the moment of destruction at the Northsea",
@@ -43424,6 +43648,22 @@
   "source": "https://commons.wikimedia.org/wiki/File:Nevis_tiger_muskie.jpg",
   "title": "File:Nevis tiger muskie.jpg",
   "year": 2019
+ },
+ "29e619d57853": {
+  "category": "Corpus Christi, Texas",
+  "credit": "Own work",
+  "date": "2016-04-15",
+  "description": "Two red-eared slider turtles late afternoon at Captain Falcon Park in Corpus Christi, Texas.",
+  "era": "modern_event",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 1024,
+  "orig_width": 1545,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/29e619d57853.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Red-Eared_Slider_-_Turtle.JPG",
+  "title": "File:Red-Eared Slider - Turtle.JPG",
+  "video_ready": false,
+  "year": 2016
  },
  "29e6a7f54352": {
   "category": "Thurber, Texas",
@@ -54362,6 +54602,22 @@
   "video_ready": true,
   "year": 2016
  },
+ "348d6d54aee0": {
+  "category": "Oseberg ship",
+  "credit": "http://proxy.handle.net/10648/aa837324-d0b4-102d-bcf8-003048976d84",
+  "date": "1964-11-18",
+  "description": "Collectie / Archief\u00a0: Fotocollectie Anefo\nReportage / Serie\u00a0: [ onbekend ]\nBeschrijving\u00a0: DWS-elftal in Vikingmuseum te Oslo, op voorgrond Vonhof en links Lenz\nDatum\u00a0: 18 november 1964\nLocatie\u00a0: Noorwegen, Oslo\nTrefwoorden\u00a0: musea, schepen\nPersoonsnaam\u00a0: Vonhof\nInstellingsnaam\u00a0: Vikingmuseum\nFotograaf\u00a0: Koch, Eric / Anefo\nAuteursrechthebbende\u00a0: Nationaal Archief\nMateriaalsoort\u00a0: Negatief (zwart/wi",
+  "era": "historical",
+  "license": "CC0",
+  "orig_height": 2624,
+  "orig_width": 2626,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/348d6d54aee0.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:DWS-elftal_in_Vikingmuseum_te_Oslo,_op_voorgrond_Vonhof_en_links_Lenz,_Bestanddeelnr_917-1436.jpg",
+  "title": "File:DWS-elftal in Vikingmuseum te Oslo, op voorgrond Vonhof en links Lenz, Bestanddeelnr 917-1436.jpg",
+  "video_ready": true,
+  "year": 1964
+ },
  "348f1c728d30": {
   "category": "African Americans",
   "credit": "https://www.flickr.com/photos/41284017@N08/53883028023/",
@@ -58863,6 +59119,22 @@
   "video_ready": true,
   "year": 2011
  },
+ "38e2f9dca366": {
+  "category": "Corpus Christi, Texas",
+  "credit": "originally posted to Flickr as Vertical Horizon",
+  "date": "2009-08-24 15:06:38",
+  "description": "Mapped from where taken. The view is about 10 miles across Corpus Christi Bay, towards Ingleside.",
+  "era": "modern_event",
+  "license": "CC BY-SA 2.0",
+  "orig_height": 3712,
+  "orig_width": 2792,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/38e2f9dca366.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Vertical_Horizon.jpg",
+  "title": "File:Vertical Horizon.jpg",
+  "video_ready": true,
+  "year": 2009
+ },
  "38eaecdc14c9": {
   "category": "African Americans in the American Civil War",
   "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/2004678578\nImage download: https://cdn.loc.gov/service/pnp/cph/3c20000/3c26000/3c26400/3c26417v.jpg\nOriginal url: https://www.loc.gov/pictures/item/2004678578/",
@@ -60711,6 +60983,22 @@
   "video_ready": true,
   "year": 2010
  },
+ "3a7239f68f97": {
+  "category": "Oseberg ship",
+  "credit": "Own work",
+  "date": "2008-08-04",
+  "description": "Oseberg ship",
+  "era": "modern_event",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 3264,
+  "orig_width": 2448,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/3a7239f68f97.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Oseberg_ship_221.jpg",
+  "title": "File:Oseberg ship 221.jpg",
+  "video_ready": false,
+  "year": 2008
+ },
  "3a744fe0ba19": {
   "category": "Houses in Texas",
   "credit": "Own work",
@@ -61665,6 +61953,22 @@
   "video_ready": true,
   "year": 2016
  },
+ "3b3ea2807d54": {
+  "category": "Houses in Texas",
+  "credit": "https://www.flickr.com/photos/texasstatearchives/9505039638/",
+  "date": "2013-08-13 13:39:19",
+  "description": "Title: Cone Home\nLocation: Anderson, Texas\n\nDate: 1935",
+  "era": "historical",
+  "license": "No restrictions",
+  "orig_height": 1232,
+  "orig_width": 1983,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/3b3ea2807d54.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fannie_Ratchford_1970_0021_(9505039638).jpg",
+  "title": "File:Fannie Ratchford 1970 0021 (9505039638).jpg",
+  "video_ready": false,
+  "year": 1935
+ },
  "3b44f70ae556": {
   "category": "Train stations in Texas",
   "credit": "Own work",
@@ -62156,6 +62460,22 @@
   "source": "https://commons.wikimedia.org/wiki/File:Texas_-_Galveston_-_NARA_-_68149377.jpg",
   "title": "File:Texas - Galveston - NARA - 68149377.jpg",
   "year": 1917
+ },
+ "3bab46fed2fd": {
+  "category": "Banks in Texas",
+  "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+  "date": "19 May 2004\u00a0(according to Exif data)",
+  "description": "This is a photo of the old building in Cottonwood, Texas which housed the bank and post office of that town.\n\nTaken by Benjamin Bruce on December 3rd, 2005.",
+  "era": "site_today",
+  "license": "CC BY-SA 2.5",
+  "orig_height": 1426,
+  "orig_width": 1712,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/3bab46fed2fd.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Cottonwood_Bank.jpg",
+  "title": "File:Cottonwood Bank.jpg",
+  "video_ready": false,
+  "year": 2004
  },
  "3bb09040e04c": {
   "category": "Iona Abbey",
@@ -65549,6 +65869,22 @@
   "title": "File:Atlanta, United States (Unsplash fIywSGHYLYM).jpg",
   "video_ready": true,
   "year": 2017
+ },
+ "3f0ce49889ac": {
+  "category": "Staffordshire Hoard",
+  "credit": "Cloisonn\u00e9 work",
+  "date": "2009-11-27 07:19",
+  "description": "The Hoard contained a large number of objects decorated with cloisonn\u00e9 inlay. In this technique small gold walls are soldered upright onto a backing plate. The resulting cells are then inlaid with shaped and polished slivers of garnet. Fine gold foils with impressed waffle patterns were mounted beneath the garnets. These reflect light and so increase the glittering effect. The patterned gold foil ",
+  "era": "modern_event",
+  "license": "CC BY 2.0",
+  "orig_height": 2736,
+  "orig_width": 3648,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/3f0ce49889ac.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Cloisonn%C3%A9_work_(4139632904).jpg",
+  "title": "File:Cloisonn\u00e9 work (4139632904).jpg",
+  "video_ready": true,
+  "year": 2009
  },
  "3f0e0c2ae5f7": {
   "category": "Immigrants",
@@ -69273,6 +69609,22 @@
   "video_ready": true,
   "year": 2017
  },
+ "42874b29ffe1": {
+  "category": "Corpus Christi, Texas",
+  "credit": "I created this work entirely by myself.",
+  "date": "2008-12-20",
+  "description": "view of one shoreline plaza from haritage park",
+  "era": "modern_event",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 1944,
+  "orig_width": 2592,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/42874b29ffe1.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:December_20_-_Corpus_-_003.jpg",
+  "title": "File:December 20 - Corpus - 003.jpg",
+  "video_ready": true,
+  "year": 2008
+ },
  "428c45698df6": {
   "category": "Roadside attractions in the United States",
   "credit": "https://www.flickr.com/photos/11020019@N04/39794072490/",
@@ -72752,6 +73104,22 @@
   "title": "File:Die Gartenlaube (1880) 473.jpg",
   "video_ready": true,
   "year": 1880
+ },
+ "45f1e63fa319": {
+  "category": "Oseberg ship",
+  "credit": "http://proxy.handle.net/10648/ad799504-d0b4-102d-bcf8-003048976d84",
+  "date": "1964-11-18",
+  "description": "Collectie / Archief\u00a0: Fotocollectie Anefo\nReportage / Serie\u00a0: [ onbekend ]\nBeschrijving\u00a0: DWS-elftal in Vikingmuseum te Oslo, op voorgrond Vonhof en links Lenz\nDatum\u00a0: 18 november 1964\nLocatie\u00a0: Noorwegen, Oslo\nTrefwoorden\u00a0: musea\nInstellingsnaam\u00a0: Vikingmuseum\nFotograaf\u00a0: Koch, Eric / Anefo\nAuteursrechthebbende\u00a0: Nationaal Archief\nMateriaalsoort\u00a0: Negatief (zwart/wit)\nNummer archiefinventaris\u00a0: b",
+  "era": "historical",
+  "license": "CC0",
+  "orig_height": 2643,
+  "orig_width": 2637,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/45f1e63fa319.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:DWS-elftal_in_Vikingmuseum_te_Oslo,_op_voorgrond_Vonhof_en_links_Lenz,_Bestanddeelnr_934-6449.jpg",
+  "title": "File:DWS-elftal in Vikingmuseum te Oslo, op voorgrond Vonhof en links Lenz, Bestanddeelnr 934-6449.jpg",
+  "video_ready": true,
+  "year": 1964
  },
  "45f3a54d0253": {
   "category": "Bakeries",
@@ -86019,6 +86387,22 @@
   "title": "File:Big Fish Supper Club sign, Schley, Minnesota LCCN2017709776.tif",
   "year": 1972
  },
+ "532646eb806c": {
+  "category": "Oseberg ship",
+  "credit": "86 Oslo 1984",
+  "date": "1984-09-01 12:00",
+  "description": "Aus dem Oseberggrab im Vikingskipshuset auf der Halbinsel  Bygd\u00f8y,  Oslo",
+  "era": "modern_event",
+  "license": "CC BY-SA 2.0",
+  "orig_height": 2131,
+  "orig_width": 3228,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/532646eb806c.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:86_Oslo_1984_(16902724110).jpg",
+  "title": "File:86 Oslo 1984 (16902724110).jpg",
+  "video_ready": true,
+  "year": 1984
+ },
  "5326cf24a704": {
   "category": "Anniston Army Depot",
   "credit": "Own work",
@@ -94827,6 +95211,22 @@
   "title": "File:\"`Squatter's' home on Andersonville Road, Tennessee. The house is a made-over houseboat.\" - NARA - 532715.jpg",
   "year": 1933
  },
+ "5bf79fe30c06": {
+  "category": "Anglo-Saxons",
+  "credit": "Own work",
+  "date": "2010-02-01",
+  "description": "Herne Bay Museum, Herne Bay, Kent. 6th century Saxon hand-made vessel used as cremation urn.  Found near Reculver.",
+  "era": "site_today",
+  "license": "CC BY 3.0",
+  "orig_height": 2480,
+  "orig_width": 1768,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/5bf79fe30c06.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Herne_Bay_Museum_078.jpg",
+  "title": "File:Herne Bay Museum 078.jpg",
+  "video_ready": false,
+  "year": 2010
+ },
  "5bf8c85b3294": {
   "category": "Cotton gins",
   "credit": "U.S. National Archives and Records Administration",
@@ -94890,6 +95290,22 @@
   "title": "File:Church in winter scenic.jpg",
   "video_ready": false,
   "year": 2013
+ },
+ "5c0b36d3a811": {
+  "category": "County courthouses in Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a029 June 2014",
+  "description": "The Collin County Courthouse in McKinney, Texas, United States.",
+  "era": "site_today",
+  "license": "CC BY 4.0",
+  "orig_height": 1449,
+  "orig_width": 2173,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/5c0b36d3a811.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Collin_county_tx_courthouse.jpg",
+  "title": "File:Collin county tx courthouse.jpg",
+  "video_ready": false,
+  "year": 2014
  },
  "5c10497650ce": {
   "category": "Abandoned buildings in Kentucky",
@@ -96195,6 +96611,22 @@
   "title": "File:Il Brasile e gli Italiani 0018.tif",
   "video_ready": true,
   "year": 1906
+ },
+ "5d4263530858": {
+  "category": "County courthouses in Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a026 September 2015, 12:52:06",
+  "description": "The Fisher County, Texas Courthouse in Roby, Texas, United States was built in 1972.",
+  "era": "historical",
+  "license": "CC BY 4.0",
+  "orig_height": 1361,
+  "orig_width": 2419,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/5d4263530858.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fisher_County_Texas_Courthouse_2015.jpg",
+  "title": "File:Fisher County Texas Courthouse 2015.jpg",
+  "video_ready": false,
+  "year": 1972
  },
  "5d4eaf3997e3": {
   "category": "Civilian Conservation Corps",
@@ -99856,6 +100288,22 @@
   "title": "File:Buffalo Soldiers at Fort Missoula (4924922578).jpg",
   "video_ready": true,
   "year": 1910
+ },
+ "6093e0e0d6d1": {
+  "category": "Oseberg ship",
+  "credit": "http://proxy.handle.net/10648/aa8373ec-d0b4-102d-bcf8-003048976d84",
+  "date": "1964-11-18",
+  "description": "Collectie / Archief\u00a0: Fotocollectie Anefo\nReportage / Serie\u00a0: [ onbekend ]\nBeschrijving\u00a0: DWS-elftal in Vikingmuseum te Oslo, op voorgrond Vonhof en links Lenz\nDatum\u00a0: 18 november 1964\nLocatie\u00a0: Noorwegen, Oslo\nTrefwoorden\u00a0: musea, schepen\nPersoonsnaam\u00a0: Vonhof\nInstellingsnaam\u00a0: Vikingmuseum\nFotograaf\u00a0: Koch, Eric / Anefo\nAuteursrechthebbende\u00a0: Nationaal Archief\nMateriaalsoort\u00a0: Negatief (zwart/wi",
+  "era": "historical",
+  "license": "CC0",
+  "orig_height": 2620,
+  "orig_width": 2622,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/6093e0e0d6d1.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:DWS-elftal_in_Vikingmuseum_te_Oslo,_op_voorgrond_Vonhof_en_links_Lenz,_Bestanddeelnr_917-1437.jpg",
+  "title": "File:DWS-elftal in Vikingmuseum te Oslo, op voorgrond Vonhof en links Lenz, Bestanddeelnr 917-1437.jpg",
+  "video_ready": true,
+  "year": 1964
  },
  "60977e15ee5b": {
   "category": "Children of Italy",
@@ -104231,6 +104679,22 @@
   "title": "File:St. James Lutheran Church, Uvilla, WV, July 2025.jpg",
   "year": 2025
  },
+ "64ee117b0928": {
+  "category": "Corpus Christi, Texas",
+  "credit": "Own work",
+  "date": "2023-07-10 11:32:17",
+  "description": "A Great Kiskadee (Pitangus sulphuratus) stands guard by its nest at Blucher Park in downtown Corpus Christi, Texas.",
+  "era": "modern_event",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 1365,
+  "orig_width": 2048,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/64ee117b0928.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Great_Kiskadee,_Blucher_Park.jpg",
+  "title": "File:Great Kiskadee, Blucher Park.jpg",
+  "video_ready": false,
+  "year": 2023
+ },
  "64f5d9780e18": {
   "category": "Intercontinental ballistic missiles",
   "credit": "https://www.loc.gov/pictures/item/co0475.photos.317183p",
@@ -107282,6 +107746,22 @@
   "video_ready": true,
   "year": 1944
  },
+ "67dc53363349": {
+  "category": "Houses in Texas",
+  "credit": "https://www.flickr.com/photos/texasstatearchives/9502391019/",
+  "date": "2013-08-13 14:03:03",
+  "description": "Title:  Henry Pahl Home, built circa 1848\nLocation: Anderson, Texas\n\nDate: 1936",
+  "era": "historical",
+  "license": "No restrictions",
+  "orig_height": 2189,
+  "orig_width": 2978,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/67dc53363349.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fannie_Ratchford_1970_0043_(9502391019).jpg",
+  "title": "File:Fannie Ratchford 1970 0043 (9502391019).jpg",
+  "video_ready": true,
+  "year": 1848
+ },
  "67e4d1e4bff8": {
   "category": "Coal mining in West Virginia",
   "credit": "U.S. National Archives and Records Administration",
@@ -107504,6 +107984,38 @@
   "title": "File:Public Lands Institute - Mammoth Cave National Park - 012.tif",
   "video_ready": true,
   "year": 2026
+ },
+ "680d5efe17da": {
+  "category": "Houses in Texas",
+  "credit": "https://www.flickr.com/photos/texasstatearchives/9502391031/",
+  "date": "2013-08-13 14:03:03",
+  "description": "Title: Well behind addition to Neblett Home\n\nLocation: Anderson, Texas\n\nDate: 1935",
+  "era": "historical",
+  "license": "No restrictions",
+  "orig_height": 1258,
+  "orig_width": 1970,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/680d5efe17da.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fannie_Ratchford_1970_0041_(9502391031).jpg",
+  "title": "File:Fannie Ratchford 1970 0041 (9502391031).jpg",
+  "video_ready": false,
+  "year": 1935
+ },
+ "680e93149aee": {
+  "category": "Banks in Texas",
+  "credit": "Own work",
+  "date": "2010-01-24",
+  "description": "A former bank building now serving as an antique shop in downtown Milford, Texas.",
+  "era": "site_today",
+  "license": "Public domain",
+  "orig_height": 1200,
+  "orig_width": 1600,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/680e93149aee.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Milford_old_bank.jpg",
+  "title": "File:Milford old bank.jpg",
+  "video_ready": false,
+  "year": 2010
  },
  "681a765122ef": {
   "category": "Schools in Texas",
@@ -112544,6 +113056,22 @@
   "video_ready": false,
   "year": 2017
  },
+ "6cfa30998d59": {
+  "category": "Book of Kells",
+  "credit": "",
+  "date": "",
+  "description": "",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 1836,
+  "orig_width": 1412,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/6cfa30998d59.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:KellsFol203rIesusAutem.jpg",
+  "title": "File:KellsFol203rIesusAutem.jpg",
+  "video_ready": false,
+  "year": null
+ },
  "6cfc2dbbf015": {
   "category": "Buffalo hunting",
   "credit": "https://www.flickr.com/photos/internetarchivebookimages/14582095658/\n\nSource book page: https://archive.org/stream/oddpeoplebeingpo02reid/oddpeoplebeingpo02reid#page/n286/mode/1up",
@@ -113992,6 +114520,22 @@
   "video_ready": true,
   "year": 2024
  },
+ "6e94e588281d": {
+  "category": "Anglo-Saxon brooches",
+  "credit": "Own work by the original uploader",
+  "date": "20 October 2017\u00a0(according to Exif data)",
+  "description": "The Milton Brooch, found in 1832 in an Anglo-Saxon cemetery at Milton, west of Dorchester-on-Thames. Likely produced in Kent. Now on display at the Victoria and Albert Museum in West London (Museum number M.109-1939).",
+  "era": "historical",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 2656,
+  "orig_width": 2744,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/6e94e588281d.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Milton_Brooch.JPG",
+  "title": "File:The Milton Brooch.JPG",
+  "video_ready": true,
+  "year": 1832
+ },
  "6e9c242104fc": {
   "category": "Convair B-36 Peacemaker",
   "credit": "Own work",
@@ -114292,6 +114836,22 @@
   "title": "File:817-823 SECOND AVENUE PERSPECTIVE VIEW OF MAIN ELEVATIONS - United Nations Vicinity Area Study, Second Avenue, East Forty-first, East Forty-third, East Forty-fourth, East Forty HABS NY,31-NEYO,152-7.tif",
   "video_ready": true,
   "year": 1933
+ },
+ "6eea0da01513": {
+  "category": "County courthouses in Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a026 September 2015, 15:18:11",
+  "description": "The Haskell County Courthouse in Haskell, Texas, United States was built in 1906.",
+  "era": "historical",
+  "license": "CC BY 4.0",
+  "orig_height": 1348,
+  "orig_width": 2396,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/6eea0da01513.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Haskell_County_Texas_Courthouse_2015.jpg",
+  "title": "File:Haskell County Texas Courthouse 2015.jpg",
+  "video_ready": false,
+  "year": 1906
  },
  "6ef19d9bbd81": {
   "category": "Anglo-Saxon brooches",
@@ -114803,6 +115363,22 @@
   "title": "File:Veteran New Farmer Green Bexar Farm (20201024-NRCS-LSC-0300).jpg",
   "video_ready": true,
   "year": 2020
+ },
+ "6f65d56b0dcc": {
+  "category": "Anglo-Saxons",
+  "credit": "Own work",
+  "date": "2010-02-01",
+  "description": "Herne Bay Museum, Herne Bay, Kent. 5th or 6th century Anglo-Saxon wheel-made pottery bowl, found on farmland near Marshside in the 1970s by farmer J.J. Harbour. A 5th century kiln was found and excavated on farmland at Marshside in the 70s.",
+  "era": "site_today",
+  "license": "CC BY 3.0",
+  "orig_height": 1480,
+  "orig_width": 2076,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/6f65d56b0dcc.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Herne_Bay_Museum_076.jpg",
+  "title": "File:Herne Bay Museum 076.jpg",
+  "video_ready": false,
+  "year": 2010
  },
  "6f6f4294d839": {
   "category": "New York City in the 1930s",
@@ -123225,6 +123801,22 @@
   "video_ready": true,
   "year": null
  },
+ "7796a210d819": {
+  "category": "Anglo-Saxons",
+  "credit": "https://finds.org.uk/database/ajax/download/id/451900Catalog: https://finds.org.uk/database/images/image/id/451900/recordtype/artefacts archive copy at the Wayback MachineArtefact: https://finds.org.uk/database/artefacts/record/id/594284",
+  "date": "between 850 and 1050",
+  "description": "Pottery. Rim sherd with a thickened outer edge from a Coarseware vessel of shell tempered ware. Wallace Collyer kindly identified this sherd, observing the stamped or rouletted decoration of the outer side of the rim is typical of Later Anglo-Saxon wares, and is altogether lacking from the local Iron Age tradition. Suggested date: Early Medieval, 850-1050..\nWeight: 13.07gms.",
+  "era": "historical",
+  "license": "CC BY-SA 2.0",
+  "orig_height": 2859,
+  "orig_width": 3543,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/7796a210d819.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Early_Medieval_Coarseware_Pot_sherd_(FindID_594284).jpg",
+  "title": "File:Early Medieval Coarseware Pot sherd (FindID 594284).jpg",
+  "video_ready": true,
+  "year": null
+ },
  "77979161e50d": {
   "category": "History of Texas",
   "credit": "Own work",
@@ -125120,6 +125712,22 @@
   "title": "File:GEORGE WASHINGTON CARVER - ONE OF AMERICA'S GREAT SCIENTISTS - NARA - 535694.jpg",
   "video_ready": true,
   "year": 1943
+ },
+ "79346efeb25f": {
+  "category": "Oseberg ship",
+  "credit": "83 Oslo 1984",
+  "date": "1984-09-01 12:00",
+  "description": "Das  Oseberg-Schiff im Vikingskipshuset auf der Halbinsel  Bygd\u00f8y,  Oslo",
+  "era": "modern_event",
+  "license": "CC BY-SA 2.0",
+  "orig_height": 3235,
+  "orig_width": 2114,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/79346efeb25f.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:83_Oslo_1984_(17063887806).jpg",
+  "title": "File:83 Oslo 1984 (17063887806).jpg",
+  "video_ready": false,
+  "year": 1984
  },
  "79402c74447d": {
   "category": "Wild West shows",
@@ -129020,6 +129628,22 @@
   "video_ready": true,
   "year": 2023
  },
+ "7c9a0216b410": {
+  "category": "Oseberg ship",
+  "credit": "Own work",
+  "date": "2017-06-29 11:50:47",
+  "description": "Bjarke, downscaled copy of the Oseberg ship",
+  "era": "modern_event",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 1903,
+  "orig_width": 2385,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/7c9a0216b410.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Bjarke_01.jpg",
+  "title": "File:Bjarke 01.jpg",
+  "video_ready": false,
+  "year": 2017
+ },
  "7ca75cac44c0": {
   "category": "Abilene, Texas",
   "credit": "self-taken photo by the author",
@@ -129699,6 +130323,22 @@
   "title": "File:Cowhands wrestle a longhorn calf to the ground on branding day at the 1,800-acre Lonesome Pine Ranch, a working cattle ranch that is part of the Texas Ranch Life ranch resort near Chappell Hill in LCCN2014632582.tif",
   "video_ready": true,
   "year": 2014
+ },
+ "7d5195512fa1": {
+  "category": "Staffordshire Hoard",
+  "credit": "Cloisonn\u00e9 work",
+  "date": "2009-11-27 07:20",
+  "description": "The Hoard contained a large number of objects decorated with cloisonn\u00e9 inlay. In this technique small gold walls are soldered upright onto a backing plate. The resulting cells are then inlaid with shaped and polished slivers of garnet. Fine gold foils with impressed waffle patterns were mounted beneath the garnets. These reflect light and so increase the glittering effect. The patterned gold foil ",
+  "era": "modern_event",
+  "license": "CC BY 2.0",
+  "orig_height": 2736,
+  "orig_width": 3648,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/7d5195512fa1.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Cloisonn%C3%A9_work_(4139637486).jpg",
+  "title": "File:Cloisonn\u00e9 work (4139637486).jpg",
+  "video_ready": true,
+  "year": 2009
  },
  "7d5661d48126": {
   "category": "History of Houston",
@@ -132871,6 +133511,22 @@
   "title": "File:Intelligence, surveillance and reconnaissance Airmen provide 'half the battle' DVIDS210833.jpg",
   "video_ready": false,
   "year": 2009
+ },
+ "808172421490": {
+  "category": "County courthouses in Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a027 September 2015, 08:52:55",
+  "description": "The Baylor County Courthouse in Seymour, Texas, United States was built in 1968.",
+  "era": "historical",
+  "license": "CC BY 4.0",
+  "orig_height": 1356,
+  "orig_width": 2411,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/808172421490.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Baylor_County_Texas_Courthouse_2015.jpg",
+  "title": "File:Baylor County Texas Courthouse 2015.jpg",
+  "video_ready": false,
+  "year": 1968
  },
  "8085cadaffbe": {
   "category": "Sharecropping",
@@ -136554,6 +137210,22 @@
   "video_ready": true,
   "year": 2015
  },
+ "84528492eb9c": {
+  "category": "Staffordshire Hoard",
+  "credit": "Cloisonn\u00e9 work",
+  "date": "2009-11-27 07:20",
+  "description": "The Hoard contained a large number of objects decorated with cloisonn\u00e9 inlay. In this technique small gold walls are soldered upright onto a backing plate. The resulting cells are then inlaid with shaped and polished slivers of garnet. Fine gold foils with impressed waffle patterns were mounted beneath the garnets. These reflect light and so increase the glittering effect. The patterned gold foil ",
+  "era": "modern_event",
+  "license": "CC BY 2.0",
+  "orig_height": 2736,
+  "orig_width": 3648,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/84528492eb9c.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Cloisonn%C3%A9_work_(4139636338).jpg",
+  "title": "File:Cloisonn\u00e9 work (4139636338).jpg",
+  "video_ready": true,
+  "year": 2009
+ },
  "8453e21c45c6": {
   "category": "Photographs by Lewis Hine",
   "credit": "U.S. National Archives and Records Administration",
@@ -138253,6 +138925,22 @@
   "title": "File:Comfort Suites, Jewett, TX IMG 2292.JPG",
   "video_ready": true,
   "year": 2011
+ },
+ "85f167e7872f": {
+  "category": "Houses in Texas",
+  "credit": "https://www.flickr.com/photos/texasstatearchives/9502391287/",
+  "date": "2013-08-13 14:03:06",
+  "description": "Title:  Ephriam Fuqua Home, built 1830s\nLocation: Anderson, Texas\n\nDate: 1935",
+  "era": "historical",
+  "license": "No restrictions",
+  "orig_height": 2189,
+  "orig_width": 3028,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/85f167e7872f.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fannie_Ratchford_1970_0029_(9502391287).jpg",
+  "title": "File:Fannie Ratchford 1970 0029 (9502391287).jpg",
+  "video_ready": true,
+  "year": 1935
  },
  "85fbb472cd57": {
   "category": "Viking art",
@@ -145933,6 +146621,22 @@
   "video_ready": true,
   "year": 2014
  },
+ "8d7a88903de9": {
+  "category": "Anglo-Saxon brooches",
+  "credit": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art. See the Image and Data Resources Open Access Policy",
+  "date": "500\u2013600",
+  "description": "Anglo-Saxon; Brooch; Metalwork-Copper",
+  "era": "historical",
+  "license": "CC0",
+  "orig_height": 2011,
+  "orig_width": 1855,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/8d7a88903de9.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Square-Headed_Bow_Brooch_MET_DP30059.jpg",
+  "title": "File:Square-Headed Bow Brooch MET DP30059.jpg",
+  "video_ready": false,
+  "year": null
+ },
  "8d801c02f6e5": {
   "category": "Racial segregation in the United States",
   "credit": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID fsa.8c20122.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
@@ -148643,6 +149347,22 @@
   "video_ready": false,
   "year": 2024
  },
+ "90019c405d79": {
+  "category": "Austin, Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a026 March 2021, 12:36:36",
+  "description": "The Capital MetroRail MLK, Jr. Station in Austin, Texas, United States.",
+  "era": "site_today",
+  "license": "CC BY 4.0",
+  "orig_height": 1500,
+  "orig_width": 2250,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/90019c405d79.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Capital_MetroRail_MLK_Jr_Station_2021.jpg",
+  "title": "File:Capital MetroRail MLK Jr Station 2021.jpg",
+  "video_ready": false,
+  "year": 2021
+ },
  "900e3ed0cfad": {
   "category": "Barns in Texas",
   "credit": "https://www.loc.gov/pictures/item/tx0675.photos.045540p",
@@ -150138,6 +150858,22 @@
   "title": "File:Matewan, West Virginia.JPG",
   "video_ready": true,
   "year": 1920
+ },
+ "917d68fd2961": {
+  "category": "Florida Keys",
+  "credit": "Own work",
+  "date": "25 de agosto 1995",
+  "description": "Cayos en Florida, USA",
+  "era": "modern_event",
+  "license": "CC BY 4.0",
+  "orig_height": 3824,
+  "orig_width": 5728,
+  "page": "florida",
+  "path": "images/florida/917d68fd2961.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Cayos_en_Florida.jpg",
+  "title": "File:Cayos en Florida.jpg",
+  "video_ready": true,
+  "year": 1995
  },
  "917dbdaaa674": {
   "category": "Tuskegee Airmen",
@@ -159184,6 +159920,22 @@
   "video_ready": true,
   "year": 2014
  },
+ "9a758505eeca": {
+  "category": "Anglo-Saxon art",
+  "credit": "Utrecht University Library",
+  "date": "circa 850 a.d.",
+  "description": "From the Utrecht Psalter, men playing an organ (and working to keep air going into it). Labeled in Latin, \"et organo\". Praising God with music.",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 1088,
+  "orig_width": 1631,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/9a758505eeca.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Utrechts-Psalter_PSALM-149-PSALM-150_organ.jpg",
+  "title": "File:Utrechts-Psalter PSALM-149-PSALM-150 organ.jpg",
+  "video_ready": false,
+  "year": null
+ },
  "9a81284dbfea": {
   "category": "Gullah",
   "credit": "Own work",
@@ -163190,6 +163942,22 @@
   "video_ready": false,
   "year": null
  },
+ "9e9b285e2ea3": {
+  "category": "Banks in Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a01 April 2014",
+  "description": "The Badger Building on the square in Burnet, Texas, United States. This two-story limestone structure was completed about 1883. In 1903, the newly formed Burnet National Bank was located here and remained at this site until it closed during the Great Depression.",
+  "era": "historical",
+  "license": "CC BY 4.0",
+  "orig_height": 1514,
+  "orig_width": 2080,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/9e9b285e2ea3.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Badger_building_burnet.jpg",
+  "title": "File:Badger building burnet.jpg",
+  "video_ready": false,
+  "year": 1883
+ },
  "9ea236ae3943": {
   "category": "Tuskegee Airmen",
   "credit": "18_000220 SDASM Image",
@@ -166002,6 +166770,22 @@
   "title": "File:Goodyear Airdock.jpg",
   "video_ready": true,
   "year": 2019
+ },
+ "a14b9bde110a": {
+  "category": "Corpus Christi, Texas",
+  "credit": "USCGC Skipjack",
+  "date": "2007-09-14 03:03",
+  "description": "WPB 87353 entering Corpus Christi, Texas.",
+  "era": "modern_event",
+  "license": "CC BY-SA 2.0",
+  "orig_height": 1326,
+  "orig_width": 1998,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/a14b9bde110a.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:USCGC_Skipjack_(WPB_87353)_entering_Corpus_Christi,_Texas.jpg",
+  "title": "File:USCGC Skipjack (WPB 87353) entering Corpus Christi, Texas.jpg",
+  "video_ready": false,
+  "year": 2007
  },
  "a14e6f5ca733": {
   "category": "Emigration from Italy",
@@ -180650,6 +181434,22 @@
   "video_ready": false,
   "year": 1974
  },
+ "b031e81c6fc0": {
+  "category": "Houses in Texas",
+  "credit": "https://www.flickr.com/photos/texasstatearchives/9505189438/",
+  "date": "2013-08-13 14:03:02",
+  "description": "Title:  John Black Stone Spring House on Schroeder Place, used for storing milk\nLocation: Anderson, Texas\n\nDate: 1935",
+  "era": "historical",
+  "license": "No restrictions",
+  "orig_height": 1207,
+  "orig_width": 1983,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/b031e81c6fc0.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fannie_Ratchford_1970_0047_(9505189438).jpg",
+  "title": "File:Fannie Ratchford 1970 0047 (9505189438).jpg",
+  "video_ready": false,
+  "year": 1935
+ },
  "b032a31bb0f5": {
   "category": "Camp Swift",
   "credit": "This image was released by the United States Army with the ID 110813-A-FG822-037 (next).\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.\n\n\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u00a0\u2219 \u09ac\u09be\u0982\u09b2\u09be\u00a0\u2219 \nBahasa Indonesia\u00a0\u2219 \nBahaso Jambi\u00a0\u2219 \nDeutsch\u00a0\u2219 Deutsch (Sie-Form)\u00a0\u2219 English\u00a0\u2219 espa\u00f1ol\u00a0\u2219 euskara\u00a0\u2219 \u0641\u0627\u0631\u0633\u06cc\u00a0\u2219 fran\u00e7ais\u00a0\u2219 italiano\u00a0\u2219 \u65e5\u672c\u8a9e\u00a0\u2219 \ud55c\uad6d\uc5b4\u00a0\u2219 \u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\u00a0\u2219 \u0d2e\u0d32\u0d2f",
@@ -182271,6 +183071,22 @@
   "video_ready": false,
   "year": 1909
  },
+ "b1d5f02ba3c2": {
+  "category": "Anglo-Saxons",
+  "credit": "https://finds.org.uk/database/ajax/download/id/85788Catalog: https://finds.org.uk/database/images/image/id/85788/recordtype/artefacts archive copy at the Wayback MachineArtefact: https://finds.org.uk/database/artefacts/record/id/116195",
+  "date": "between 450 and 1066",
+  "description": "Worn, Limestone spindlewhorl, probably Anglo-Saxon. The spindlewhorl is plano-convex, having a flat bottom and domed top. It has a central circular perforation through its length. The object is abraded, but appears to have been undecorated. The limestone has a chalky white appearance. The spindlewhorl is 32.74mm in diameter, 14.32mm thick and weighs 17.92g. A similar shaped, though pottery, spindl",
+  "era": "historical",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 1704,
+  "orig_width": 2272,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/b1d5f02ba3c2.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Early_medieval_limestone_spindle_whorl,_top_view_(FindID_116195).jpg",
+  "title": "File:Early medieval limestone spindle whorl, top view (FindID 116195).jpg",
+  "video_ready": false,
+  "year": null
+ },
  "b1d628301ab4": {
   "category": "Cemeteries in West Virginia",
   "credit": "Own work",
@@ -182887,6 +183703,22 @@
   "title": "File:Unidentified Artist - Sojourner Truth - Google Art Project.jpg",
   "video_ready": true,
   "year": 1864
+ },
+ "b27f2428f410": {
+  "category": "Banks in Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a027 June 2014",
+  "description": "The first bank building in Jack County, Texas, United States formerly housed the First National Bank. The building was designated a Recorded Texas Historic Landmark in 1969.",
+  "era": "historical",
+  "license": "CC BY 4.0",
+  "orig_height": 1450,
+  "orig_width": 2175,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/b27f2428f410.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:First_bank_building_in_jack_county_tx.jpg",
+  "title": "File:First bank building in jack county tx.jpg",
+  "video_ready": false,
+  "year": 1969
  },
  "b285c477fb64": {
   "category": "Coal mining in the United States",
@@ -191741,6 +192573,22 @@
   "title": "File:Florida statehood centenary 1945 U.S. stamp.1.jpg",
   "year": 1945
  },
+ "bac046541192": {
+  "category": "Oseberg ship",
+  "credit": "84 Oslo 1984",
+  "date": "1984-09-01 12:00",
+  "description": "Das  Oseberg-Schiff im Vikingskipshuset auf der Halbinsel  Bygd\u00f8y,  Oslo",
+  "era": "modern_event",
+  "license": "CC BY-SA 2.0",
+  "orig_height": 2138,
+  "orig_width": 3252,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/bac046541192.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:84_Oslo_1984_(16902519228).jpg",
+  "title": "File:84 Oslo 1984 (16902519228).jpg",
+  "video_ready": true,
+  "year": 1984
+ },
  "bac06effb01b": {
   "category": "Shotgun houses",
   "credit": "Photo by Infrogmation",
@@ -192390,6 +193238,22 @@
   "source": "https://commons.wikimedia.org/wiki/File:Spindletop_Oil_Field_4.jpg",
   "title": "File:Spindletop Oil Field 4.jpg",
   "year": 1903
+ },
+ "bb5cac3b3c36": {
+  "category": "Corpus Christi, Texas",
+  "credit": "Own work",
+  "date": "2010-02-13 23:09:48",
+  "description": "SPID - Corpus Christi TX",
+  "era": "modern_event",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 928,
+  "orig_width": 1694,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/bb5cac3b3c36.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:SPID_-_Corpus_Christi_TX.JPG",
+  "title": "File:SPID - Corpus Christi TX.JPG",
+  "video_ready": false,
+  "year": 2010
  },
  "bb5e56fbb793": {
   "category": "Great Migration (African American)",
@@ -193275,6 +194139,22 @@
   "title": "File:LAMPS tactics sub surface.png",
   "video_ready": true,
   "year": 1975
+ },
+ "bc182d6d85d8": {
+  "category": "Corpus Christi, Texas",
+  "credit": "Own work",
+  "date": "2025-09-27",
+  "description": "NAAS Cuddihy Field\u2019s insignia from the 1940s, digitally restored.",
+  "era": "site_today",
+  "license": "CC0",
+  "orig_height": 1213,
+  "orig_width": 2000,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/bc182d6d85d8.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Insignia_of_Cuddihy_Field.jpg",
+  "title": "File:Insignia of Cuddihy Field.jpg",
+  "video_ready": false,
+  "year": 2025
  },
  "bc1ca821bff6": {
   "category": "Davis-Monthan Air Force Base",
@@ -194709,6 +195589,22 @@
   "video_ready": true,
   "year": 2016
  },
+ "bd5216abd814": {
+  "category": "Houses in Texas",
+  "credit": "https://www.flickr.com/photos/texasstatearchives/9502391215/",
+  "date": "2013-08-13 14:03:05",
+  "description": "Title: Allen Green Home, built circa 1840\nLocation: Anderson, Texas\n\nDate: 1936",
+  "era": "historical",
+  "license": "No restrictions",
+  "orig_height": 2126,
+  "orig_width": 2871,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/bd5216abd814.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fannie_Ratchford_1970_0031_(9502391215).jpg",
+  "title": "File:Fannie Ratchford 1970 0031 (9502391215).jpg",
+  "video_ready": true,
+  "year": 1840
+ },
  "bd54179f96b5": {
   "category": "Nike missile sites",
   "credit": "Own work",
@@ -195776,6 +196672,22 @@
   "title": "File:Conte de la vaulx dirigeable 92832.jpg",
   "video_ready": false,
   "year": 1909
+ },
+ "be5b7bd221c1": {
+  "category": "Anglo-Saxons",
+  "credit": "https://finds.org.uk/database/ajax/download/id/85789Catalog: https://finds.org.uk/database/images/image/id/85789/recordtype/artefacts archive copy at the Wayback MachineArtefact: https://finds.org.uk/database/artefacts/record/id/116195",
+  "date": "between 450 and 1066",
+  "description": "Worn, Limestone spindlewhorl, probably Anglo-Saxon. The spindlewhorl is plano-convex, having a flat bottom and domed top. It has a central circular perforation through its length. The object is abraded, but appears to have been undecorated. The limestone has a chalky white appearance. The spindlewhorl is 32.74mm in diameter, 14.32mm thick and weighs 17.92g. A similar shaped, though pottery, spindl",
+  "era": "historical",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 1704,
+  "orig_width": 2272,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/be5b7bd221c1.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Early_medieval_limestone_spindle_whorl,_profile_view_(FindID_116195).jpg",
+  "title": "File:Early medieval limestone spindle whorl, profile view (FindID 116195).jpg",
+  "video_ready": false,
+  "year": null
  },
  "be6449ba9685": {
   "category": "Beaumont, Texas",
@@ -196923,6 +197835,22 @@
   "title": "File:Army Aviation School, Augusta from Aeroplane (1) LCCN2014690125.jpg",
   "video_ready": true,
   "year": 1910
+ },
+ "bf9b97104a89": {
+  "category": "Anglo-Saxons",
+  "credit": "https://finds.org.uk/database/ajax/download/id/201396Catalog: https://finds.org.uk/database/images/image/id/201396/recordtype/artefacts archive copy at the Wayback MachineArtefact: https://finds.org.uk/database/artefacts/record/id/245343",
+  "date": "between 800 and 1000",
+  "description": "An Early Medieval (Anglo Saxon) pottery body sherd from a Shelly Ware cooking jar (9th \u2013 10th century).  The fabric is dark grey with red external surface, frequent shell inclusions and cavities from an organic temper.  This fragment is comprised of two sherds glued together.  \nDimensions: weight: 47.90g.\n\nIdentified by Meriel Jeater, Museum of London Curator and Medieval and Post Medieval pottery",
+  "era": "historical",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 1159,
+  "orig_width": 2300,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/bf9b97104a89.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:An_Early_Medieval_(Anglo_Saxon)_pottery_body_sherd_from_a_Shelly_Ware_cooking_jar_(9th_%E2%80%93_10th_century)._(FindID_245343).jpg",
+  "title": "File:An Early Medieval (Anglo Saxon) pottery body sherd from a Shelly Ware cooking jar (9th \u2013 10th century). (FindID 245343).jpg",
+  "video_ready": false,
+  "year": null
  },
  "bf9ebb2a1000": {
   "category": "George Washington Carver",
@@ -202371,6 +203299,22 @@
   "video_ready": true,
   "year": 1854
  },
+ "c4ea8dd6955b": {
+  "category": "Anglo-Saxons",
+  "credit": "https://finds.org.uk/database/ajax/download/id/419618Catalog: https://finds.org.uk/database/images/image/id/419618/recordtype/artefacts archive copy at the Wayback MachineArtefact: https://finds.org.uk/database/artefacts/record/id/415072",
+  "date": "between 500 and 1000",
+  "description": "Pottery\n\n\nBody sherd. Grey to buff fabric with inclusions of rounded quartz; this sherd is possibly Anglo-Saxon, and was kindly identified by Sandra Firth, Hazel West and Helen Fry of the Community Archaeology Programme. Suggested date: Early Medieval, 500-1000. Weight: 8.56gms",
+  "era": "historical",
+  "license": "CC BY-SA 2.0",
+  "orig_height": 962,
+  "orig_width": 2384,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/c4ea8dd6955b.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Early_Medieval_sherd_from_Binbrook_(FindID_415072).jpg",
+  "title": "File:Early Medieval sherd from Binbrook (FindID 415072).jpg",
+  "video_ready": false,
+  "year": null
+ },
  "c4ec19800607": {
   "category": "Wild West shows",
   "credit": "Own work",
@@ -205647,6 +206591,22 @@
   "title": "File:HD.5C.044 (11873678214).jpg",
   "video_ready": true,
   "year": 1972
+ },
+ "c7e6c644dbad": {
+  "category": "Oseberg ship",
+  "credit": "Viking Ship Museum, Oslo, Norway",
+  "date": "1904",
+  "description": "Excavation of the Oseberg ship",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 2825,
+  "orig_width": 3750,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/c7e6c644dbad.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Excavation_Oseberg_ship_2.jpg",
+  "title": "File:Excavation Oseberg ship 2.jpg",
+  "video_ready": true,
+  "year": 1904
  },
  "c7e93a69cbcd": {
   "category": "Great Plains",
@@ -209289,6 +210249,22 @@
   "video_ready": true,
   "year": 2016
  },
+ "cb55d4b6a67c": {
+  "category": "Book of Kells",
+  "credit": "The Yorck Project (2002)       10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH.  ISBN:  3936122202.",
+  "date": "8th century",
+  "description": "",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 2148,
+  "orig_width": 1576,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/cb55d4b6a67c.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Meister_des_Book_of_Kells_001.jpg",
+  "title": "File:Meister des Book of Kells 001.jpg",
+  "video_ready": false,
+  "year": null
+ },
  "cb59313fa54f": {
   "category": "Wild West shows",
   "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/93510428\nImage download: https://cdn.loc.gov/master/pnp/cph/3g00000/3g02000/3g02300/3g02351u.tif\nOriginal url: https://www.loc.gov/pictures/item/93510428/",
@@ -209636,6 +210612,22 @@
   "title": "File:Mammoth Cave National Park - 38-257835.jpg",
   "video_ready": false,
   "year": 2007
+ },
+ "cbb233701e57": {
+  "category": "Anglo-Saxons",
+  "credit": "https://finds.org.uk/database/ajax/download/id/7974Catalog: https://finds.org.uk/database/images/image/id/7974/recordtype/artefacts archive copy at the Wayback MachineArtefact: https://finds.org.uk/database/artefacts/record/id/36751",
+  "date": "between 500 and 600",
+  "description": "Rim sherd from a small biconical bowl.  Hand-made, and decorated with a band of incised decoration above the shoulder.  The surviving fragment of decoration consists of a horizontal line at the top, then four oblique lines running one way and four the other to form a V shape.  Early Anglo-Saxon, probably sixth century AD.  The bowl originally had a rim diameter of 90 mm, which is too small for a c",
+  "era": "historical",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 884,
+  "orig_width": 1794,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/cbb233701e57.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Early_medieval_vessel_rim_sherd_(FindID_36751).jpg",
+  "title": "File:Early medieval vessel rim sherd (FindID 36751).jpg",
+  "video_ready": false,
+  "year": null
  },
  "cbb269516673": {
   "category": "Anglo-Saxons",
@@ -227419,6 +228411,22 @@
   "video_ready": false,
   "year": 2014
  },
+ "dcac860fcbc9": {
+  "category": "Corpus Christi, Texas",
+  "credit": "https://web.archive.org/web/20161023165631/http://www.panoramio.com/photo/68160962",
+  "date": "Taken on\u00a029 January 2012",
+  "description": "Mustang Beach",
+  "era": "modern_event",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 2592,
+  "orig_width": 1936,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/dcac860fcbc9.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Mustang_Beach_-_panoramio_(6).jpg",
+  "title": "File:Mustang Beach - panoramio (6).jpg",
+  "video_ready": false,
+  "year": 2012
+ },
  "dcb7853ff220": {
   "category": "Coal mining in Alabama",
   "credit": "U.S. National Archives and Records Administration",
@@ -227719,6 +228727,22 @@
   "title": "File:Tampa Heights Buffalo Soldiers marker01.jpg",
   "video_ready": false,
   "year": 1898
+ },
+ "dd0cce7e4031": {
+  "category": "Book of Kells",
+  "credit": "Book of Kells",
+  "date": "",
+  "description": "Image of page from the Book of Kells, a 1200 year old book in public domain.\n\nen:Category:Illuminated manuscript images",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 2900,
+  "orig_width": 2220,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/dd0cce7e4031.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:KellsFol309r.jpg",
+  "title": "File:KellsFol309r.jpg",
+  "video_ready": false,
+  "year": null
  },
  "dd0f96d74a8a": {
   "category": "Anglo-Saxon brooches",
@@ -229530,6 +230554,22 @@
   "video_ready": true,
   "year": 2026
  },
+ "df3298c242b8": {
+  "category": "Anglo-Saxon brooches",
+  "credit": "Own work",
+  "date": "2018-06-09 14:16:27",
+  "description": "The Kennard Brooch, a seventh-century Anglo-Saxon jewelled brooch. Foudn during the excavation of an Anglo-Saxon cemetery in King's Field, Faversham, Kent. On display at the Fitzwilliam Museum in Cambridge.",
+  "era": "site_today",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 3069,
+  "orig_width": 2695,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/df3298c242b8.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Kennard_Brooch.jpg",
+  "title": "File:The Kennard Brooch.jpg",
+  "video_ready": true,
+  "year": 2018
+ },
  "df34778a89c1": {
   "category": "San Antonio, Texas",
   "credit": "20201024-NRCS-LSC-0293",
@@ -230421,6 +231461,22 @@
   "title": "File:Insurrectos outpost LCCN2002697941.jpg",
   "video_ready": false,
   "year": 1911
+ },
+ "e0215ff7e700": {
+  "category": "Book of Kells",
+  "credit": "https://archive.org/details/scotlandinearlyc00ande",
+  "date": "1881-12-31",
+  "description": "Representation of the Temple in the Book of Kells. Figure from: Anderson, Joseph (1881)       Scotland in Early Christian Times, David Douglas",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 1750,
+  "orig_width": 1816,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/e0215ff7e700.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_Anderson_1881_Fig_91_scotlandinearlyc00ande_0283.jpg",
+  "title": "File:Temple Anderson 1881 Fig 91 scotlandinearlyc00ande 0283.jpg",
+  "video_ready": false,
+  "year": 1881
  },
  "e02273da87ac": {
   "category": "Viking art",
@@ -243590,6 +244646,22 @@
   "title": "File:Assembly cavaretta's.jpg",
   "year": 2025
  },
+ "eddfb899b632": {
+  "category": "Anglo-Saxon art",
+  "credit": "Utrecht University Library",
+  "date": "circa 850 a.d.",
+  "description": "From the Utrecht Psalter, musicians (left) blowing their trumpets/horns (labeled \"tuba\" in Latin). Musicians left with psaltery/harp and\n, labeled \"psalterium and cithara\" in text.",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 1326,
+  "orig_width": 2241,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/eddfb899b632.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Utrechts-Psalter_PSALM-80_playing_to_God.jpg",
+  "title": "File:Utrechts-Psalter PSALM-80 playing to God.jpg",
+  "video_ready": false,
+  "year": null
+ },
  "ede15830ec56": {
   "category": "Blue Ridge Mountains",
   "credit": "https://www.flickr.com/photos/47445767@N05/36866098096/",
@@ -246184,6 +247256,22 @@
   "video_ready": true,
   "year": 1917
  },
+ "f01ca8cf3776": {
+  "category": "Banks in Texas",
+  "credit": "digital camera",
+  "date": "2006-08-15 20:08",
+  "description": "A CapitalOne branch, formerly a Hibernia National Bank, located in Wake Village, Texas.",
+  "era": "site_today",
+  "license": "Public domain",
+  "orig_height": 1376,
+  "orig_width": 2048,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/f01ca8cf3776.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:CapitalOne_exterior.jpg",
+  "title": "File:CapitalOne exterior.jpg",
+  "video_ready": false,
+  "year": 2006
+ },
  "f0263539b23a": {
   "category": "African American Civil War history",
   "credit": "U.S. National Archives and Records Administration",
@@ -247742,6 +248830,22 @@
   "title": "File:Map Italy in the world 1989 - Italians in the world in 1981 - Touring Club Italiano CART-TEM-001.jpg",
   "video_ready": true,
   "year": 1981
+ },
+ "f1941e91b8d9": {
+  "category": "Corpus Christi, Texas",
+  "credit": "This image is from the FEMA Photo Library (obsolete as of 2019).An archived copy may be found at the Wayback Machine (note: link may be permanently dead, as not all photos were backed up in this way).If the FEMA link is permanently dead, the photo can be found at NARA Access to Archival Databases (only works if photo was taken between 1989 and October 2004), or at City-data.com.",
+  "date": "2008-09-11",
+  "description": "Corpus Christi, TX, September 11, 2008 -- Members of the Air Force and FEMA carry a patient from a plane to an temporary shelter in Corpus Christi, TX. FEMA is working with the State of Texas to provide adequate transportation assistance to residents who may need to evacuate from their homes.",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 1993,
+  "orig_width": 3000,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/f1941e91b8d9.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Texas_patient_evacuated_prior_to_Hurricane_Ike_landfall.jpg",
+  "title": "File:Texas patient evacuated prior to Hurricane Ike landfall.jpg",
+  "video_ready": true,
+  "year": 2008
  },
  "f194bff5c51c": {
   "category": "Naval Air Station Key West",
@@ -250650,6 +251754,22 @@
   "video_ready": true,
   "year": 2009
  },
+ "f4c29d7603b9": {
+  "category": "Book of Kells",
+  "credit": "",
+  "date": "",
+  "description": "",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 1958,
+  "orig_width": 1500,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/f4c29d7603b9.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:KellsFol188rQuoniam.jpg",
+  "title": "File:KellsFol188rQuoniam.jpg",
+  "video_ready": false,
+  "year": null
+ },
  "f4c6eaca07cc": {
   "category": "African Americans in Texas",
   "credit": "This image is from the FEMA Photo Library (obsolete as of 2019).An archived copy may be found at the Wayback Machine (note: link may be permanently dead, as not all photos were backed up in this way).If the FEMA link is permanently dead, the photo can be found at NARA Access to Archival Databases (only works if photo was taken between 1989 and October 2004), or at City-data.com.",
@@ -252573,6 +253693,22 @@
   "title": "File:Coral Castle.jpg",
   "video_ready": true,
   "year": 2017
+ },
+ "f6a0504a549d": {
+  "category": "County courthouses in Texas",
+  "credit": "Own work",
+  "date": "2016-02-18 11:25:52",
+  "description": "The Brooks County Courthouse in Falfurrias, Texas.",
+  "era": "site_today",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 1224,
+  "orig_width": 1632,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/f6a0504a549d.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Brooks_County_Courthouse,_Falfurrias,_Texas.JPG",
+  "title": "File:Brooks County Courthouse, Falfurrias, Texas.JPG",
+  "video_ready": false,
+  "year": 2016
  },
  "f6a208a1d4f2": {
   "category": "Naples",
@@ -260076,6 +261212,22 @@
   "video_ready": true,
   "year": 2024
  },
+ "fd5ce677fdda": {
+  "category": "Banks in Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a012 June 2010",
+  "description": "The Badu Building in Llano, Texas, United States. The Badu Building was constructed in 1890 by the Llano Improvement and Furnace Company to house the First National Bank. The building was listed on the National Register of Historic Places on June 6, 1980 and designated a Recorded Texas Historic Landmark in 1981.",
+  "era": "historical",
+  "license": "CC BY 4.0",
+  "orig_height": 1045,
+  "orig_width": 1847,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/fd5ce677fdda.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Badu_building_in_in_Llano,_Texas_2010.jpg",
+  "title": "File:Badu building in in Llano, Texas 2010.jpg",
+  "video_ready": false,
+  "year": 1890
+ },
  "fd6d431b7320": {
   "category": "Cotton gins",
   "credit": "Own work",
@@ -262213,6 +263365,22 @@
   "title": "File:Jacob Riis 12.jpg",
   "video_ready": false,
   "year": 1890
+ },
+ "ffa4425d6f68": {
+  "category": "Banks in Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a013 May 2016, 09:19:02",
+  "description": "The Williamson Museum in Georgetown, Texas, United States is housed in the former Farmers State Bank Building. The Neoclassical style building was built in 1912 and designated a Recorded Texas Historic Landmark in 2006.",
+  "era": "historical",
+  "license": "CC BY 4.0",
+  "orig_height": 1500,
+  "orig_width": 2250,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/ffa4425d6f68.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Williamson_Museum_Georgetown_Texas.jpg",
+  "title": "File:The Williamson Museum Georgetown Texas.jpg",
+  "video_ready": false,
+  "year": 1912
  },
  "ffa906202ae9": {
   "category": "Palo Duro Canyon",
