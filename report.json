@@ -297,25 +297,25 @@
   "wrong_license": 0
  },
  "Anglo-Saxon art": {
-  "already_had": 25,
+  "already_had": 27,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 53,
   "video_ready": 0,
   "wrong_license": 0
  },
  "Anglo-Saxon brooches": {
-  "already_had": 46,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 27,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Anglo-Saxon coins": {
@@ -341,14 +341,14 @@
   "wrong_license": 0
  },
  "Anglo-Saxons": {
-  "already_had": 24,
+  "already_had": 33,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 9,
   "page": "anglo-saxon",
   "too_small": 37,
-  "video_ready": 2,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Anniston Army Depot": {
@@ -451,14 +451,14 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 44,
+  "already_had": 45,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 2,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Bakeries": {
@@ -473,22 +473,22 @@
   "wrong_license": 0
  },
  "Banks in Texas": {
-  "already_had": 48,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 9,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 22,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 1
  },
  "Barksdale Air Force Base": {
-  "already_had": 15,
+  "already_had": 16,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "louisiana",
   "too_small": 48,
   "video_ready": 0,
@@ -682,14 +682,14 @@
   "wrong_license": 0
  },
  "Book of Kells": {
-  "already_had": 16,
+  "already_had": 23,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 7,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 57,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Booker T. Washington": {
@@ -917,10 +917,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 9,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 0,
+  "video_ready": 5,
   "wrong_license": 0
  },
  "Cemeteries in West Virginia": {
@@ -1188,14 +1188,14 @@
   "wrong_license": 0
  },
  "Corpus Christi, Texas": {
-  "already_had": 43,
+  "already_had": 52,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 9,
+  "kept": 2,
   "page": "lonestar-legacy",
   "too_small": 25,
-  "video_ready": 3,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Cotton gins": {
@@ -1254,11 +1254,11 @@
   "wrong_license": 0
  },
  "County courthouses in Texas": {
-  "already_had": 66,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 9,
   "video_ready": 0,
@@ -1368,10 +1368,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 10,
   "page": "lonestar-legacy",
   "too_small": 12,
-  "video_ready": 0,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Ellis Island": {
@@ -1507,14 +1507,14 @@
   "wrong_license": 0
  },
  "Florida Keys": {
-  "already_had": 49,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "florida",
   "too_small": 27,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 3
  },
  "Fog": {
@@ -1808,10 +1808,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
-  "too_small": 39,
-  "video_ready": 0,
+  "too_small": 38,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Gullah": {
@@ -1883,11 +1883,11 @@
  "History of Birmingham, Alabama": {
   "already_had": 61,
   "book_scan": 0,
-  "candidates": 71,
+  "candidates": 72,
   "exists": true,
   "kept": 0,
   "page": "alabama",
-  "too_small": 10,
+  "too_small": 11,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1949,12 +1949,12 @@
  "History of Miami, Florida": {
   "already_had": 23,
   "book_scan": 0,
-  "candidates": 51,
+  "candidates": 52,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "florida",
   "too_small": 28,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "History of New Orleans": {
@@ -2013,14 +2013,14 @@
   "wrong_license": 0
  },
  "Houses in Texas": {
-  "already_had": 60,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 2,
   "page": "lonestar-legacy",
   "too_small": 8,
-  "video_ready": 5,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Huntsville, Alabama": {
@@ -2248,10 +2248,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 10,
   "page": "anglo-saxon",
   "too_small": 6,
-  "video_ready": 0,
+  "video_ready": 10,
   "wrong_license": 0
  },
  "Lake Buchanan": {
@@ -2849,14 +2849,14 @@
   "wrong_license": 0
  },
  "Oseberg ship": {
-  "already_had": 58,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 4,
   "page": "anglo-saxon",
   "too_small": 8,
-  "video_ready": 7,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Overseas Railroad": {
@@ -2871,14 +2871,14 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 69,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 7,
   "page": "growing-up-italian",
   "too_small": 5,
-  "video_ready": 0,
+  "video_ready": 7,
   "wrong_license": 0
  },
  "Palo Duro Canyon": {
@@ -3509,14 +3509,14 @@
   "wrong_license": 0
  },
  "Staffordshire Hoard": {
-  "already_had": 72,
+  "already_had": 76,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 4,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Stagecoaches": {
@@ -3865,10 +3865,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 4,
   "page": "anglo-saxon",
   "too_small": 28,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Vikings": {
@@ -3971,8 +3971,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4161,
-  "modern_event": 4393,
-  "site_today": 2431
+  "historical": 4177,
+  "modern_event": 4402,
+  "site_today": 2445
  }
 }
