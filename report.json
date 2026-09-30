@@ -341,14 +341,14 @@
   "wrong_license": 0
  },
  "Anglo-Saxons": {
-  "already_had": 33,
+  "already_had": 42,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 9,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 37,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Anniston Army Depot": {
@@ -451,7 +451,7 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 45,
+  "already_had": 47,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -913,14 +913,14 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 55,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 9,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 5,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Cemeteries in West Virginia": {
@@ -1188,14 +1188,14 @@
   "wrong_license": 0
  },
  "Corpus Christi, Texas": {
-  "already_had": 52,
+  "already_had": 54,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 25,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Cotton gins": {
@@ -1364,14 +1364,14 @@
   "wrong_license": 0
  },
  "El Paso, Texas": {
-  "already_had": 51,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 7,
   "page": "lonestar-legacy",
   "too_small": 12,
-  "video_ready": 4,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Ellis Island": {
@@ -1804,14 +1804,14 @@
   "wrong_license": 0
  },
  "Grocery stores": {
-  "already_had": 41,
+  "already_had": 42,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 38,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Gullah": {
@@ -1947,14 +1947,14 @@
   "wrong_license": 2
  },
  "History of Miami, Florida": {
-  "already_had": 23,
+  "already_had": 24,
   "book_scan": 0,
   "candidates": 52,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "florida",
   "too_small": 28,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "History of New Orleans": {
@@ -2013,24 +2013,24 @@
   "wrong_license": 0
  },
  "Houses in Texas": {
-  "already_had": 70,
+  "already_had": 72,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 8,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Huntsville, Alabama": {
-  "already_had": 62,
+  "already_had": 63,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "alabama",
-  "too_small": 17,
+  "too_small": 16,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2244,14 +2244,14 @@
   "wrong_license": 0
  },
  "L'Anse aux Meadows": {
-  "already_had": 24,
+  "already_had": 34,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 15,
   "page": "anglo-saxon",
   "too_small": 6,
-  "video_ready": 10,
+  "video_ready": 14,
   "wrong_license": 0
  },
  "Lake Buchanan": {
@@ -2578,10 +2578,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "alabama",
-  "too_small": 35,
-  "video_ready": 0,
+  "too_small": 34,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Montgomery Bus Boycott": {
@@ -2849,14 +2849,14 @@
   "wrong_license": 0
  },
  "Oseberg ship": {
-  "already_had": 68,
+  "already_had": 72,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 8,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Overseas Railroad": {
@@ -2871,14 +2871,14 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 65,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 7,
+  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 5,
-  "video_ready": 7,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Palo Duro Canyon": {
@@ -2926,13 +2926,13 @@
   "wrong_license": 0
  },
  "Photographs by Ben Shahn": {
-  "already_had": 61,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "louisiana",
-  "too_small": 18,
+  "too_small": 17,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3520,13 +3520,13 @@
   "wrong_license": 0
  },
  "Stagecoaches": {
-  "already_had": 55,
+  "already_had": 56,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 24,
+  "too_small": 23,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3861,14 +3861,14 @@
   "wrong_license": 0
  },
  "Viking ships": {
-  "already_had": 44,
+  "already_had": 48,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 28,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Vikings": {
@@ -3971,8 +3971,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4177,
-  "modern_event": 4402,
-  "site_today": 2445
+  "historical": 4194,
+  "modern_event": 4404,
+  "site_today": 2447
  }
 }
