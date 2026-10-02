@@ -275,11 +275,11 @@
   "wrong_license": 0
  },
  "Anglo-Saxon Chronicle": {
-  "already_had": 8,
+  "already_had": 9,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 67,
   "video_ready": 0,
@@ -451,7 +451,7 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 49,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -1496,13 +1496,13 @@
   "wrong_license": 1
  },
  "Florida East Coast Railway": {
-  "already_had": 68,
+  "already_had": 58,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 10,
   "page": "florida",
-  "too_small": 12,
+  "too_small": 11,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2244,14 +2244,14 @@
   "wrong_license": 0
  },
  "L'Anse aux Meadows": {
-  "already_had": 49,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 11,
+  "kept": 10,
   "page": "anglo-saxon",
   "too_small": 6,
-  "video_ready": 10,
+  "video_ready": 9,
   "wrong_license": 0
  },
  "Lake Buchanan": {
@@ -2629,11 +2629,11 @@
   "wrong_license": 0
  },
  "Naples": {
-  "already_had": 52,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "growing-up-italian",
   "too_small": 26,
   "video_ready": 0,
@@ -2871,15 +2871,15 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 67,
+  "already_had": 72,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 5,
-  "video_ready": 5,
-  "wrong_license": 1
+  "video_ready": 1,
+  "wrong_license": 0
  },
  "Palo Duro Canyon": {
   "already_had": 69,
@@ -3520,13 +3520,13 @@
   "wrong_license": 0
  },
  "Stagecoaches": {
-  "already_had": 55,
+  "already_had": 56,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 24,
+  "too_small": 23,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3972,7 +3972,7 @@
  },
  "_era_video_ready": {
   "historical": 4197,
-  "modern_event": 4410,
-  "site_today": 2453
+  "modern_event": 4417,
+  "site_today": 2456
  }
 }
