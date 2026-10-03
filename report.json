@@ -279,7 +279,7 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 4,
   "page": "anglo-saxon",
   "too_small": 67,
   "video_ready": 0,
@@ -451,7 +451,7 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 50,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -1441,14 +1441,14 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 70,
+  "already_had": 55,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 10,
   "page": "florida",
-  "too_small": 10,
-  "video_ready": 0,
+  "too_small": 12,
+  "video_ready": 8,
   "wrong_license": 0
  },
  "Farm Security Administration": {
@@ -1496,11 +1496,11 @@
   "wrong_license": 1
  },
  "Florida East Coast Railway": {
-  "already_had": 58,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 4,
   "page": "florida",
   "too_small": 11,
   "video_ready": 0,
@@ -2244,14 +2244,14 @@
   "wrong_license": 0
  },
  "L'Anse aux Meadows": {
-  "already_had": 60,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 4,
   "page": "anglo-saxon",
   "too_small": 6,
-  "video_ready": 9,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Lake Buchanan": {
@@ -2629,11 +2629,11 @@
   "wrong_license": 0
  },
  "Naples": {
-  "already_had": 50,
+  "already_had": 52,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 26,
   "video_ready": 0,
@@ -2871,14 +2871,14 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 72,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 6,
   "page": "growing-up-italian",
   "too_small": 5,
-  "video_ready": 1,
+  "video_ready": 6,
   "wrong_license": 0
  },
  "Palo Duro Canyon": {
@@ -3520,13 +3520,13 @@
   "wrong_license": 0
  },
  "Stagecoaches": {
-  "already_had": 56,
+  "already_had": 55,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 23,
+  "too_small": 24,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3971,8 +3971,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4197,
-  "modern_event": 4417,
-  "site_today": 2456
+  "historical": 4199,
+  "modern_event": 4428,
+  "site_today": 2461
  }
 }

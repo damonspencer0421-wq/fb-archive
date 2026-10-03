@@ -3987,6 +3987,22 @@
   "video_ready": false,
   "year": null
  },
+ "03d718d149f1": {
+  "category": "Palermo",
+  "credit": "Own work",
+  "date": "2026-10-02 16:00:24",
+  "description": "Ficus di via delle Magnolie Palermo (codice AMI:48/G273/PA/19)",
+  "era": "modern_event",
+  "license": "CC BY 4.0",
+  "orig_height": 4624,
+  "orig_width": 3468,
+  "page": "growing-up-italian",
+  "path": "images/growing-up-italian/03d718d149f1.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Ficus_di_via_delle_Magnolie_Palermo_20261002_160023_01.jpg",
+  "title": "File:Ficus di via delle Magnolie Palermo 20261002 160023 01.jpg",
+  "video_ready": true,
+  "year": 2026
+ },
  "03d8502b68f0": {
   "category": "Hurricane Katrina",
   "credit": "This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, via its partner Digital Public Library of America.\nRecord in source catalog\nDPLA identifier: 4e7659f5dd5f7c1c66bdd71fcf3b7bd5\nNational Archives Identifier: 5693973",
@@ -4353,6 +4369,22 @@
   "title": "File:33rd AMXS supplies F-35 maintainers 151028-F-MT297-015.jpg",
   "video_ready": true,
   "year": 2015
+ },
+ "041e2a5a5b3d": {
+  "category": "Florida East Coast Railway",
+  "credit": "Own work",
+  "date": "2005-02-13 11:20:23",
+  "description": "Old Dixie Highway north after railroad crossing south of Sebastian",
+  "era": "site_today",
+  "license": "CC0",
+  "orig_height": 1536,
+  "orig_width": 2048,
+  "page": "florida",
+  "path": "images/florida/041e2a5a5b3d.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Road_photo_from_February_13,_2005_72.jpg",
+  "title": "File:Road photo from February 13, 2005 72.jpg",
+  "video_ready": false,
+  "year": 2005
  },
  "0423c8155641": {
   "category": "Coral Castle",
@@ -18144,6 +18176,22 @@
   "title": "File:Garfield Cemetery Garfield Texas 2026.jpg",
   "video_ready": true,
   "year": 2026
+ },
+ "113af59d0aba": {
+  "category": "Everglades National Park",
+  "credit": "Camping, NPSPhoto",
+  "date": "Taken on\u00a015 February 2005, 15:22:39",
+  "description": "Camping, NPSPhoto",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2400,
+  "orig_width": 3600,
+  "page": "florida",
+  "path": "images/florida/113af59d0aba.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Camping,_NPSPhoto_(9243192628).jpg",
+  "title": "File:Camping, NPSPhoto (9243192628).jpg",
+  "video_ready": true,
+  "year": 2005
  },
  "113c05922613": {
   "category": "Black cowboys",
@@ -36942,6 +36990,22 @@
   "video_ready": true,
   "year": 1913
  },
+ "22d1b993d433": {
+  "category": "L'Anse aux Meadows",
+  "credit": "Anse aux Meadows, Newfoundland.",
+  "date": "2006-07-05 09:42",
+  "description": "Anse aux Meadows, Newfoundland. L'Anse aux Meadows (/\u00cbl\u00c3\u00a6nsi \u00cbm\u00c9do\u00caz/;[1] from the French L'Anse-aux-M\u00c3\u00a9duses or \"Jellyfish Cove\") is an archaeological site on the northernmost tip of the island of Newfoundland in the Canadian province of Newfoundland and Labrador. Discovered in 1960, it is the most famous site of a Norse or Viking settlement in North America outside Greenland.\n\nDating to around t",
+  "era": "historical",
+  "license": "CC BY 2.0",
+  "orig_height": 2276,
+  "orig_width": 3414,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/22d1b993d433.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Anse_aux_Meadows,_Newfoundland._(41365039511).jpg",
+  "title": "File:Anse aux Meadows, Newfoundland. (41365039511).jpg",
+  "video_ready": true,
+  "year": 1960
+ },
  "22d3517cf3f0": {
   "category": "El Paso, Texas",
   "credit": "Own work",
@@ -37959,6 +38023,22 @@
   "source": "https://commons.wikimedia.org/wiki/File:LAUNCH_CONTROL_EQUIPMENT_BUILDING._VIEW_TO_SOUTH._-_Minuteman_III_ICBM_Launch_Control_Facility_November-1,_1.5_miles_North_of_New_Raymer_and_State_Highway_14,_New_Raymer,_HAER_COLO,62-NERAY.V,1-21.tif",
   "title": "File:LAUNCH CONTROL EQUIPMENT BUILDING. VIEW TO SOUTH. - Minuteman III ICBM Launch Control Facility November-1, 1.5 miles North of New Raymer and State Highway 14, New Raymer, HAER COLO,62-NERAY.V,1-21.tif",
   "video_ready": true,
+  "year": null
+ },
+ "23e05bae2a2c": {
+  "category": "Anglo-Saxon Chronicle",
+  "credit": "Working with Anglo-Saxon Manuscripts ed. by Gale R. Owen-Crocker. ISBN\u00a0978-0-85989-840-9 pp. 192-193",
+  "date": "12th/16th century",
+  "description": "Folio 20 reverse of the British Library ms Cotton Tiberius B.iv (aka Anglo-Saxon Chronicle version D, from Worcester). This particular page was annotated in the 16th century by John Joscelyn, who likely owned the manuscript before it passed into Robert Cotton's hands.",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 2492,
+  "orig_width": 1670,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/23e05bae2a2c.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Blmscottontiberiusbivfol20r.jpg",
+  "title": "File:Blmscottontiberiusbivfol20r.jpg",
+  "video_ready": false,
   "year": null
  },
  "23e24a67a0f8": {
@@ -52191,6 +52271,22 @@
   "video_ready": true,
   "year": 2016
  },
+ "31cbbba880ba": {
+  "category": "Everglades National Park",
+  "credit": "Coastal Prairie Burn41",
+  "date": "Taken on\u00a031 May 2011, 12:29:23",
+  "description": "Prescribed coastal prairie burn coordinated by EVER Fire &amp; Aviation. NPS photo Jennifer Brown",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2304,
+  "orig_width": 3072,
+  "page": "florida",
+  "path": "images/florida/31cbbba880ba.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Coastal_Prairie_Burn41_(5793620943).jpg",
+  "title": "File:Coastal Prairie Burn41 (5793620943).jpg",
+  "video_ready": true,
+  "year": 2011
+ },
  "31ceda0e05f7": {
   "category": "Company towns in the United States",
   "credit": "Own work",
@@ -64899,6 +64995,22 @@
   "source": "https://commons.wikimedia.org/wiki/File:Little_Italy_(4593673564).jpg",
   "title": "File:Little Italy (4593673564).jpg",
   "year": 2010
+ },
+ "3d6a0a0b35dd": {
+  "category": "Everglades National Park",
+  "credit": "Coastal Prairie Burn35",
+  "date": "Taken on\u00a031 May 2011, 12:24:57",
+  "description": "Prescribed coastal prairie burn coordinated by EVER Fire &amp; Aviation. NPS photo Jennifer Brown",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2248,
+  "orig_width": 3072,
+  "page": "florida",
+  "path": "images/florida/3d6a0a0b35dd.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Coastal_Prairie_Burn35_(5794176568).jpg",
+  "title": "File:Coastal Prairie Burn35 (5794176568).jpg",
+  "video_ready": true,
+  "year": 2011
  },
  "3d6ce3443116": {
   "category": "Corpus Christi, Texas",
@@ -79074,6 +79186,22 @@
   "video_ready": true,
   "year": 1975
  },
+ "4b263564a6b0": {
+  "category": "L'Anse aux Meadows",
+  "credit": "Lighthouse Anse aux Meadows, Newfoundland.",
+  "date": "Taken on\u00a05 July 2006, 09:42",
+  "description": "Fox Point (Fishing Point, St. Anthony)\nAnse aux Meadows, Newfoundland. L'Anse aux Meadows (/\u00cbl\u00c3\u00a6nsi \u00cbm\u00c9do\u00caz/;[1] from the French L'Anse-aux-M\u00c3\u00a9duses or \"Jellyfish Cove\") is an archaeological site on the northernmost tip of the island of Newfoundland in the Canadian province of Newfoundland and Labrador. Discovered in 1960, it is the most famous site of a Norse or Viking settlement in North America",
+  "era": "historical",
+  "license": "CC BY 2.0",
+  "orig_height": 2336,
+  "orig_width": 3504,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/4b263564a6b0.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Lighthouse_Anse_aux_Meadows,_Newfoundland._(40650913754).jpg",
+  "title": "File:Lighthouse Anse aux Meadows, Newfoundland. (40650913754).jpg",
+  "video_ready": true,
+  "year": 1960
+ },
  "4b283ff0babf": {
   "category": "Boeing B-29 Superfortress",
   "credit": "U.S. National Archives and Records Administration",
@@ -86344,6 +86472,22 @@
   "video_ready": true,
   "year": 2015
  },
+ "5253691e6be7": {
+  "category": "Florida East Coast Railway",
+  "credit": "Own work",
+  "date": "2004-01-01 11:51:45",
+  "description": "SR 44 Bus. east at US 1",
+  "era": "site_today",
+  "license": "CC0",
+  "orig_height": 1200,
+  "orig_width": 1600,
+  "page": "florida",
+  "path": "images/florida/5253691e6be7.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Road_photo_from_January_1,_2004_96.jpg",
+  "title": "File:Road photo from January 1, 2004 96.jpg",
+  "video_ready": false,
+  "year": 2004
+ },
  "5256c2a26c8f": {
   "category": "Photographs by Ben Shahn",
   "credit": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID fsa.8a16857.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
@@ -88976,6 +89120,22 @@
   "title": "File:Map Italy in the world 1989 - Italians abroad in 1930 - Touring Club Italiano CART-TEM-001.jpg",
   "video_ready": true,
   "year": 1930
+ },
+ "55040262557a": {
+  "category": "Everglades National Park",
+  "credit": "Coastal Prairie Burn38",
+  "date": "Taken on\u00a031 May 2011, 12:26:15",
+  "description": "Prescribed coastal prairie burn coordinated by EVER Fire &amp; Aviation. NPS photo Jennifer Brown",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2304,
+  "orig_width": 3072,
+  "page": "florida",
+  "path": "images/florida/55040262557a.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Coastal_Prairie_Burn38_(5794177994).jpg",
+  "title": "File:Coastal Prairie Burn38 (5794177994).jpg",
+  "video_ready": true,
+  "year": 2011
  },
  "550bc3747777": {
   "category": "England Air Force Base",
@@ -107211,6 +107371,22 @@
   "title": "File:Frederick Douglass - no peace without justice (cropped).jpg",
   "year": 1859
  },
+ "6664ad060a3f": {
+  "category": "Anglo-Saxon Chronicle",
+  "credit": "https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Tiberius_B_IV",
+  "date": "11th centurydate QS:P,+1050-00-00T00:00:00Z/7",
+  "description": "D\u00e9but de l'annale pour 1078 dans le manuscrit D de la Chronique anglo-saxonne (MS Cotton MS Tiberius B IV, f. 85v).",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 812,
+  "orig_width": 1509,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/6664ad060a3f.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:ASC_MS_D_1078.jpg",
+  "title": "File:ASC MS D 1078.jpg",
+  "video_ready": false,
+  "year": null
+ },
  "66684c23e75a": {
   "category": "Palermo",
   "credit": "Own work",
@@ -114016,6 +114192,22 @@
   "video_ready": false,
   "year": 2017
  },
+ "6cf50ed13b34": {
+  "category": "L'Anse aux Meadows",
+  "credit": "Own work",
+  "date": "2009-08-03 13:20:10",
+  "description": "L'Anse aux Meadows, mounds from original Viking Longhouse",
+  "era": "site_today",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 2304,
+  "orig_width": 3456,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/6cf50ed13b34.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:L%27Anse_aux_Meadows,_mounds_from_original_Viking_Longhouse.JPG",
+  "title": "File:L'Anse aux Meadows, mounds from original Viking Longhouse.JPG",
+  "video_ready": true,
+  "year": 2009
+ },
  "6cfa30998d59": {
   "category": "Book of Kells",
   "credit": "",
@@ -120171,6 +120363,22 @@
   "title": "File:Reculver in Domesday Book.jpg",
   "video_ready": false,
   "year": 2014
+ },
+ "731f488464e3": {
+  "category": "Austin, Texas",
+  "credit": "Austin",
+  "date": "2019-03-18 10:34",
+  "description": "Austin",
+  "era": "modern_event",
+  "license": "CC BY 2.0",
+  "orig_height": 1280,
+  "orig_width": 1920,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/731f488464e3.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Austin_(47391741422).jpg",
+  "title": "File:Austin (47391741422).jpg",
+  "video_ready": false,
+  "year": 2019
  },
  "731f8570248d": {
   "category": "Saloons",
@@ -129713,6 +129921,22 @@
   "video_ready": true,
   "year": null
  },
+ "7ba1a349b953": {
+  "category": "Everglades National Park",
+  "credit": "Coastal Prairie Burn36",
+  "date": "Taken on\u00a031 May 2011, 12:25:31",
+  "description": "Prescribed coastal prairie burn coordinated by EVER Fire &amp; Aviation. NPS photo Jennifer Brown",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2304,
+  "orig_width": 3072,
+  "page": "florida",
+  "path": "images/florida/7ba1a349b953.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Coastal_Prairie_Burn36_(5794177076).jpg",
+  "title": "File:Coastal Prairie Burn36 (5794177076).jpg",
+  "video_ready": true,
+  "year": 2011
+ },
  "7ba8b99168af": {
   "category": "Ranches in Texas",
   "credit": "https://www.loc.gov/pictures/item/tx0667.photos.045516p",
@@ -130285,6 +130509,22 @@
   "title": "File:Damage of Tornadoes in Lubbock Texas 2025 (1).jpg",
   "video_ready": false,
   "year": 2025
+ },
+ "7c2c672ac0ed": {
+  "category": "L'Anse aux Meadows",
+  "credit": "Own work",
+  "date": "2010-07-04 09:37:39",
+  "description": "",
+  "era": "site_today",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 2000,
+  "orig_width": 3008,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/7c2c672ac0ed.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:L%27Anse_aux_Meadows_National_Historic_Site.jpg",
+  "title": "File:L'Anse aux Meadows National Historic Site.jpg",
+  "video_ready": true,
+  "year": 2010
  },
  "7c3214160f77": {
   "category": "L'Anse aux Meadows",
@@ -133500,6 +133740,22 @@
   "title": "File:SLAG HEAP ABOVE HOUSING ON BUFFALO CREEK NEAR LOGAN, WEST VIRGINIA. SLAG HEAPS ARE ONE OF THE ITEMS WHICH MAKE MINING... - NARA - 556467.jpg",
   "video_ready": true,
   "year": 1974
+ },
+ "7f45f3db37a8": {
+  "category": "Palermo",
+  "credit": "Own work",
+  "date": "2026-10-02 16:09:17",
+  "description": "Esemplare monumentale di Ficus virens (cod AMI: 18/G273/PA/19) - Piazza Virgilio, Palermo",
+  "era": "site_today",
+  "license": "CC BY 4.0",
+  "orig_height": 3468,
+  "orig_width": 4624,
+  "page": "growing-up-italian",
+  "path": "images/growing-up-italian/7f45f3db37a8.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Ficus_di_Piazza_Virgilio_Palermo_20261002_160917_01.jpg",
+  "title": "File:Ficus di Piazza Virgilio Palermo 20261002 160917 01.jpg",
+  "video_ready": true,
+  "year": 2026
  },
  "7f49234c2c0a": {
   "category": "Cypress Gardens",
@@ -141446,6 +141702,22 @@
   "source": "https://commons.wikimedia.org/wiki/File:Tehuancana1_(1_of_1).jpg",
   "title": "File:Tehuancana1 (1 of 1).jpg",
   "year": 2017
+ },
+ "8744583b9b22": {
+  "category": "Florida East Coast Railway",
+  "credit": "Own work",
+  "date": "2005-02-13 11:19:28",
+  "description": "Old Dixie Highway north at railroad crossing south of Sebastian",
+  "era": "site_today",
+  "license": "CC0",
+  "orig_height": 1536,
+  "orig_width": 2048,
+  "page": "florida",
+  "path": "images/florida/8744583b9b22.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Road_photo_from_February_13,_2005_71.jpg",
+  "title": "File:Road photo from February 13, 2005 71.jpg",
+  "video_ready": false,
+  "year": 2005
  },
  "8746bd069c81": {
   "category": "Photographs by Jack Delano",
@@ -154538,6 +154810,22 @@
   "video_ready": true,
   "year": 2023
  },
+ "93c4669604db": {
+  "category": "Florida East Coast Railway",
+  "credit": "Own work",
+  "date": "2005-02-13 11:19:19",
+  "description": "Old Dixie Highway north approaching railroad crossing south of Sebastian",
+  "era": "site_today",
+  "license": "CC0",
+  "orig_height": 1536,
+  "orig_width": 2048,
+  "page": "florida",
+  "path": "images/florida/93c4669604db.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Road_photo_from_February_13,_2005_70.jpg",
+  "title": "File:Road photo from February 13, 2005 70.jpg",
+  "video_ready": false,
+  "year": 2005
+ },
  "93c8ce40337f": {
   "category": "Spindletop",
   "credit": "Library of Congress\n\nCatalog: http://lccn.loc.gov/2014630955\nImage download: https://cdn.loc.gov/master/pnp/highsm/26700/26755a.tif\nOriginal url: http://hdl.loc.gov/loc.pnp/highsm.26755",
@@ -156894,6 +157182,22 @@
   "video_ready": false,
   "year": 2022
  },
+ "961c9edc2d49": {
+  "category": "Palermo",
+  "credit": "Own work",
+  "date": "2026-10-02 16:01:08",
+  "description": "Ficus di via delle Magnolie Palermo (codice AMI:48/G273/PA/19)",
+  "era": "modern_event",
+  "license": "CC BY 4.0",
+  "orig_height": 3468,
+  "orig_width": 4624,
+  "page": "growing-up-italian",
+  "path": "images/growing-up-italian/961c9edc2d49.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Ficus_di_via_delle_Magnolie_Palermo_20261002_160023_02.jpg",
+  "title": "File:Ficus di via delle Magnolie Palermo 20261002 160023 02.jpg",
+  "video_ready": true,
+  "year": 2026
+ },
  "96262c5e4977": {
   "category": "Abandoned buildings in Virginia",
   "credit": "Own work",
@@ -158528,6 +158832,22 @@
   "source": "https://commons.wikimedia.org/wiki/File:Turpentine_of_Landes.jpg",
   "title": "File:Turpentine of Landes.jpg",
   "video_ready": false,
+  "year": 2026
+ },
+ "97aedaba8937": {
+  "category": "Palermo",
+  "credit": "Own work",
+  "date": "2026-10-02 16:02:11",
+  "description": "Ficus di via delle Magnolie Palermo (codice AMI:48/G273/PA/19)",
+  "era": "modern_event",
+  "license": "CC BY 4.0",
+  "orig_height": 3468,
+  "orig_width": 4624,
+  "page": "growing-up-italian",
+  "path": "images/growing-up-italian/97aedaba8937.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Ficus_di_via_delle_Magnolie_Palermo_20261002_160023_03.jpg",
+  "title": "File:Ficus di via delle Magnolie Palermo 20261002 160023 03.jpg",
+  "video_ready": true,
   "year": 2026
  },
  "97b1837803ee": {
@@ -164285,6 +164605,22 @@
   "title": "File:Fannie Ratchford 1970 0005 (9501746549).jpg",
   "video_ready": false,
   "year": 1936
+ },
+ "9d6e91e7641c": {
+  "category": "Palermo",
+  "credit": "Own work",
+  "date": "2026-10-02 16:11:54",
+  "description": "Esemplare monumentale di Ficus virens (cod AMI: 18/G273/PA/19) - Piazza Virgilio, Palermo",
+  "era": "site_today",
+  "license": "CC BY 4.0",
+  "orig_height": 4624,
+  "orig_width": 3468,
+  "page": "growing-up-italian",
+  "path": "images/growing-up-italian/9d6e91e7641c.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Ficus_di_Piazza_Virgilio_Palermo_20261002_160917_03.jpg",
+  "title": "File:Ficus di Piazza Virgilio Palermo 20261002 160917 03.jpg",
+  "video_ready": true,
+  "year": 2026
  },
  "9d74b7b9d615": {
   "category": "Thurber, Texas",
@@ -189635,6 +189971,22 @@
   "video_ready": true,
   "year": 2016
  },
+ "b6b17b62f660": {
+  "category": "Anglo-Saxon Chronicle",
+  "credit": "https://parker.stanford.edu/parker/catalog/wp146tq7625",
+  "date": "11th centurydate QS:P,+1050-00-00T00:00:00Z/7",
+  "description": "Part of the entry for the year 1001 in MS A of the Anglo-Saxon Chronicle, fol. 029v.",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 490,
+  "orig_width": 1406,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/b6b17b62f660.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:ASC_MS_A_1001_(Pallig).jpg",
+  "title": "File:ASC MS A 1001 (Pallig).jpg",
+  "video_ready": false,
+  "year": null
+ },
  "b6b25f04551b": {
   "category": "African Americans",
   "credit": "https://www.flickr.com/photos/41284017@N08/53882804905/",
@@ -192397,6 +192749,22 @@
   "title": "File:HD.30.447. (10428134385).jpg",
   "video_ready": true,
   "year": 2013
+ },
+ "b90adc7f3ecb": {
+  "category": "Anglo-Saxon Chronicle",
+  "credit": "https://digital.bodleian.ox.ac.uk/objects/6272311c-058d-417a-8e21-05e463b4f1f9/surfaces/ec9ae7f7-302c-46a6-ae10-9c18d42428a0/",
+  "date": "12th centurydate QS:P,+1150-00-00T00:00:00Z/7",
+  "description": "The entry for the year 792 (recte 794) in MS E of the Anglo-Saxon Chronicle (the \"Peterborough Chronicle\"), fol. 025v.",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 601,
+  "orig_width": 1777,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/b90adc7f3ecb.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:ASC_MS_E_792.jpg",
+  "title": "File:ASC MS E 792.jpg",
+  "video_ready": false,
+  "year": null
  },
  "b90d7193483b": {
   "category": "Blue Ridge Parkway",
@@ -200566,6 +200934,22 @@
   "title": "File:Grandview Overlook.jpg",
   "video_ready": true,
   "year": 2022
+ },
+ "c0a55bc91a07": {
+  "category": "Everglades National Park",
+  "credit": "Coastal Prairie Burn37",
+  "date": "Taken on\u00a031 May 2011, 12:26:07",
+  "description": "Prescribed coastal prairie burn coordinated by EVER Fire &amp; Aviation. NPS photo Jennifer Brown",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2304,
+  "orig_width": 3072,
+  "page": "florida",
+  "path": "images/florida/c0a55bc91a07.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Coastal_Prairie_Burn37_(5793618443).jpg",
+  "title": "File:Coastal Prairie Burn37 (5793618443).jpg",
+  "video_ready": true,
+  "year": 2011
  },
  "c0a59e0c7e50": {
   "category": "Airships of the United States Navy",
@@ -212230,6 +212614,22 @@
   "title": "File:\"The Stooksberry homestead near Andersonville, Tennessee. This land will be submerged by the Norris Dam Reservoir.\" - NARA - 532645.jpg",
   "year": 1933
  },
+ "cb83884c6034": {
+  "category": "Everglades National Park",
+  "credit": "Close-up of a Manatee underwater",
+  "date": "Taken on\u00a016 April 2013, 16:00:45",
+  "description": "NPS photo",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 3151,
+  "orig_width": 2109,
+  "page": "florida",
+  "path": "images/florida/cb83884c6034.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Close-up_of_a_Manatee_underwater_(9255095429).jpg",
+  "title": "File:Close-up of a Manatee underwater (9255095429).jpg",
+  "video_ready": false,
+  "year": 2013
+ },
  "cb83c955d577": {
   "category": "Great Mississippi Flood of 1927",
   "credit": "wea00733, Historic NWS Collection, [1]",
@@ -213151,6 +213551,22 @@
   "title": "File:Kirby Lake near Abilene, Texas.jpg",
   "video_ready": true,
   "year": 2008
+ },
+ "cc8c54509355": {
+  "category": "Everglades National Park",
+  "credit": "Coastal Prairie Burn40",
+  "date": "Taken on\u00a031 May 2011, 12:29:10",
+  "description": "Prescribed coastal prairie burn coordinated by EVER Fire &amp; Aviation. NPS photo Jennifer Brown",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2304,
+  "orig_width": 3072,
+  "page": "florida",
+  "path": "images/florida/cc8c54509355.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Coastal_Prairie_Burn40_(5794179016).jpg",
+  "title": "File:Coastal Prairie Burn40 (5794179016).jpg",
+  "video_ready": true,
+  "year": 2011
  },
  "cc96a7fa8a98": {
   "category": "Waco, Texas",
@@ -224269,6 +224685,22 @@
   "video_ready": true,
   "year": 2017
  },
+ "d6e3d167895a": {
+  "category": "Everglades National Park",
+  "credit": "Coastal Prairie Burn39",
+  "date": "Taken on\u00a031 May 2011, 12:27:36",
+  "description": "Prescribed coastal prairie burn coordinated by EVER Fire &amp; Aviation. NPS photo Jennifer Brown",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2304,
+  "orig_width": 3072,
+  "page": "florida",
+  "path": "images/florida/d6e3d167895a.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Coastal_Prairie_Burn39_(5793619479).jpg",
+  "title": "File:Coastal Prairie Burn39 (5793619479).jpg",
+  "video_ready": true,
+  "year": 2011
+ },
  "d6e577513f8e": {
   "category": "Ranches in Texas",
   "credit": "https://www.loc.gov/pictures/item/tx0667.photos.045513p",
@@ -234031,6 +234463,22 @@
   "title": "File:Scheitholt.jpg",
   "video_ready": false,
   "year": 2010
+ },
+ "e0e68c6da928": {
+  "category": "Everglades National Park",
+  "credit": "Apple Snail and eggs, NPSphotos.jpg",
+  "date": "Taken on\u00a022 August 2008, 12:00:50",
+  "description": "Apple Snail and eggs, NPSphotos",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2896,
+  "orig_width": 1944,
+  "page": "florida",
+  "path": "images/florida/e0e68c6da928.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Apple_Snail_and_eggs,_NPSphotos_(9103751512).jpg",
+  "title": "File:Apple Snail and eggs, NPSphotos (9103751512).jpg",
+  "video_ready": false,
+  "year": 2008
  },
  "e0eeced33a39": {
   "category": "Organ grinders",
@@ -257711,6 +258159,22 @@
   "title": "File:Amarill 18.jpg",
   "video_ready": true,
   "year": 2017
+ },
+ "f8799b3d75d3": {
+  "category": "Palermo",
+  "credit": "Own work",
+  "date": "2026-10-02 16:10:46",
+  "description": "Esemplare monumentale di Ficus virens (cod AMI: 18/G273/PA/19) - Piazza Virgilio, Palermo",
+  "era": "site_today",
+  "license": "CC BY 4.0",
+  "orig_height": 4624,
+  "orig_width": 3468,
+  "page": "growing-up-italian",
+  "path": "images/growing-up-italian/f8799b3d75d3.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Ficus_di_Piazza_Virgilio_Palermo_20261002_160917_02.jpg",
+  "title": "File:Ficus di Piazza Virgilio Palermo 20261002 160917 02.jpg",
+  "video_ready": true,
+  "year": 2026
  },
  "f87ea232b3f5": {
   "category": "Holston Army Ammunition Plant",
