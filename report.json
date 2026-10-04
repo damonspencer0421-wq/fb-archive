@@ -275,11 +275,11 @@
   "wrong_license": 0
  },
  "Anglo-Saxon Chronicle": {
-  "already_had": 9,
+  "already_had": 13,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 67,
   "video_ready": 0,
@@ -451,7 +451,7 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 51,
+  "already_had": 52,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -1441,14 +1441,14 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 55,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 3,
   "page": "florida",
   "too_small": 12,
-  "video_ready": 8,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Farm Security Administration": {
@@ -1496,11 +1496,11 @@
   "wrong_license": 1
  },
  "Florida East Coast Railway": {
-  "already_had": 65,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "florida",
   "too_small": 11,
   "video_ready": 0,
@@ -1716,9 +1716,9 @@
   "wrong_license": 0
  },
  "Ghost towns in Texas": {
-  "already_had": 47,
+  "already_had": 45,
   "book_scan": 0,
-  "candidates": 64,
+  "candidates": 62,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
@@ -2244,14 +2244,14 @@
   "wrong_license": 0
  },
  "L'Anse aux Meadows": {
-  "already_had": 70,
+  "already_had": 74,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 6,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Lake Buchanan": {
@@ -2354,14 +2354,14 @@
   "wrong_license": 0
  },
  "Lubbock, Texas": {
-  "already_had": 62,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
-  "too_small": 18,
-  "video_ready": 0,
+  "too_small": 19,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "MacDill Air Force Base": {
@@ -2871,14 +2871,14 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 68,
+  "already_had": 74,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 6,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 5,
-  "video_ready": 6,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Palo Duro Canyon": {
@@ -3718,9 +3718,9 @@
   "wrong_license": 0
  },
  "Thurber, Texas": {
-  "already_had": 46,
+  "already_had": 48,
   "book_scan": 0,
-  "candidates": 55,
+  "candidates": 57,
   "exists": true,
   "kept": 0,
   "page": "texas-stand-up",
@@ -3972,7 +3972,7 @@
  },
  "_era_video_ready": {
   "historical": 4199,
-  "modern_event": 4428,
+  "modern_event": 4432,
   "site_today": 2461
  }
 }

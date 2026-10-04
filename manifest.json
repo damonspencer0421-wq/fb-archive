@@ -24344,6 +24344,22 @@
   "video_ready": true,
   "year": 1868
  },
+ "17084153ded2": {
+  "category": "Austin, Texas",
+  "credit": "Austin",
+  "date": "2019-03-18 10:34",
+  "description": "Austin",
+  "era": "modern_event",
+  "license": "CC BY 2.0",
+  "orig_height": 1280,
+  "orig_width": 1920,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/17084153ded2.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Austin_(47391741232).jpg",
+  "title": "File:Austin (47391741232).jpg",
+  "video_ready": false,
+  "year": 2019
+ },
  "1711bdcaa58d": {
   "category": "Oak Ridge, Tennessee",
   "credit": "HD.30.600",
@@ -135920,6 +135936,22 @@
   "video_ready": false,
   "year": 2009
  },
+ "8181d21b3bdc": {
+  "category": "Everglades National Park",
+  "credit": "Coastal Prairie Burn34",
+  "date": "Taken on\u00a031 May 2011, 12:15:40",
+  "description": "Prescribed coastal prairie burn coordinated by EVER Fire &amp; Aviation. NPS photo Jennifer Brown",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 1891,
+  "orig_width": 2863,
+  "page": "florida",
+  "path": "images/florida/8181d21b3bdc.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Coastal_Prairie_Burn34_(5793617005).jpg",
+  "title": "File:Coastal Prairie Burn34 (5793617005).jpg",
+  "video_ready": true,
+  "year": 2011
+ },
  "8187a5dd2f38": {
   "category": "County courthouses in Texas",
   "credit": "Own work",
@@ -160776,6 +160808,22 @@
   "title": "File:Solidarity Statue in Marmet, WV (Footage)-fe2cE5eORfg.webm",
   "year": 1921
  },
+ "99aacac39933": {
+  "category": "Lubbock, Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a027 August 2024, 21:15:30",
+  "description": "Long exposure image of light trails on the Marsha Sharp Freeway in Lubbock, Texas",
+  "era": "modern_event",
+  "license": "CC0",
+  "orig_height": 3028,
+  "orig_width": 4542,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/99aacac39933.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Marsha_Sharp_Freeway_Light_Trails.jpg",
+  "title": "File:Marsha Sharp Freeway Light Trails.jpg",
+  "video_ready": true,
+  "year": 2024
+ },
  "99acd40d60f9": {
   "category": "Riverboats",
   "credit": "Own work",
@@ -185623,6 +185671,22 @@
   "title": "File:Miners at the Virginia-Pocahontas Coal Company Mine.jpg",
   "video_ready": true,
   "year": 1974
+ },
+ "b2860707a0c7": {
+  "category": "Everglades National Park",
+  "credit": "Coastal Prairie Burn31",
+  "date": "Taken on\u00a031 May 2011, 12:13:49",
+  "description": "Prescribed coastal prairie burn coordinated by EVER Fire &amp; Aviation. NPS photo Jennifer Brown",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2304,
+  "orig_width": 3072,
+  "page": "florida",
+  "path": "images/florida/b2860707a0c7.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Coastal_Prairie_Burn31_(5794174764).jpg",
+  "title": "File:Coastal Prairie Burn31 (5794174764).jpg",
+  "video_ready": true,
+  "year": 2011
  },
  "b288c6cad59e": {
   "category": "Killeen, Texas",
@@ -238391,6 +238455,22 @@
   "title": "File:Louisiana - New Orleans - NARA - 23940551.jpg",
   "video_ready": true,
   "year": 1922
+ },
+ "e50d6d0917a9": {
+  "category": "Everglades National Park",
+  "credit": "Coastal Prairie Burn30",
+  "date": "Taken on\u00a031 May 2011, 12:12:16",
+  "description": "Prescribed coastal prairie burn coordinated by EVER Fire &amp; Aviation. NPS photo Jennifer Brown",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2304,
+  "orig_width": 3072,
+  "page": "florida",
+  "path": "images/florida/e50d6d0917a9.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Coastal_Prairie_Burn30_(5793615251).jpg",
+  "title": "File:Coastal Prairie Burn30 (5793615251).jpg",
+  "video_ready": true,
+  "year": 2011
  },
  "e50f04f51ec0": {
   "category": "Dance halls",
