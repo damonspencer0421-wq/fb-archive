@@ -451,14 +451,14 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 52,
+  "already_had": 53,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Bakeries": {
@@ -517,11 +517,11 @@
   "wrong_license": 0
  },
  "Battle of Hastings": {
-  "already_had": 51,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "anglo-saxon",
   "too_small": 27,
   "video_ready": 0,
@@ -530,12 +530,12 @@
  "Bayeux Tapestry": {
   "already_had": 50,
   "book_scan": 0,
-  "candidates": 66,
+  "candidates": 78,
   "exists": true,
-  "kept": 0,
+  "kept": 12,
   "page": "anglo-saxon",
   "too_small": 14,
-  "video_ready": 0,
+  "video_ready": 12,
   "wrong_license": 0
  },
  "Bayous": {
@@ -737,14 +737,14 @@
   "wrong_license": 0
  },
  "Buffalo hunting": {
-  "already_had": 52,
+  "already_had": 50,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "texas-frontier-files",
   "too_small": 26,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Buffalo soldiers": {
@@ -1441,14 +1441,14 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 65,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "florida",
   "too_small": 12,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Farm Security Administration": {
@@ -2354,14 +2354,14 @@
   "wrong_license": 0
  },
  "Lubbock, Texas": {
-  "already_had": 60,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 19,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "MacDill Air Force Base": {
@@ -3498,14 +3498,14 @@
   "wrong_license": 0
  },
  "St. Augustine, Florida": {
-  "already_had": 57,
+  "already_had": 56,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "florida",
   "too_small": 23,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Staffordshire Hoard": {
@@ -3762,13 +3762,13 @@
   "wrong_license": 0
  },
  "Turpentine": {
-  "already_had": 48,
+  "already_had": 47,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "georgia",
-  "too_small": 32,
+  "too_small": 33,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3971,8 +3971,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4199,
+  "historical": 4201,
   "modern_event": 4432,
-  "site_today": 2461
+  "site_today": 2474
  }
 }
