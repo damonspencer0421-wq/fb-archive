@@ -264,14 +264,14 @@
   "wrong_license": 0
  },
  "Althea Gibson": {
-  "already_had": 0,
+  "already_had": 9,
   "book_scan": 0,
   "candidates": 28,
   "exists": true,
-  "kept": 9,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 19,
-  "video_ready": 7,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Amarillo, Texas": {
@@ -429,14 +429,14 @@
   "wrong_license": 0
  },
  "Arthur Ashe": {
-  "already_had": 0,
+  "already_had": 56,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 56,
+  "kept": 9,
   "page": "black-unearthed",
   "too_small": 15,
-  "video_ready": 46,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Athens, Georgia": {
@@ -506,14 +506,14 @@
   "wrong_license": 1
  },
  "Barbara Jordan": {
-  "already_had": 0,
+  "already_had": 23,
   "book_scan": 0,
   "candidates": 54,
   "exists": true,
-  "kept": 23,
+  "kept": 10,
   "page": "black-unearthed",
   "too_small": 11,
-  "video_ready": 17,
+  "video_ready": 5,
   "wrong_license": 0
  },
  "Barksdale Air Force Base": {
@@ -561,20 +561,20 @@
   "wrong_license": 0
  },
  "Bayard Rustin": {
-  "already_had": 2,
+  "already_had": 8,
   "book_scan": 0,
   "candidates": 44,
   "exists": true,
-  "kept": 6,
+  "kept": 10,
   "page": "black-unearthed",
   "too_small": 19,
-  "video_ready": 3,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Bayeux Tapestry": {
-  "already_had": 62,
+  "already_had": 41,
   "book_scan": 0,
-  "candidates": 78,
+  "candidates": 57,
   "exists": true,
   "kept": 0,
   "page": "anglo-saxon",
@@ -1067,14 +1067,14 @@
   "wrong_license": 0
  },
  "Civilian Conservation Corps": {
-  "already_had": 69,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 4,
   "page": "georgia",
-  "too_small": 11,
-  "video_ready": 0,
+  "too_small": 12,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Clinton Engineer Works": {
@@ -1210,13 +1210,13 @@
   "wrong_license": 0
  },
  "Convair B-36 Peacemaker": {
-  "already_had": 38,
+  "already_had": 42,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 2,
   "page": "texas-stand-up",
-  "too_small": 38,
+  "too_small": 36,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1496,14 +1496,14 @@
   "wrong_license": 0
  },
  "Fannie Lou Hamer": {
-  "already_had": 0,
+  "already_had": 16,
   "book_scan": 0,
   "candidates": 19,
   "exists": true,
-  "kept": 16,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 2,
-  "video_ready": 13,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Farm Security Administration": {
@@ -1804,14 +1804,14 @@
   "wrong_license": 0
  },
  "Gordon Parks": {
-  "already_had": 0,
+  "already_had": 9,
   "book_scan": 0,
   "candidates": 23,
   "exists": true,
-  "kept": 9,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 14,
-  "video_ready": 5,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Great Migration (African American)": {
@@ -1903,11 +1903,11 @@
   "wrong_license": 0
  },
  "Harlem Renaissance": {
-  "already_had": 13,
+  "already_had": 14,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 64,
   "video_ready": 0,
@@ -1925,25 +1925,25 @@
   "wrong_license": 0
  },
  "Harry Belafonte": {
-  "already_had": 0,
+  "already_had": 32,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 32,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 45,
-  "video_ready": 18,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Hattie McDaniel": {
-  "already_had": 1,
+  "already_had": 10,
   "book_scan": 0,
   "candidates": 18,
   "exists": true,
-  "kept": 9,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 8,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Historically black colleges and universities": {
@@ -2244,14 +2244,14 @@
   "wrong_license": 0
  },
  "James Baldwin": {
-  "already_had": 2,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 49,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 28,
-  "video_ready": 32,
+  "video_ready": 0,
   "wrong_license": 1
  },
  "James Van Der Zee": {
@@ -2310,14 +2310,14 @@
   "wrong_license": 0
  },
  "Katherine Johnson": {
-  "already_had": 0,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 62,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 17,
-  "video_ready": 54,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Killeen, Texas": {
@@ -2431,25 +2431,25 @@
   "wrong_license": 0
  },
  "Lonnie Johnson (inventor)": {
-  "already_had": 0,
+  "already_had": 2,
   "book_scan": 0,
   "candidates": 6,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 3,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Louis Armstrong": {
-  "already_had": 2,
+  "already_had": 41,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 39,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 38,
-  "video_ready": 25,
+  "video_ready": 0,
   "wrong_license": 1
  },
  "Louisiana": {
@@ -2530,14 +2530,14 @@
   "wrong_license": 2
  },
  "Mae Jemison": {
-  "already_had": 0,
+  "already_had": 29,
   "book_scan": 0,
   "candidates": 47,
   "exists": true,
-  "kept": 29,
+  "kept": 2,
   "page": "black-unearthed",
   "too_small": 16,
-  "video_ready": 20,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Mammoth Cave National Park": {
@@ -2860,14 +2860,14 @@
   "wrong_license": 0
  },
  "Nina Simone": {
-  "already_had": 0,
+  "already_had": 32,
   "book_scan": 0,
   "candidates": 51,
   "exists": true,
-  "kept": 32,
+  "kept": 10,
   "page": "black-unearthed",
   "too_small": 8,
-  "video_ready": 23,
+  "video_ready": 8,
   "wrong_license": 0
  },
  "Non-rigid airships": {
@@ -3025,7 +3025,7 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 74,
+  "already_had": 73,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -3033,7 +3033,7 @@
   "page": "growing-up-italian",
   "too_small": 5,
   "video_ready": 0,
-  "wrong_license": 0
+  "wrong_license": 1
  },
  "Palo Duro Canyon": {
   "already_had": 69,
@@ -3058,14 +3058,14 @@
   "wrong_license": 0
  },
  "Paul Robeson": {
-  "already_had": 0,
+  "already_had": 66,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 66,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 12,
-  "video_ready": 56,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Pensacola, Florida": {
@@ -3575,14 +3575,14 @@
   "wrong_license": 0
  },
  "Shirley Chisholm": {
-  "already_had": 4,
+  "already_had": 30,
   "book_scan": 0,
   "candidates": 58,
   "exists": true,
-  "kept": 26,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 28,
-  "video_ready": 17,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Shotgun houses": {
@@ -4114,14 +4114,14 @@
   "wrong_license": 0
  },
  "Wilma Rudolph": {
-  "already_had": 0,
+  "already_had": 15,
   "book_scan": 0,
   "candidates": 29,
   "exists": true,
-  "kept": 15,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 8,
-  "video_ready": 11,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Windmills in Texas": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4333,
-  "modern_event": 4566,
-  "site_today": 2561
+  "historical": 4346,
+  "modern_event": 4577,
+  "site_today": 2566
  }
 }
