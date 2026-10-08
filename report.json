@@ -429,14 +429,14 @@
   "wrong_license": 0
  },
  "Arthur Ashe": {
-  "already_had": 56,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 9,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 15,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Athens, Georgia": {
@@ -473,14 +473,14 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 54,
+  "already_had": 55,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Bakeries": {
@@ -506,14 +506,14 @@
   "wrong_license": 1
  },
  "Barbara Jordan": {
-  "already_had": 23,
+  "already_had": 33,
   "book_scan": 0,
   "candidates": 54,
   "exists": true,
-  "kept": 10,
+  "kept": 9,
   "page": "black-unearthed",
   "too_small": 11,
-  "video_ready": 5,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Barksdale Air Force Base": {
@@ -561,14 +561,14 @@
   "wrong_license": 0
  },
  "Bayard Rustin": {
-  "already_had": 8,
+  "already_had": 18,
   "book_scan": 0,
   "candidates": 44,
   "exists": true,
-  "kept": 10,
+  "kept": 7,
   "page": "black-unearthed",
   "too_small": 19,
-  "video_ready": 4,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Bayeux Tapestry": {
@@ -957,11 +957,11 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 65,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 13,
   "video_ready": 0,
@@ -1067,14 +1067,14 @@
   "wrong_license": 0
  },
  "Civilian Conservation Corps": {
-  "already_had": 64,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "georgia",
   "too_small": 12,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Clinton Engineer Works": {
@@ -1210,11 +1210,11 @@
   "wrong_license": 0
  },
  "Convair B-36 Peacemaker": {
-  "already_had": 42,
+  "already_had": 44,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 36,
   "video_ready": 0,
@@ -1496,14 +1496,14 @@
   "wrong_license": 0
  },
  "Fannie Lou Hamer": {
-  "already_had": 16,
+  "already_had": 17,
   "book_scan": 0,
   "candidates": 19,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 2,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Farm Security Administration": {
@@ -1588,9 +1588,9 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
-  "too_small": 53,
+  "too_small": 52,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1925,14 +1925,14 @@
   "wrong_license": 0
  },
  "Harry Belafonte": {
-  "already_had": 32,
+  "already_had": 33,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 45,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Hattie McDaniel": {
@@ -2435,10 +2435,10 @@
   "book_scan": 0,
   "candidates": 6,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 3,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Louis Armstrong": {
@@ -2530,14 +2530,14 @@
   "wrong_license": 2
  },
  "Mae Jemison": {
-  "already_had": 29,
+  "already_had": 31,
   "book_scan": 0,
   "candidates": 47,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 16,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Mammoth Cave National Park": {
@@ -2860,14 +2860,14 @@
   "wrong_license": 0
  },
  "Nina Simone": {
-  "already_had": 32,
+  "already_had": 42,
   "book_scan": 0,
   "candidates": 51,
   "exists": true,
-  "kept": 10,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 8,
-  "video_ready": 8,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Non-rigid airships": {
@@ -3025,7 +3025,7 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 73,
+  "already_had": 74,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -3033,7 +3033,7 @@
   "page": "growing-up-italian",
   "too_small": 5,
   "video_ready": 0,
-  "wrong_license": 1
+  "wrong_license": 0
  },
  "Palo Duro Canyon": {
   "already_had": 69,
@@ -4118,10 +4118,10 @@
   "book_scan": 0,
   "candidates": 29,
   "exists": true,
-  "kept": 0,
+  "kept": 6,
   "page": "black-unearthed",
   "too_small": 8,
-  "video_ready": 0,
+  "video_ready": 6,
   "wrong_license": 0
  },
  "Windmills in Texas": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4346,
-  "modern_event": 4577,
-  "site_today": 2566
+  "historical": 4352,
+  "modern_event": 4584,
+  "site_today": 2567
  }
 }
