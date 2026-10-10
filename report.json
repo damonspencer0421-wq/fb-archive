@@ -242,9 +242,9 @@
   "wrong_license": 0
  },
  "Alabama": {
-  "already_had": 12,
+  "already_had": 14,
   "book_scan": 0,
-  "candidates": 27,
+  "candidates": 29,
   "exists": true,
   "kept": 0,
   "page": "alabama",
@@ -473,14 +473,14 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 56,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Bakeries": {
@@ -2288,13 +2288,13 @@
   "wrong_license": 0
  },
  "Juneteenth": {
-  "already_had": 57,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 21,
+  "too_small": 16,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2521,12 +2521,12 @@
  "Madam C. J. Walker": {
   "already_had": 49,
   "book_scan": 0,
-  "candidates": 65,
+  "candidates": 66,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 12,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 2
  },
  "Mae Jemison": {
@@ -3478,12 +3478,12 @@
  "Scottsboro Boys": {
   "already_had": 15,
   "book_scan": 0,
-  "candidates": 48,
+  "candidates": 51,
   "exists": true,
-  "kept": 0,
+  "kept": 3,
   "page": "black-unearthed",
   "too_small": 33,
-  "video_ready": 0,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Segregation": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4352,
-  "modern_event": 4584,
-  "site_today": 2567
+  "historical": 4354,
+  "modern_event": 4619,
+  "site_today": 2569
  }
 }
