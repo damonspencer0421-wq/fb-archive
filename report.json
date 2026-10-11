@@ -345,10 +345,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "anglo-saxon",
-  "too_small": 25,
-  "video_ready": 0,
+  "too_small": 24,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Anglo-Saxons": {
@@ -473,14 +473,14 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 57,
+  "already_had": 58,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Bakeries": {
@@ -2519,14 +2519,14 @@
   "wrong_license": 0
  },
  "Madam C. J. Walker": {
-  "already_had": 49,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 66,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 12,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 2
  },
  "Mae Jemison": {
@@ -2688,10 +2688,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
-  "too_small": 15,
-  "video_ready": 0,
+  "too_small": 14,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Missile silos": {
@@ -2893,13 +2893,13 @@
   "wrong_license": 0
  },
  "Nuclear weapons of the United States": {
-  "already_had": 31,
+  "already_had": 32,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 49,
+  "too_small": 48,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3025,7 +3025,7 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 73,
+  "already_had": 74,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -3033,7 +3033,7 @@
   "page": "growing-up-italian",
   "too_small": 5,
   "video_ready": 0,
-  "wrong_license": 1
+  "wrong_license": 0
  },
  "Palo Duro Canyon": {
   "already_had": 69,
@@ -3476,14 +3476,14 @@
   "wrong_license": 0
  },
  "Scottsboro Boys": {
-  "already_had": 15,
+  "already_had": 18,
   "book_scan": 0,
   "candidates": 51,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 33,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Segregation": {
@@ -3557,9 +3557,9 @@
   "book_scan": 3,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "georgia",
-  "too_small": 13,
+  "too_small": 12,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4160,6 +4160,6 @@
  "_era_video_ready": {
   "historical": 4354,
   "modern_event": 4619,
-  "site_today": 2569
+  "site_today": 2571
  }
 }
