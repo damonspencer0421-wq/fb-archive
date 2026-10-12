@@ -341,14 +341,14 @@
   "wrong_license": 0
  },
  "Anglo-Saxon jewellery": {
-  "already_had": 55,
+  "already_had": 56,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 24,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Anglo-Saxons": {
@@ -737,13 +737,13 @@
   "wrong_license": 0
  },
  "Booker T. Washington": {
-  "already_had": 33,
+  "already_had": 32,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 47,
+  "too_small": 48,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1155,14 +1155,14 @@
   "wrong_license": 0
  },
  "Cold War": {
-  "already_had": 34,
+  "already_had": 33,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
   "too_small": 46,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Columbus, Georgia": {
@@ -1573,14 +1573,14 @@
   "wrong_license": 3
  },
  "Fog": {
-  "already_had": 72,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "appalachia-unexplained",
   "too_small": 8,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Folklore of the United States": {
@@ -2684,14 +2684,14 @@
   "wrong_license": 0
  },
  "Minuteman Missile National Historic Site": {
-  "already_had": 65,
+  "already_had": 66,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 14,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Missile silos": {
@@ -3553,11 +3553,11 @@
   "wrong_license": 0
  },
  "Sherman's March to the Sea": {
-  "already_had": 64,
+  "already_had": 65,
   "book_scan": 3,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "georgia",
   "too_small": 12,
   "video_ready": 0,
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4354,
-  "modern_event": 4619,
+  "historical": 4355,
+  "modern_event": 4620,
   "site_today": 2571
  }
 }

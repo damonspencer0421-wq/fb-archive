@@ -70246,6 +70246,22 @@
   "video_ready": true,
   "year": 1968
  },
+ "40104591f55d": {
+  "category": "Fog",
+  "credit": "A misty day in nature",
+  "date": "2017-02-04 12:52",
+  "description": "Fog",
+  "era": "modern_event",
+  "license": "CC BY-SA 2.0",
+  "orig_height": 6000,
+  "orig_width": 4000,
+  "page": "appalachia-unexplained",
+  "path": "images/appalachia-unexplained/40104591f55d.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:A_misty_day_in_nature_(33151427561).jpg",
+  "title": "File:A misty day in nature (33151427561).jpg",
+  "video_ready": true,
+  "year": 2017
+ },
  "40170c46b51a": {
   "category": "Italian diaspora",
   "credit": "Own work",
@@ -94823,6 +94839,22 @@
   "title": "File:Appalachian Front & Valley and Ridge (Little Mountain & Great Knobs & River Knobs, Washington County, Virginia, USA).jpg",
   "video_ready": true,
   "year": 2012
+ },
+ "573e2cc891c1": {
+  "category": "Cold War",
+  "credit": "Own work",
+  "date": "2015-08-01 19:14:50",
+  "description": "Soyuz 7K-TM spacecraft composed of genuine spare components and ground-test modules built by the Soviet Union for the historic 1975 Apollo\u2013Soyuz Test Project (ASTP)",
+  "era": "historical",
+  "license": "CC BY 4.0",
+  "orig_height": 3672,
+  "orig_width": 4896,
+  "page": "texas-stand-up",
+  "path": "images/texas-stand-up/573e2cc891c1.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:1975_Apollo-Soyuz_Detente_Soyuz_7K-TM_spacecraft_Used_for_tests._On_Display_in_the_%27Smithsonian_Air_and_Space_Museum%27_in_August_2015.jpg",
+  "title": "File:1975 Apollo-Soyuz Detente Soyuz 7K-TM spacecraft Used for tests. On Display in the 'Smithsonian Air and Space Museum' in August 2015.jpg",
+  "video_ready": true,
+  "year": 1975
  },
  "573e8995ec7a": {
   "category": "Marfa, Texas",
