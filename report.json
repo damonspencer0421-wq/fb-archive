@@ -671,13 +671,13 @@
   "wrong_license": 0
  },
  "Blimps": {
-  "already_had": 58,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 20,
+  "too_small": 21,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1034,14 +1034,14 @@
   "wrong_license": 0
  },
  "Chuckwagons": {
-  "already_had": 68,
+  "already_had": 60,
   "book_scan": 0,
-  "candidates": 76,
+  "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 11,
   "page": "texas-frontier-files",
-  "too_small": 8,
-  "video_ready": 0,
+  "too_small": 9,
+  "video_ready": 9,
   "wrong_license": 0
  },
  "Citrus": {
@@ -1155,14 +1155,14 @@
   "wrong_license": 0
  },
  "Cold War": {
-  "already_had": 33,
+  "already_had": 34,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 46,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Columbus, Georgia": {
@@ -1573,14 +1573,14 @@
   "wrong_license": 3
  },
  "Fog": {
-  "already_had": 71,
+  "already_had": 72,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "appalachia-unexplained",
   "too_small": 8,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Folklore of the United States": {
@@ -1705,13 +1705,13 @@
   "wrong_license": 0
  },
  "Freedmen": {
-  "already_had": 52,
+  "already_had": 51,
   "book_scan": 4,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "texas-unearthed",
-  "too_small": 23,
+  "too_small": 24,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2871,13 +2871,13 @@
   "wrong_license": 0
  },
  "Non-rigid airships": {
-  "already_had": 46,
+  "already_had": 45,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 33,
+  "too_small": 34,
   "video_ready": 0,
   "wrong_license": 1
  },
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4355,
-  "modern_event": 4620,
-  "site_today": 2571
+  "historical": 4362,
+  "modern_event": 4621,
+  "site_today": 2572
  }
 }
