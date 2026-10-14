@@ -47382,6 +47382,22 @@
   "video_ready": false,
   "year": 1907
  },
+ "2b5e34a24191": {
+  "category": "Celtic crosses",
+  "credit": "Own work",
+  "date": "2024-12-22 14:52:32",
+  "description": "From north",
+  "era": "site_today",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 3840,
+  "orig_width": 2160,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/2b5e34a24191.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:05006_Holy_Trinity_Episcopal_Church,_Dunoon,_Bute_030.jpg",
+  "title": "File:05006 Holy Trinity Episcopal Church, Dunoon, Bute 030.jpg",
+  "video_ready": false,
+  "year": 2024
+ },
  "2b5fc3e6e970": {
   "category": "Airships",
   "credit": "Own work",
@@ -92753,6 +92769,22 @@
   "title": "File:Men on railroad station platform. Hastings, Oklahoma - NARA - 283745.jpg",
   "video_ready": true,
   "year": 1919
+ },
+ "54ee1469c176": {
+  "category": "Palermo",
+  "credit": "Own work",
+  "date": "1970-01-01",
+  "description": "Panorama Palermo wykonana z dachu katedry, Sycylia, 2026",
+  "era": "historical",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 1856,
+  "orig_width": 3840,
+  "page": "growing-up-italian",
+  "path": "images/growing-up-italian/54ee1469c176.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Palermo_catedral_rooftop_panorama_Sicily_2026.jpg",
+  "title": "File:Palermo catedral rooftop panorama Sicily 2026.jpg",
+  "video_ready": true,
+  "year": 1970
  },
  "54f4425a1a36": {
   "category": "Shotgun houses",
@@ -145329,6 +145361,22 @@
   "title": "File:All these pick shrimp at the Peerless Oyster Co. I had to take photo while bosses were at dinner as they refused to... - NARA - 523411.jpg",
   "video_ready": true,
   "year": 1911
+ },
+ "8538924d64f4": {
+  "category": "Stagecoaches",
+  "credit": "Own work",
+  "date": "1980",
+  "description": "Stolpen; Vierbild quer mit Kutsche",
+  "era": "modern_event",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 1000,
+  "orig_width": 1414,
+  "page": "texas-frontier-files",
+  "path": "images/texas-frontier-files/8538924d64f4.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:30261-Stolpen-1980-Vierbild_quer_mit_Kutsche-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg",
+  "title": "File:30261-Stolpen-1980-Vierbild quer mit Kutsche-Br\u00fcck & Sohn Kunstverlag.jpg",
+  "video_ready": false,
+  "year": 1980
  },
  "853f5f737ed9": {
   "category": "Barns in Texas",

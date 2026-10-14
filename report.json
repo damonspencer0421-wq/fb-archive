@@ -928,9 +928,9 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "anglo-saxon",
-  "too_small": 33,
+  "too_small": 32,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1034,14 +1034,14 @@
   "wrong_license": 0
  },
  "Chuckwagons": {
-  "already_had": 60,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 11,
+  "kept": 0,
   "page": "texas-frontier-files",
   "too_small": 9,
-  "video_ready": 9,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Citrus": {
@@ -3025,14 +3025,14 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 74,
+  "already_had": 73,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 5,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Palo Duro Canyon": {
@@ -3696,13 +3696,13 @@
   "wrong_license": 0
  },
  "Stagecoaches": {
-  "already_had": 55,
+  "already_had": 56,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 24,
+  "too_small": 23,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4158,7 +4158,7 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4362,
+  "historical": 4363,
   "modern_event": 4621,
   "site_today": 2572
  }
