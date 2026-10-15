@@ -23764,6 +23764,22 @@
   "video_ready": true,
   "year": 2005
  },
+ "1571e5ef1902": {
+  "category": "Montgomery, Alabama",
+  "credit": "Montgomery Mall Montgomery, AL",
+  "date": "2013-03-24 17:27",
+  "description": "Montgomery Mall Montgomery, AL",
+  "era": "modern_event",
+  "license": "CC BY-SA 2.0",
+  "orig_height": 1664,
+  "orig_width": 2496,
+  "page": "alabama",
+  "path": "images/alabama/1571e5ef1902.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Montgomery_Mall_Montgomery,_AL_(15247166197).jpg",
+  "title": "File:Montgomery Mall Montgomery, AL (15247166197).jpg",
+  "video_ready": false,
+  "year": 2013
+ },
  "157bdad26ee4": {
   "category": "Mardi Gras",
   "credit": "HSI at Mardi Gras",
@@ -257076,6 +257092,22 @@
   "title": "File:Comanches at beef game.jpg",
   "video_ready": true,
   "year": 1890
+ },
+ "ee18745b054e": {
+  "category": "Cemeteries in Texas",
+  "credit": "Own work",
+  "date": "2025-03-01 08:14:05",
+  "description": "Decatur Maxwell Murphy Cemetery in Murphy TX",
+  "era": "site_today",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 3060,
+  "orig_width": 4080,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/ee18745b054e.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Decatur_Maxwell_Murphy_Cemetery_(March_2025).jpg",
+  "title": "File:Decatur Maxwell Murphy Cemetery (March 2025).jpg",
+  "video_ready": true,
+  "year": 2025
  },
  "ee18a9a4e30f": {
   "category": "Civil Rights Movement",
