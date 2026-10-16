@@ -139117,6 +139117,22 @@
   "video_ready": true,
   "year": 2011
  },
+ "7f5d15b1a5c6": {
+  "category": "Illuminated manuscripts",
+  "credit": "Own work",
+  "date": "circa 1552date QS:P,+1552-00-00T00:00:00Z/9,P1480,Q5727902",
+  "description": "Enluminure pleine page repr\u00e9sentant le Christ du Jugement dernier entour\u00e9 des ap\u00f4tres et de la Vierge dans la partie sup\u00e9rieur. Au centre, la parabole des \u0153uvres de mis\u00e9ricorde et de Lazare et le mauvais riche.",
+  "era": "historical",
+  "license": "CC0",
+  "orig_height": 5528,
+  "orig_width": 4103,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/7f5d15b1a5c6.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Enluminure_cartulaire_Bureau_des_pauvres_valides_de_Rouen_-_AD_76.tif",
+  "title": "File:Enluminure cartulaire Bureau des pauvres valides de Rouen - AD 76.tif",
+  "video_ready": true,
+  "year": null
+ },
  "7f5e85414b47": {
   "category": "Sicily",
   "credit": "DSC_0265_stitch",
@@ -219091,6 +219107,22 @@
   "title": "File:Dodecanese Avenue in Tarpon Springs.jpg",
   "video_ready": false,
   "year": 2007
+ },
+ "c9a42658463e": {
+  "category": "Weeki Wachee Springs",
+  "credit": "https://www.flickr.com/photos/130946855@N03/16380532612/",
+  "date": "2015-01-27 08:22:41",
+  "description": "Weeki Wachee Springs mermaid using an airhose in 2015",
+  "era": "modern_event",
+  "license": "CC BY 2.0",
+  "orig_height": 1400,
+  "orig_width": 2100,
+  "page": "florida",
+  "path": "images/florida/c9a42658463e.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Weeki_Wachee_mermaid_2015.jpg",
+  "title": "File:Weeki Wachee mermaid 2015.jpg",
+  "video_ready": false,
+  "year": 2015
  },
  "c9a931fa03d6": {
   "category": "Redstone Arsenal",

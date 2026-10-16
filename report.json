@@ -957,14 +957,14 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 64,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Cemeteries in West Virginia": {
@@ -1683,13 +1683,13 @@
   "wrong_license": 0
  },
  "Frederick Douglass": {
-  "already_had": 35,
+  "already_had": 34,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 43,
+  "too_small": 44,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2160,10 +2160,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "anglo-saxon",
-  "too_small": 64,
-  "video_ready": 0,
+  "too_small": 63,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Immigrants": {
@@ -2739,11 +2739,11 @@
   "wrong_license": 0
  },
  "Montgomery, Alabama": {
-  "already_had": 68,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "alabama",
   "too_small": 11,
   "video_ready": 0,
@@ -3025,7 +3025,7 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 74,
+  "already_had": 73,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -3033,7 +3033,7 @@
   "page": "growing-up-italian",
   "too_small": 5,
   "video_ready": 0,
-  "wrong_license": 0
+  "wrong_license": 1
  },
  "Palo Duro Canyon": {
   "already_had": 69,
@@ -4072,9 +4072,9 @@
  "Weeki Wachee Springs": {
   "already_had": 17,
   "book_scan": 0,
-  "candidates": 35,
+  "candidates": 36,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "florida",
   "too_small": 18,
   "video_ready": 0,
@@ -4103,13 +4103,13 @@
   "wrong_license": 0
  },
  "Wild West shows": {
-  "already_had": 50,
+  "already_had": 49,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "texas-frontier-files",
-  "too_small": 29,
+  "too_small": 30,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4158,7 +4158,7 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4363,
+  "historical": 4364,
   "modern_event": 4621,
   "site_today": 2573
  }
