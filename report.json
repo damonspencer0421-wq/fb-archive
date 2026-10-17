@@ -1716,13 +1716,13 @@
   "wrong_license": 0
  },
  "Freedmen's Bureau": {
-  "already_had": 52,
+  "already_had": 53,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 26,
+  "too_small": 25,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1870,14 +1870,14 @@
   "wrong_license": 0
  },
  "Grocery stores": {
-  "already_had": 42,
+  "already_had": 41,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "growing-up-italian",
-  "too_small": 38,
-  "video_ready": 0,
+  "too_small": 37,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Gullah": {
@@ -1951,10 +1951,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
-  "too_small": 13,
-  "video_ready": 0,
+  "too_small": 12,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "History of Atlanta": {
@@ -2156,14 +2156,14 @@
   "wrong_license": 0
  },
  "Illuminated manuscripts": {
-  "already_had": 15,
+  "already_had": 16,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 63,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Immigrants": {
@@ -2688,9 +2688,9 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
-  "too_small": 14,
+  "too_small": 13,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2893,14 +2893,14 @@
   "wrong_license": 0
  },
  "Nuclear weapons of the United States": {
-  "already_had": 32,
+  "already_had": 25,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 26,
   "page": "texas-stand-up",
-  "too_small": 48,
-  "video_ready": 0,
+  "too_small": 29,
+  "video_ready": 23,
   "wrong_license": 0
  },
  "Oak Ridge, Tennessee": {
@@ -4059,22 +4059,22 @@
   "wrong_license": 0
  },
  "Waco, Texas": {
-  "already_had": 52,
+  "already_had": 48,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 4,
   "page": "lonestar-legacy",
   "too_small": 27,
-  "video_ready": 0,
+  "video_ready": 3,
   "wrong_license": 0
  },
  "Weeki Wachee Springs": {
-  "already_had": 17,
+  "already_had": 18,
   "book_scan": 0,
   "candidates": 36,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "florida",
   "too_small": 18,
   "video_ready": 0,
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4364,
-  "modern_event": 4621,
-  "site_today": 2573
+  "historical": 4366,
+  "modern_event": 4630,
+  "site_today": 2590
  }
 }
