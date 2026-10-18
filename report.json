@@ -924,13 +924,13 @@
   "wrong_license": 0
  },
  "Celtic crosses": {
-  "already_had": 48,
+  "already_had": 47,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "anglo-saxon",
-  "too_small": 32,
+  "too_small": 33,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1870,14 +1870,14 @@
   "wrong_license": 0
  },
  "Grocery stores": {
-  "already_had": 41,
+  "already_had": 43,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 37,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Gullah": {
@@ -1947,14 +1947,14 @@
   "wrong_license": 0
  },
  "Historically black colleges and universities": {
-  "already_had": 67,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 12,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "History of Atlanta": {
@@ -2464,13 +2464,13 @@
   "wrong_license": 0
  },
  "Louisiana Purchase": {
-  "already_had": 51,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "louisiana",
-  "too_small": 26,
+  "too_small": 28,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2684,11 +2684,11 @@
   "wrong_license": 0
  },
  "Minuteman Missile National Historic Site": {
-  "already_had": 66,
+  "already_had": 67,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 13,
   "video_ready": 0,
@@ -2893,14 +2893,14 @@
   "wrong_license": 0
  },
  "Nuclear weapons of the United States": {
-  "already_had": 25,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 26,
+  "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 29,
-  "video_ready": 23,
+  "too_small": 30,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Oak Ridge, Tennessee": {
@@ -3025,7 +3025,7 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 73,
+  "already_had": 74,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -3033,7 +3033,7 @@
   "page": "growing-up-italian",
   "too_small": 5,
   "video_ready": 0,
-  "wrong_license": 1
+  "wrong_license": 0
  },
  "Palo Duro Canyon": {
   "already_had": 69,
@@ -3454,13 +3454,13 @@
   "wrong_license": 0
  },
  "Savannah, Georgia": {
-  "already_had": 63,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "georgia",
-  "too_small": 17,
+  "too_small": 18,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4059,14 +4059,14 @@
   "wrong_license": 0
  },
  "Waco, Texas": {
-  "already_had": 48,
+  "already_had": 52,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 27,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Weeki Wachee Springs": {
@@ -4158,7 +4158,7 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4366,
+  "historical": 4367,
   "modern_event": 4630,
   "site_today": 2590
  }
