@@ -697,9 +697,9 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 3,
   "page": "appalachia",
-  "too_small": 12,
+  "too_small": 9,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1870,13 +1870,13 @@
   "wrong_license": 0
  },
  "Grocery stores": {
-  "already_had": 43,
+  "already_had": 42,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "growing-up-italian",
-  "too_small": 37,
+  "too_small": 38,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2200,14 +2200,14 @@
   "wrong_license": 15
  },
  "Iona Abbey": {
-  "already_had": 69,
+  "already_had": 66,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 6,
   "page": "anglo-saxon",
-  "too_small": 11,
-  "video_ready": 0,
+  "too_small": 8,
+  "video_ready": 5,
   "wrong_license": 0
  },
  "Italian diaspora": {
@@ -2875,10 +2875,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
-  "too_small": 34,
-  "video_ready": 0,
+  "too_small": 33,
+  "video_ready": 1,
   "wrong_license": 1
  },
  "Nuclear weapon test sites of the United States": {
@@ -3696,13 +3696,13 @@
   "wrong_license": 0
  },
  "Stagecoaches": {
-  "already_had": 56,
+  "already_had": 55,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 23,
+  "too_small": 24,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4048,14 +4048,14 @@
   "wrong_license": 0
  },
  "Vikings": {
-  "already_had": 39,
+  "already_had": 38,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 4,
   "page": "anglo-saxon",
-  "too_small": 39,
-  "video_ready": 0,
+  "too_small": 36,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Waco, Texas": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4367,
-  "modern_event": 4630,
-  "site_today": 2590
+  "historical": 4372,
+  "modern_event": 4635,
+  "site_today": 2591
  }
 }
