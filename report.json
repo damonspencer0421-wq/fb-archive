@@ -693,11 +693,11 @@
   "wrong_license": 0
  },
  "Blue Ridge Parkway": {
-  "already_had": 68,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 9,
   "video_ready": 0,
@@ -1817,11 +1817,11 @@
  "Great Migration (African American)": {
   "already_had": 12,
   "book_scan": 0,
-  "candidates": 19,
+  "candidates": 20,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 7,
+  "too_small": 8,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2200,14 +2200,14 @@
   "wrong_license": 15
  },
  "Iona Abbey": {
-  "already_had": 66,
+  "already_had": 72,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 6,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 8,
-  "video_ready": 5,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Italian diaspora": {
@@ -2871,14 +2871,14 @@
   "wrong_license": 0
  },
  "Non-rigid airships": {
-  "already_had": 45,
+  "already_had": 46,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 33,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 1
  },
  "Nuclear weapon test sites of the United States": {
@@ -3458,10 +3458,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "georgia",
-  "too_small": 18,
-  "video_ready": 0,
+  "too_small": 17,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Schools in Texas": {
@@ -4048,14 +4048,14 @@
   "wrong_license": 0
  },
  "Vikings": {
-  "already_had": 38,
+  "already_had": 42,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 1,
   "page": "anglo-saxon",
-  "too_small": 36,
-  "video_ready": 4,
+  "too_small": 35,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Waco, Texas": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4372,
-  "modern_event": 4635,
+  "historical": 4373,
+  "modern_event": 4636,
   "site_today": 2591
  }
 }
