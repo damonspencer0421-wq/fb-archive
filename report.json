@@ -605,13 +605,13 @@
   "wrong_license": 0
  },
  "Bede": {
-  "already_had": 28,
+  "already_had": 27,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "anglo-saxon",
-  "too_small": 48,
+  "too_small": 49,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -781,14 +781,14 @@
   "wrong_license": 0
  },
  "Buffalo hunting": {
-  "already_had": 52,
+  "already_had": 50,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "texas-frontier-files",
   "too_small": 26,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Buffalo soldiers": {
@@ -1159,10 +1159,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
-  "too_small": 46,
-  "video_ready": 0,
+  "too_small": 45,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Columbus, Georgia": {
@@ -1683,14 +1683,14 @@
   "wrong_license": 0
  },
  "Frederick Douglass": {
-  "already_had": 34,
+  "already_had": 33,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 44,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Fredericksburg, Texas": {
@@ -1727,13 +1727,13 @@
   "wrong_license": 0
  },
  "Galveston, Texas": {
-  "already_had": 60,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 20,
+  "too_small": 19,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4094,11 +4094,11 @@
  "Wild Bunch": {
   "already_had": 29,
   "book_scan": 0,
-  "candidates": 56,
+  "candidates": 54,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 27,
+  "too_small": 25,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4373,
-  "modern_event": 4636,
+  "historical": 4375,
+  "modern_event": 4640,
   "site_today": 2591
  }
 }
