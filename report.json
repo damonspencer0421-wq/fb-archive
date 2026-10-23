@@ -396,14 +396,14 @@
   "wrong_license": 0
  },
  "Apalachicola, Florida": {
-  "already_had": 69,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "florida",
   "too_small": 11,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Appalachian Mountains": {
@@ -781,13 +781,13 @@
   "wrong_license": 0
  },
  "Buffalo hunting": {
-  "already_had": 50,
+  "already_had": 48,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 3,
   "page": "texas-frontier-files",
-  "too_small": 26,
+  "too_small": 27,
   "video_ready": 1,
   "wrong_license": 0
  },
@@ -1155,14 +1155,14 @@
   "wrong_license": 0
  },
  "Cold War": {
-  "already_had": 34,
+  "already_had": 35,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 45,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Columbus, Georgia": {
@@ -1683,14 +1683,14 @@
   "wrong_license": 0
  },
  "Frederick Douglass": {
-  "already_had": 33,
+  "already_had": 35,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
-  "too_small": 44,
-  "video_ready": 1,
+  "too_small": 43,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Fredericksburg, Texas": {
@@ -1716,13 +1716,13 @@
   "wrong_license": 0
  },
  "Freedmen's Bureau": {
-  "already_had": 53,
+  "already_had": 52,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 25,
+  "too_small": 26,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3025,7 +3025,7 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 73,
+  "already_had": 74,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -3033,7 +3033,7 @@
   "page": "growing-up-italian",
   "too_small": 5,
   "video_ready": 0,
-  "wrong_license": 1
+  "wrong_license": 0
  },
  "Palo Duro Canyon": {
   "already_had": 69,
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4375,
+  "historical": 4376,
   "modern_event": 4640,
-  "site_today": 2591
+  "site_today": 2592
  }
 }

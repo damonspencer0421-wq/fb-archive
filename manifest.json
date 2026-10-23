@@ -38321,6 +38321,22 @@
   "video_ready": true,
   "year": 2012
  },
+ "225d62c80fbd": {
+  "category": "Buffalo hunting",
+  "credit": "Library of Congress\n\nCatalog: http://lccn.loc.gov/2003679733\nImage download: https://cdn.loc.gov/service/pnp/pga/12300/12367v.jpg\nOriginal url: http://hdl.loc.gov/loc.pnp/pga.12367",
+  "date": "1873",
+  "description": "Title: Hunting the buffalo\nPhysical description: 1 print.\n\nNotes: This record contains unverified data from PGA shelflist card.; Associated name on shelflist card: Rice, W.W.",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 6636,
+  "orig_width": 8784,
+  "page": "texas-frontier-files",
+  "path": "images/texas-frontier-files/225d62c80fbd.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Hunting_the_buffalo_LCCN2003679733.jpg",
+  "title": "File:Hunting the buffalo LCCN2003679733.jpg",
+  "video_ready": true,
+  "year": 1873
+ },
  "225f303ff63f": {
   "category": "African Americans in the American Civil War",
   "credit": "https://www.flickr.com/photos/60564189@N06/51870340968/",
@@ -91948,6 +91964,22 @@
   "title": "File:Florida East Coast Railway first Key West Train 1912.JPG",
   "video_ready": false,
   "year": 1912
+ },
+ "53b2577e4829": {
+  "category": "Buffalo hunting",
+  "credit": "Map: 18th Annual Report of the Bureau of American Ethnology. Part 2. 1896-'97. Washington, 1899. GPO . Route drawn as described by Gilmore",
+  "date": "1899-01-02",
+  "description": "Itinerary of the last tribal hunt by the Omaha. Route drawn as described by Gilmore, Melvin R.: \"Methods of Indian Buffalo Hunts, with the Itinerary of the last Tribal Hunt of the Omaha.\"",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 1873,
+  "orig_width": 2305,
+  "page": "texas-frontier-files",
+  "path": "images/texas-frontier-files/53b2577e4829.png",
+  "source": "https://commons.wikimedia.org/wiki/File:Map_showing_the_route_of_the_Omaha_tribe_during_the_last_bison_hunt,_1876.png",
+  "title": "File:Map showing the route of the Omaha tribe during the last bison hunt, 1876.png",
+  "video_ready": false,
+  "year": 1876
  },
  "53b5f7b38569": {
   "category": "Paul Robeson",
@@ -211374,6 +211406,22 @@
   "video_ready": true,
   "year": 1955
  },
+ "c239cbf6bc18": {
+  "category": "Apalachicola, Florida",
+  "credit": "Own work",
+  "date": "2016-10-11 13:22:32",
+  "description": "US 98 east at Market Street",
+  "era": "site_today",
+  "license": "CC0",
+  "orig_height": 2592,
+  "orig_width": 3456,
+  "page": "florida",
+  "path": "images/florida/c239cbf6bc18.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Road_photo_from_October_11,_2016_130.jpg",
+  "title": "File:Road photo from October 11, 2016 130.jpg",
+  "video_ready": true,
+  "year": 2016
+ },
  "c23adaa88c65": {
   "category": "Shotgun houses",
   "credit": "Photo by Infrogmation",
@@ -256015,6 +256063,22 @@
   "title": "File:USA - Texas - Palo Duro Canyon State Park - 52979884366.jpg",
   "video_ready": true,
   "year": 2023
+ },
+ "ec42f2f35e0a": {
+  "category": "Buffalo hunting",
+  "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/2002698301\nImage download: https://cdn.loc.gov/service/pnp/cph/3b20000/3b23000/3b23200/3b23277r.jpg\nOriginal url: https://www.loc.gov/pictures/item/2002698301/",
+  "date": "1841",
+  "description": "Title: Indians killing buffaloes\nAbstract/medium: 1 print\u00a0: engraving.",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 1212,
+  "orig_width": 1536,
+  "page": "texas-frontier-files",
+  "path": "images/texas-frontier-files/ec42f2f35e0a.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Indians_killing_buffaloes_LCCN2002698301.jpg",
+  "title": "File:Indians killing buffaloes LCCN2002698301.jpg",
+  "video_ready": false,
+  "year": 1841
  },
  "ec45efa23c09": {
   "category": "Nuclear weapon test sites of the United States",
