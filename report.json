@@ -396,14 +396,14 @@
   "wrong_license": 0
  },
  "Apalachicola, Florida": {
-  "already_had": 68,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "florida",
   "too_small": 11,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Appalachian Mountains": {
@@ -781,14 +781,14 @@
   "wrong_license": 0
  },
  "Buffalo hunting": {
-  "already_had": 48,
+  "already_had": 51,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "texas-frontier-files",
   "too_small": 27,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Buffalo soldiers": {
@@ -3062,9 +3062,9 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
-  "too_small": 12,
+  "too_small": 11,
   "video_ready": 0,
   "wrong_license": 0
  },
