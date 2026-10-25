@@ -1166,14 +1166,14 @@
   "wrong_license": 0
  },
  "Columbus, Georgia": {
-  "already_had": 55,
+  "already_had": 54,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "georgia",
   "too_small": 22,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Comanche": {
@@ -1848,14 +1848,14 @@
   "wrong_license": 0
  },
  "Great Smoky Mountains": {
-  "already_had": 71,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "appalachia-unexplained",
   "too_small": 8,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Green Bank Observatory": {
@@ -3058,11 +3058,11 @@
   "wrong_license": 0
  },
  "Paul Robeson": {
-  "already_had": 66,
+  "already_had": 67,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 11,
   "video_ready": 0,
@@ -3091,13 +3091,13 @@
   "wrong_license": 0
  },
  "Photographs by Ben Shahn": {
-  "already_had": 62,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "louisiana",
-  "too_small": 17,
+  "too_small": 18,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3696,13 +3696,13 @@
   "wrong_license": 0
  },
  "Stagecoaches": {
-  "already_had": 55,
+  "already_had": 54,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 24,
+  "too_small": 25,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4159,7 +4159,7 @@
  },
  "_era_video_ready": {
   "historical": 4376,
-  "modern_event": 4640,
+  "modern_event": 4642,
   "site_today": 2592
  }
 }

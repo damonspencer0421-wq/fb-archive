@@ -197846,6 +197846,22 @@
   "video_ready": true,
   "year": 2008
  },
+ "b6265ffd1291": {
+  "category": "Great Smoky Mountains",
+  "credit": "https://web.archive.org/web/20161030222051/http://www.panoramio.com/photo/125204540",
+  "date": "Taken on\u00a021 October 2015",
+  "description": "Ridges",
+  "era": "modern_event",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 2592,
+  "orig_width": 3872,
+  "page": "appalachia-unexplained",
+  "path": "images/appalachia-unexplained/b6265ffd1291.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Ridges_-_panoramio_(1).jpg",
+  "title": "File:Ridges - panoramio (1).jpg",
+  "video_ready": true,
+  "year": 2015
+ },
  "b62902416a4d": {
   "category": "Barbara Jordan",
   "credit": "Own work",
@@ -200121,6 +200137,22 @@
   "title": "File:Jefferson October 2016 21 (Museum of Time and Measurement).jpg",
   "video_ready": true,
   "year": 2016
+ },
+ "b82ad7b57039": {
+  "category": "Columbus, Georgia",
+  "credit": "Own work",
+  "date": "2026-10-19 16:49:36",
+  "description": "An inaugural commemorative archway along the Chattahoochee Riverwalk in Columbus, Georgia",
+  "era": "modern_event",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 4032,
+  "orig_width": 3024,
+  "page": "georgia",
+  "path": "images/georgia/b82ad7b57039.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Chattahoochee_Riverwalk_Archway.jpg",
+  "title": "File:Chattahoochee Riverwalk Archway.jpg",
+  "video_ready": true,
+  "year": 2026
  },
  "b82b62c29ba6": {
   "category": "Fog",
