@@ -440,13 +440,13 @@
   "wrong_license": 0
  },
  "Athens, Georgia": {
-  "already_had": 60,
+  "already_had": 59,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "georgia",
-  "too_small": 19,
+  "too_small": 20,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1166,14 +1166,14 @@
   "wrong_license": 0
  },
  "Columbus, Georgia": {
-  "already_had": 54,
+  "already_had": 55,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "georgia",
   "too_small": 22,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Comanche": {
@@ -1848,14 +1848,14 @@
   "wrong_license": 0
  },
  "Great Smoky Mountains": {
-  "already_had": 70,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "appalachia-unexplained",
   "too_small": 8,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Green Bank Observatory": {
@@ -1991,14 +1991,14 @@
   "wrong_license": 1
  },
  "History of Galveston, Texas": {
-  "already_had": 69,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
   "too_small": 11,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "History of Houston": {
@@ -3267,14 +3267,14 @@
   "wrong_license": 0
  },
  "Racial segregation in the United States": {
-  "already_had": 53,
+  "already_had": 52,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 24,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Ranches in Texas": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4376,
+  "historical": 4377,
   "modern_event": 4642,
-  "site_today": 2592
+  "site_today": 2593
  }
 }
