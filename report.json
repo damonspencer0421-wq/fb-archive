@@ -1067,14 +1067,14 @@
   "wrong_license": 0
  },
  "Civilian Conservation Corps": {
-  "already_had": 68,
+  "already_had": 66,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "georgia",
-  "too_small": 12,
-  "video_ready": 0,
+  "too_small": 13,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Clinton Engineer Works": {
@@ -1991,14 +1991,14 @@
   "wrong_license": 1
  },
  "History of Galveston, Texas": {
-  "already_had": 68,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 11,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "History of Houston": {
@@ -3267,14 +3267,14 @@
   "wrong_license": 0
  },
  "Racial segregation in the United States": {
-  "already_had": 52,
+  "already_had": 53,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 24,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Ranches in Texas": {
@@ -3960,13 +3960,13 @@
   "wrong_license": 0
  },
  "Tuskegee Institute": {
-  "already_had": 45,
+  "already_had": 44,
   "book_scan": 6,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "alabama",
-  "too_small": 29,
+  "too_small": 30,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4158,7 +4158,7 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4377,
+  "historical": 4378,
   "modern_event": 4642,
   "site_today": 2593
  }
