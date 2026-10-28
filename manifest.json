@@ -74749,6 +74749,22 @@
   "video_ready": false,
   "year": 1989
  },
+ "43ad015abc7c": {
+  "category": "Cemeteries in Texas",
+  "credit": "Own work",
+  "date": "Taken on\u00a020 October 2026, 14:35:48",
+  "description": "Mt. Marion Cemetery in Strawn, Texas, United States.",
+  "era": "site_today",
+  "license": "CC BY 4.0",
+  "orig_height": 2000,
+  "orig_width": 3556,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/43ad015abc7c.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Mt_Marion_Cemetery_Strawn_Texas_2026.jpg",
+  "title": "File:Mt Marion Cemetery Strawn Texas 2026.jpg",
+  "video_ready": true,
+  "year": 2026
+ },
  "43ad36715a6f": {
   "category": "Louisiana Purchase",
   "credit": "Own work",
@@ -119887,6 +119903,22 @@
   "title": "File:OUTFALL Ground Breaking Y-12 Oak Ridge 2017 (37863564944).jpg",
   "video_ready": true,
   "year": 2017
+ },
+ "6dc2798b1756": {
+  "category": "Orange, Texas",
+  "credit": "https://www.history.navy.mil/content/history/nhhc/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-81000/NH-81373.html",
+  "date": "1973-04-04",
+  "description": "Title: USS SUPERIOR (MSF-311)\nCaption: Laid up at Orange, Texas, 4 April 1973.\nDescription: Courtesy of D. M. McPherson, 1974.\nCatalog #: NH 81373\nCopyright Owner: Naval History and Heritage Command\nOriginal Creator: Photographer: Larry R. Cote\nOriginal Date: Wed, Apr 04, 1973\nAfter this Year: 1970\nBefore this Year: 1979\n\nOriginal Medium: BW Photo",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 4978,
+  "orig_width": 6244,
+  "page": "texas-stand-up",
+  "path": "images/texas-stand-up/6dc2798b1756.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:USS_Superior_(MSF-311)_laid_up_at_Orange,_Texas,_4_April_1973.tif",
+  "title": "File:USS Superior (MSF-311) laid up at Orange, Texas, 4 April 1973.tif",
+  "video_ready": true,
+  "year": 1970
  },
  "6dc4e4cfaa5e": {
   "category": "History of Key West, Florida",

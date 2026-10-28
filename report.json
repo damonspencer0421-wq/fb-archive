@@ -583,9 +583,9 @@
   "wrong_license": 0
  },
  "Bayous": {
-  "already_had": 18,
+  "already_had": 17,
   "book_scan": 0,
-  "candidates": 24,
+  "candidates": 23,
   "exists": true,
   "kept": 0,
   "page": "louisiana",
@@ -957,14 +957,14 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 65,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Cemeteries in West Virginia": {
@@ -1067,14 +1067,14 @@
   "wrong_license": 0
  },
  "Civilian Conservation Corps": {
-  "already_had": 66,
+  "already_had": 67,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "georgia",
   "too_small": 13,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Clinton Engineer Works": {
@@ -2673,13 +2673,13 @@
   "wrong_license": 0
  },
  "Mining disasters in the United States": {
-  "already_had": 39,
+  "already_had": 37,
   "book_scan": 0,
-  "candidates": 79,
+  "candidates": 73,
   "exists": true,
   "kept": 0,
   "page": "appalachia",
-  "too_small": 40,
+  "too_small": 36,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2981,14 +2981,14 @@
   "wrong_license": 0
  },
  "Orange, Texas": {
-  "already_had": 61,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
   "too_small": 19,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Organ grinders": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4378,
+  "historical": 4379,
   "modern_event": 4642,
-  "site_today": 2593
+  "site_today": 2594
  }
 }
