@@ -693,14 +693,14 @@
   "wrong_license": 0
  },
  "Blue Ridge Parkway": {
-  "already_had": 71,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "appalachia",
   "too_small": 9,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Boarding houses": {
@@ -785,9 +785,9 @@
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-frontier-files",
-  "too_small": 27,
+  "too_small": 26,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -957,14 +957,14 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 64,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Cemeteries in West Virginia": {
@@ -2981,14 +2981,14 @@
   "wrong_license": 0
  },
  "Orange, Texas": {
-  "already_had": 60,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 19,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Organ grinders": {
@@ -3267,13 +3267,13 @@
   "wrong_license": 0
  },
  "Racial segregation in the United States": {
-  "already_had": 53,
+  "already_had": 51,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 24,
+  "too_small": 26,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3498,14 +3498,14 @@
   "wrong_license": 0
  },
  "Segregation in the United States": {
-  "already_had": 54,
+  "already_had": 50,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-unearthed",
-  "too_small": 23,
-  "video_ready": 0,
+  "too_small": 26,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Selma to Montgomery marches": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4379,
-  "modern_event": 4642,
+  "historical": 4380,
+  "modern_event": 4643,
   "site_today": 2594
  }
 }

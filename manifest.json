@@ -27982,6 +27982,22 @@
   "video_ready": true,
   "year": 1917
  },
+ "191078b99c02": {
+  "category": "Segregation in the United States",
+  "credit": "Own work",
+  "date": "2021-04-24 14:45:10",
+  "description": "Jack and Jill of America Foundation. Founded 1938 by Marion Turner Stubbs, Lela Jones, and nine other African-American mothers of middle-class families to provide activities for their children despite racial segregation. The local chapter - first in the U.S. - formerly met here. (Historical Marker at 1605 Christian St., Philadelphia PA - Pennsylvania Historical and Museum Commission 1992)",
+  "era": "historical",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 2000,
+  "orig_width": 3000,
+  "page": "texas-unearthed",
+  "path": "images/texas-unearthed/191078b99c02.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Jack_and_Jill_of_America_Foundation_Historical_Marker_1605_Christian_St_Philadelphia_PA_(DSC_4157).jpg",
+  "title": "File:Jack and Jill of America Foundation Historical Marker 1605 Christian St Philadelphia PA (DSC 4157).jpg",
+  "video_ready": true,
+  "year": 1605
+ },
  "19116ab8a1fd": {
   "category": "History of Atlanta",
   "credit": "Own work",
@@ -120904,6 +120920,22 @@
   "video_ready": true,
   "year": 2013
  },
+ "6e90d5410364": {
+  "category": "Buffalo hunting",
+  "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/2005691559\nImage download: https://cdn.loc.gov/service/pnp/cph/3b00000/3b08000/3b08900/3b08930r.jpg\nOriginal url: https://www.loc.gov/pictures/item/2005691559/",
+  "date": "1917",
+  "description": "Title: Hunters stampeding buffalo herd\nAbstract/medium: 1 photographic print.",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 1216,
+  "orig_width": 1536,
+  "page": "texas-frontier-files",
+  "path": "images/texas-frontier-files/6e90d5410364.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Hunters_stampeding_buffalo_herd_LCCN2005691559.jpg",
+  "title": "File:Hunters stampeding buffalo herd LCCN2005691559.jpg",
+  "video_ready": false,
+  "year": 1917
+ },
  "6e933f18be6f": {
   "category": "Katherine Johnson",
   "credit": "http://www.collectspace.com/ubb/Forum18/HTML/001589.html",
@@ -202815,6 +202847,22 @@
   "title": "File:Gift Shop Drawing.jpg",
   "video_ready": true,
   "year": 1963
+ },
+ "ba73d00ec06d": {
+  "category": "Blue Ridge Parkway",
+  "credit": "My phone",
+  "date": "2026-10-29",
+  "description": "Ruff Ridge in the morning",
+  "era": "modern_event",
+  "license": "CC BY 4.0",
+  "orig_height": 4284,
+  "orig_width": 5712,
+  "page": "appalachia",
+  "path": "images/appalachia/ba73d00ec06d.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Ruff_Ridge.jpg",
+  "title": "File:Ruff Ridge.jpg",
+  "video_ready": true,
+  "year": 2026
  },
  "ba744b080a3b": {
   "category": "Redstone Arsenal",
