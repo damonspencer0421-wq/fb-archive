@@ -277,12 +277,12 @@
  "Amarillo, Texas": {
   "already_had": 55,
   "book_scan": 0,
-  "candidates": 73,
+  "candidates": 74,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
   "too_small": 18,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Anglo-Saxon Chronicle": {
@@ -693,14 +693,14 @@
   "wrong_license": 0
  },
  "Blue Ridge Parkway": {
-  "already_had": 70,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 9,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Boarding houses": {
@@ -781,11 +781,11 @@
   "wrong_license": 0
  },
  "Buffalo hunting": {
-  "already_had": 51,
+  "already_had": 52,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-frontier-files",
   "too_small": 26,
   "video_ready": 0,
@@ -2013,14 +2013,14 @@
   "wrong_license": 0
  },
  "History of Italy": {
-  "already_had": 31,
+  "already_had": 30,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 47,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "History of Key West, Florida": {
@@ -2501,9 +2501,9 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "florida",
-  "too_small": 9,
+  "too_small": 8,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3498,14 +3498,14 @@
   "wrong_license": 0
  },
  "Segregation in the United States": {
-  "already_had": 50,
+  "already_had": 51,
   "book_scan": 2,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-unearthed",
   "too_small": 26,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Selma to Montgomery marches": {
@@ -3696,13 +3696,13 @@
   "wrong_license": 0
  },
  "Stagecoaches": {
-  "already_had": 54,
+  "already_had": 55,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 25,
+  "too_small": 24,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4380,
-  "modern_event": 4643,
+  "historical": 4382,
+  "modern_event": 4644,
   "site_today": 2594
  }
 }

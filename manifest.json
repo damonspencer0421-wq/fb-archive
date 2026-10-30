@@ -26660,6 +26660,22 @@
   "video_ready": false,
   "year": 2004
  },
+ "18317d1bad9e": {
+  "category": "History of Italy",
+  "credit": "Archivio Fineschi Sergardi, Palazzo Fineschi Sergardi",
+  "date": "2013-04-04",
+  "description": "Diploma di Grand' Ufficiale dell'Ordine della Corona d'Italia di Adolfo Fineschi Tenente Generale R.E., 12 Marzo 1899",
+  "era": "historical",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 5861,
+  "orig_width": 4084,
+  "page": "growing-up-italian",
+  "path": "images/growing-up-italian/18317d1bad9e.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Gr._Uff._Ten._Gen._Adolfo_Fineschi.jpg",
+  "title": "File:Gr. Uff. Ten. Gen. Adolfo Fineschi.jpg",
+  "video_ready": true,
+  "year": 1899
+ },
  "183449443690": {
   "category": "Historically black colleges and universities",
   "credit": "https://www.flickr.com/photos/24400159@N05/54155507361/",
@@ -155340,6 +155356,22 @@
   "video_ready": true,
   "year": 2007
  },
+ "8dedb5b2dfad": {
+  "category": "MacDill Air Force Base",
+  "credit": "This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, via its partner Digital Public Library of America.\nRecord in source catalog\nDPLA identifier: 27e861cdc0bf766c5457f7f24837c3d1\nNational Archives Identifier: 6627076",
+  "date": "21 March 2002",
+  "description": "The original finding aid described this photograph as: Base: Macdill Air Force Base State: Florida (FL) Country: United States Of America (USA) Scene Major Command Shown: AMC Scene Camera Operator: TSGT Douglas K. Lingefelt, USAF Release Status: Released to Public",
+  "era": "modern_event",
+  "license": "Public domain",
+  "orig_height": 2955,
+  "orig_width": 1937,
+  "page": "florida",
+  "path": "images/florida/8dedb5b2dfad.jpeg",
+  "source": "https://commons.wikimedia.org/wiki/File:As_Part_of_the_Air_Mobility_Command%27s_2002_%22Year_of_the_Warrior_Spirit%22_activities,_AIRMAN_First_Class_(A1C)_Theresa_Rosales_(front),_USAF,_and_Second_Lieutenant_(2LT)_Glen_Carson_(_-_DPLA_-_27e861cdc0bf766c5457f7f24837c3d1.jpeg",
+  "title": "File:As Part of the Air Mobility Command's 2002 \"Year of the Warrior Spirit\" activities, AIRMAN First Class (A1C) Theresa Rosales (front), USAF, and Second Lieutenant (2LT) Glen Carson ( - DPLA - 27e861cdc0bf766c5457f7f24837c3d1.jpeg",
+  "video_ready": false,
+  "year": 2002
+ },
  "8df299f9b049": {
   "category": "Houses in Texas",
   "credit": "Own work",
@@ -176799,6 +176831,22 @@
   "title": "File:Duplicate negative of an historic negative. 'AERIAL VIEW OF AREA 'B' HOLSTON ORDNANCE WORKS.' 1944. -OCMH 4-12.2ASAV3 in Super Explosives Program RDX and Its Composition A, B HAER TENN,82-KINPO,2-B-24.tif",
   "video_ready": true,
   "year": 1944
+ },
+ "a212204e60e1": {
+  "category": "Stagecoaches",
+  "credit": "Svenska missionsf\u00f6rbundet",
+  "date": "20th century, first half",
+  "description": "China. Picture from the archive of Mission Covenant Church of Sweden.",
+  "era": "historical",
+  "license": "CC0",
+  "orig_height": 4114,
+  "orig_width": 5828,
+  "page": "texas-frontier-files",
+  "path": "images/texas-frontier-files/a212204e60e1.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Xinjiang,_tr%C3%A4d,_h%C3%A4st,_vagn,_Diligens_mellan_Orsh_och_Andij,_0964.b.0960.tif",
+  "title": "File:Xinjiang, tr\u00e4d, h\u00e4st, vagn, Diligens mellan Orsh och Andij, 0964.b.0960.tif",
+  "video_ready": true,
+  "year": null
  },
  "a214e2cab9e5": {
   "category": "Everglades National Park",
@@ -250988,6 +251036,22 @@
   "title": "File:LAUNCH CONTROL CAPSULE. ACOUSTICAL ENCLOSURE WITH MISSILE COMBAT CREW MEMBER LIEUTENANT KEVIN R. MCCLUNEY AT COMMUNICATIONS CONSOLE. LAUNCH CONTROL CONSOLE IN FOREGROUND. HAER COLO,62-NERAY.V,1-26.tif",
   "video_ready": true,
   "year": null
+ },
+ "e714060206c5": {
+  "category": "Amarillo, Texas",
+  "credit": "On The Road Again-9",
+  "date": "Taken on\u00a011 December 2016, 19:51:43",
+  "description": "Amarillo, Texas",
+  "era": "modern_event",
+  "license": "CC BY 2.0",
+  "orig_height": 3264,
+  "orig_width": 4352,
+  "page": "texas-stand-up",
+  "path": "images/texas-stand-up/e714060206c5.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Amarillo,_Texas_(35273261156).jpg",
+  "title": "File:Amarillo, Texas (35273261156).jpg",
+  "video_ready": true,
+  "year": 2016
  },
  "e719d12f4707": {
   "category": "Black and white photographs of Italy",
