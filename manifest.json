@@ -95464,6 +95464,22 @@
   "video_ready": true,
   "year": 2012
  },
+ "573a94f0fc95": {
+  "category": "Chuckwagons",
+  "credit": "Own work",
+  "date": "2022-04-27 11:03:04",
+  "description": "En el Museo de Carros hay carruajes usados en pel\u00edculas y veh\u00edculos a motor antiguos. Oasys MiniHollywood. Tabernas, provincia de Almer\u00eda, Andaluc\u00eda, Espa\u00f1a.",
+  "era": "modern_event",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 3072,
+  "orig_width": 4096,
+  "page": "texas-frontier-files",
+  "path": "images/texas-frontier-files/573a94f0fc95.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Museo_de_Carros_06.jpg",
+  "title": "File:Museo de Carros 06.jpg",
+  "video_ready": true,
+  "year": 2022
+ },
  "573e2cc891c1": {
   "category": "Cold War",
   "credit": "Own work",
@@ -112188,6 +112204,22 @@
   "video_ready": true,
   "year": 1978
  },
+ "664a2b8a95dd": {
+  "category": "Rosenwald schools",
+  "credit": "Own work",
+  "date": "Taken on\u00a027 August 2013, 17:22:51",
+  "description": "Walnut Cove Colored School, Jct. of Brook and Dalton Sts., NW corner Walnut Cove",
+  "era": "site_today",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 2848,
+  "orig_width": 4288,
+  "page": "black-unearthed",
+  "path": "images/black-unearthed/664a2b8a95dd.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:WalnutCoveColouredSchoolBldg.JPG",
+  "title": "File:WalnutCoveColouredSchoolBldg.JPG",
+  "video_ready": true,
+  "year": 2013
+ },
  "6652eaba294b": {
   "category": "Wild West shows",
   "credit": "https://www.flickr.com/photos/nationallibrarynz_commons/5015577377/",
@@ -127902,6 +127934,22 @@
   "title": "File:Stay in your own backyard (NYPL Hades-609649-1997166).jpg",
   "video_ready": true,
   "year": 1899
+ },
+ "75192c63b072": {
+  "category": "Rosenwald schools",
+  "credit": "Own work",
+  "date": "Taken on\u00a027 August 2013, 17:23:24",
+  "description": "Walnut Cove Colored School, Jct. of Brook and Dalton Sts., NW corner Walnut Cove",
+  "era": "site_today",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 2848,
+  "orig_width": 4288,
+  "page": "black-unearthed",
+  "path": "images/black-unearthed/75192c63b072.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:WalnutCoveColouredSchoolSign.JPG",
+  "title": "File:WalnutCoveColouredSchoolSign.JPG",
+  "video_ready": true,
+  "year": 2013
  },
  "75194ab7a6ee": {
   "category": "Cemeteries in West Virginia",
@@ -192624,6 +192672,22 @@
   "title": "File:Frenship Memorial High School - Football Field Logo Closeup.jpg",
   "video_ready": true,
   "year": 2025
+ },
+ "b13f9f718649": {
+  "category": "Republic of Texas",
+  "credit": "https://catalog.hathitrust.org/Record/102625169",
+  "date": "1926",
+  "description": "Republic of Texas and boundaries as claimed by Texas, 1836\u20131850",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 2208,
+  "orig_width": 1502,
+  "page": "lonestar-legacy",
+  "path": "images/lonestar-legacy/b13f9f718649.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Republic_of_Texas_and_boundaries_as_claimed_by_Texas,_1836%E2%80%931850.jpg",
+  "title": "File:Republic of Texas and boundaries as claimed by Texas, 1836\u20131850.jpg",
+  "video_ready": false,
+  "year": 1836
  },
  "b14064bd5341": {
   "category": "Montgomery Bus Boycott",

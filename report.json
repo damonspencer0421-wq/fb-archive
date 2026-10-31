@@ -275,14 +275,14 @@
   "wrong_license": 0
  },
  "Amarillo, Texas": {
-  "already_had": 55,
+  "already_had": 56,
   "book_scan": 0,
   "candidates": 74,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 18,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Anglo-Saxon Chronicle": {
@@ -748,13 +748,13 @@
   "wrong_license": 0
  },
  "Bridges in Texas": {
-  "already_had": 59,
+  "already_had": 58,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 21,
+  "too_small": 22,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1034,14 +1034,14 @@
   "wrong_license": 0
  },
  "Chuckwagons": {
-  "already_had": 71,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-frontier-files",
   "too_small": 9,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Citrus": {
@@ -2013,14 +2013,14 @@
   "wrong_license": 0
  },
  "History of Italy": {
-  "already_had": 30,
+  "already_had": 31,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 47,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "History of Key West, Florida": {
@@ -2497,11 +2497,11 @@
   "wrong_license": 0
  },
  "MacDill Air Force Base": {
-  "already_had": 71,
+  "already_had": 72,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "florida",
   "too_small": 8,
   "video_ready": 0,
@@ -3326,9 +3326,9 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
-  "too_small": 55,
+  "too_small": 54,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3379,12 +3379,12 @@
  "Rosenwald schools": {
   "already_had": 39,
   "book_scan": 0,
-  "candidates": 42,
+  "candidates": 44,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "black-unearthed",
   "too_small": 3,
-  "video_ready": 0,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Runic inscriptions": {
@@ -4159,7 +4159,7 @@
  },
  "_era_video_ready": {
   "historical": 4382,
-  "modern_event": 4644,
-  "site_today": 2594
+  "modern_event": 4645,
+  "site_today": 2596
  }
 }
