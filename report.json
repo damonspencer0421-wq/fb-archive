@@ -244,11 +244,11 @@
  "Alabama": {
   "already_had": 14,
   "book_scan": 0,
-  "candidates": 29,
+  "candidates": 30,
   "exists": true,
   "kept": 0,
   "page": "alabama",
-  "too_small": 15,
+  "too_small": 16,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -737,13 +737,13 @@
   "wrong_license": 0
  },
  "Booker T. Washington": {
-  "already_had": 32,
+  "already_had": 31,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 48,
+  "too_small": 49,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1034,14 +1034,14 @@
   "wrong_license": 0
  },
  "Chuckwagons": {
-  "already_had": 70,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-frontier-files",
   "too_small": 9,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Citrus": {
@@ -2816,13 +2816,13 @@
   "wrong_license": 0
  },
  "New Orleans": {
-  "already_had": 34,
+  "already_had": 33,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "louisiana",
-  "too_small": 46,
+  "too_small": 47,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2904,14 +2904,14 @@
   "wrong_license": 0
  },
  "Oak Ridge, Tennessee": {
-  "already_had": 79,
+  "already_had": 78,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "appalachia",
   "too_small": 1,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Offa's Dyke": {
@@ -3322,11 +3322,11 @@
   "wrong_license": 0
  },
  "Republic of Texas": {
-  "already_had": 25,
+  "already_had": 26,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 54,
   "video_ready": 0,
@@ -3377,14 +3377,14 @@
   "wrong_license": 0
  },
  "Rosenwald schools": {
-  "already_had": 39,
+  "already_had": 40,
   "book_scan": 0,
-  "candidates": 44,
+  "candidates": 43,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 3,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Runic inscriptions": {
@@ -3597,14 +3597,14 @@
   "wrong_license": 0
  },
  "Sicily": {
-  "already_had": 65,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 12,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Silver Springs, Florida": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4382,
-  "modern_event": 4645,
+  "historical": 4383,
+  "modern_event": 4646,
   "site_today": 2596
  }
 }
