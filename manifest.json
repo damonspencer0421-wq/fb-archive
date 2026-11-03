@@ -827,6 +827,22 @@
   "video_ready": true,
   "year": 1897
  },
+ "00c207cdacf6": {
+  "category": "African Americans in the American Civil War",
+  "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/97503194\nImage download: https://cdn.loc.gov/service/pnp/ppmsca/10300/10394v.jpg\nOriginal url: https://www.loc.gov/pictures/item/97503194/",
+  "date": "1862",
+  "description": "Title: Military railroad operations in northern Virginia: men using levers for loosening rails\nAbstract/medium: 1 photographic print\u00a0: salted paper.",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 4756,
+  "orig_width": 6157,
+  "page": "texas-unearthed",
+  "path": "images/texas-unearthed/00c207cdacf6.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Military_railroad_operations_in_northern_Virginia-_men_using_levers_for_loosening_rails_LCCN97503194.jpg",
+  "title": "File:Military railroad operations in northern Virginia- men using levers for loosening rails LCCN97503194.jpg",
+  "video_ready": true,
+  "year": 1862
+ },
  "00c5c5badd69": {
   "category": "Ellis Island",
   "credit": "Own work",
@@ -60141,6 +60157,22 @@
   "title": "File:Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana. LOC sanborn03376 007-23.jpg",
   "video_ready": true,
   "year": 1896
+ },
+ "3696e9e8d258": {
+  "category": "Matewan, West Virginia",
+  "credit": "Own work",
+  "date": "2020",
+  "description": "Fire hydrant in Matewan, West Virginia.",
+  "era": "modern_event",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 2940,
+  "orig_width": 2048,
+  "page": "appalachia",
+  "path": "images/appalachia/3696e9e8d258.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Fire_hydrant_in_Matewan,_West_Virginia.jpg",
+  "title": "File:Fire hydrant in Matewan, West Virginia.jpg",
+  "video_ready": false,
+  "year": 2020
  },
  "3697ee4e0d9e": {
   "category": "Everglades National Park",
@@ -190727,6 +190759,22 @@
   "title": "File:A pictorial description of the United States; embracing the history, geographical position, agricultural and mineral resources (1860) (14775623384).jpg",
   "year": 1810
  },
+ "ae252fe02626": {
+  "category": "African Americans in the American Civil War",
+  "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/97502026\nImage download: https://cdn.loc.gov/service/pnp/ppmsca/10300/10396v.jpg\nOriginal url: https://www.loc.gov/pictures/item/97502026/",
+  "date": "1862",
+  "description": "Title: Military railroad operations in northern Virginia: men using levers for loosening rails\nAbstract/medium: 1 photographic print\u00a0: salted paper.",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 4773,
+  "orig_width": 6275,
+  "page": "texas-unearthed",
+  "path": "images/texas-unearthed/ae252fe02626.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Military_railroad_operations_in_northern_Virginia-_men_using_levers_for_loosening_rails_LCCN97502026.jpg",
+  "title": "File:Military railroad operations in northern Virginia- men using levers for loosening rails LCCN97502026.jpg",
+  "video_ready": true,
+  "year": 1862
+ },
  "ae26582274ce": {
   "category": "Oak Ridge, Tennessee",
   "credit": "HD.30.479",
@@ -240505,6 +240553,22 @@
   "source": "https://commons.wikimedia.org/wiki/File:What_is_Juneteenth_video_about_the_House_Democrats.ogv",
   "title": "File:What is Juneteenth video about the House Democrats.ogv",
   "year": 2020
+ },
+ "db40cb5279d2": {
+  "category": "Fort Davis National Historic Site",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AFortDavisNationalHistoricSiteMarker.JPG",
+  "date": "2016-11-04",
+  "description": "Wikivoyage banner for Trans-Pecos. Cropped from this PD-licensed picture:https://commons.wikimedia.org/wiki/File%3AFortDavisNationalHistoricSiteMarker.JPG",
+  "era": "site_today",
+  "license": "CC0",
+  "orig_height": 300,
+  "orig_width": 2100,
+  "page": "texas-frontier-files",
+  "path": "images/texas-frontier-files/db40cb5279d2.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:WV_banner_Trans-Pecos_Fort_Davis_Historical_site.jpg",
+  "title": "File:WV banner Trans-Pecos Fort Davis Historical site.jpg",
+  "video_ready": false,
+  "year": 2016
  },
  "db41e047e7f1": {
   "category": "Caves of Tennessee",

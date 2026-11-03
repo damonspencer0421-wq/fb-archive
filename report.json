@@ -187,13 +187,13 @@
   "wrong_license": 0
  },
  "African Americans in the American Civil War": {
-  "already_had": 35,
+  "already_had": 37,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 43,
+  "too_small": 41,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1177,14 +1177,14 @@
   "wrong_license": 0
  },
  "Comanche": {
-  "already_had": 14,
+  "already_had": 35,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
-  "kept": 21,
+  "kept": 0,
   "page": "texas-frontier-files",
   "too_small": 41,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 1
  },
  "Comanche people": {
@@ -1617,11 +1617,11 @@
   "wrong_license": 0
  },
  "Fort Davis National Historic Site": {
-  "already_had": 66,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-frontier-files",
   "too_small": 14,
   "video_ready": 0,
@@ -1639,24 +1639,24 @@
   "wrong_license": 0
  },
  "Fort Hood, Texas": {
-  "already_had": 3,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 39,
+  "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 14,
-  "video_ready": 19,
+  "too_small": 9,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Fort Phantom Hill": {
-  "already_had": 0,
+  "already_had": 23,
   "book_scan": 0,
-  "candidates": 0,
+  "candidates": 25,
   "exists": true,
   "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 0,
+  "too_small": 2,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1991,13 +1991,13 @@
   "wrong_license": 1
  },
  "History of Galveston, Texas": {
-  "already_had": 27,
+  "already_had": 69,
   "book_scan": 0,
-  "candidates": 42,
+  "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 13,
+  "too_small": 11,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2068,14 +2068,14 @@
   "wrong_license": 2
  },
  "History of Texas": {
-  "already_had": 36,
+  "already_had": 25,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "texas-unearthed",
-  "too_small": 40,
-  "video_ready": 1,
+  "too_small": 54,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Holston Army Ammunition Plant": {
@@ -2552,11 +2552,11 @@
   "wrong_license": 0
  },
  "March on Washington for Jobs and Freedom": {
-  "already_had": 58,
+  "already_had": 59,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 21,
   "video_ready": 0,
@@ -2629,9 +2629,9 @@
   "wrong_license": 0
  },
  "Matewan, West Virginia": {
-  "already_had": 11,
+  "already_had": 12,
   "book_scan": 0,
-  "candidates": 14,
+  "candidates": 15,
   "exists": true,
   "kept": 0,
   "page": "appalachia-unexplained",
@@ -2981,14 +2981,14 @@
   "wrong_license": 0
  },
  "Orange, Texas": {
-  "already_had": 49,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 13,
+  "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 18,
-  "video_ready": 13,
+  "too_small": 19,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Organ grinders": {
@@ -3410,13 +3410,13 @@
   "wrong_license": 0
  },
  "Sabine River": {
-  "already_had": 33,
+  "already_had": 50,
   "book_scan": 0,
-  "candidates": 38,
+  "candidates": 78,
   "exists": true,
   "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 5,
+  "too_small": 28,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3927,9 +3927,9 @@
   "wrong_license": 0
  },
  "Tunnels in Texas": {
-  "already_had": 12,
+  "already_had": 18,
   "book_scan": 0,
-  "candidates": 16,
+  "candidates": 22,
   "exists": true,
   "kept": 0,
   "page": "texas-stand-up",
@@ -4158,7 +4158,7 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4389,
+  "historical": 4391,
   "modern_event": 4665,
   "site_today": 2610
  }
