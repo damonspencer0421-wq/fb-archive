@@ -913,14 +913,14 @@
   "wrong_license": 0
  },
  "Caves of West Virginia": {
-  "already_had": 53,
+  "already_had": 28,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 32,
   "page": "appalachia-unexplained",
-  "too_small": 23,
-  "video_ready": 0,
+  "too_small": 14,
+  "video_ready": 29,
   "wrong_license": 0
  },
  "Celtic crosses": {
@@ -1617,11 +1617,11 @@
   "wrong_license": 0
  },
  "Fort Davis National Historic Site": {
-  "already_had": 65,
+  "already_had": 66,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-frontier-files",
   "too_small": 14,
   "video_ready": 0,
@@ -3997,9 +3997,9 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
-  "too_small": 35,
+  "too_small": 34,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4159,7 +4159,7 @@
  },
  "_era_video_ready": {
   "historical": 4391,
-  "modern_event": 4665,
-  "site_today": 2610
+  "modern_event": 4676,
+  "site_today": 2628
  }
 }
