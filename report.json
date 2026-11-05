@@ -913,14 +913,14 @@
   "wrong_license": 0
  },
  "Caves of West Virginia": {
-  "already_had": 28,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 32,
+  "kept": 0,
   "page": "appalachia-unexplained",
   "too_small": 14,
-  "video_ready": 29,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Celtic crosses": {
@@ -957,14 +957,14 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 65,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 3,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 0,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Cemeteries in West Virginia": {
@@ -1430,14 +1430,14 @@
   "wrong_license": 0
  },
  "Emancipation Proclamation": {
-  "already_had": 58,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-unearthed",
   "too_small": 22,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Emigration": {
@@ -1485,14 +1485,14 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 68,
+  "already_had": 54,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 13,
   "page": "florida",
   "too_small": 12,
-  "video_ready": 0,
+  "video_ready": 13,
   "wrong_license": 0
  },
  "Fannie Lou Hamer": {
@@ -3993,11 +3993,11 @@
   "wrong_license": 0
  },
  "Underground Railroad": {
-  "already_had": 44,
+  "already_had": 45,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 34,
   "video_ready": 0,
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4391,
-  "modern_event": 4676,
-  "site_today": 2628
+  "historical": 4392,
+  "modern_event": 4689,
+  "site_today": 2630
  }
 }
