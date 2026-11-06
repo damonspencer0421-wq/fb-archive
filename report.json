@@ -440,13 +440,13 @@
   "wrong_license": 0
  },
  "Athens, Georgia": {
-  "already_had": 59,
+  "already_had": 58,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "georgia",
-  "too_small": 20,
+  "too_small": 21,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -957,14 +957,14 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 62,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Cemeteries in West Virginia": {
@@ -1430,14 +1430,14 @@
   "wrong_license": 0
  },
  "Emancipation Proclamation": {
-  "already_had": 57,
+  "already_had": 58,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-unearthed",
   "too_small": 22,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Emigration": {
@@ -1485,14 +1485,14 @@
   "wrong_license": 0
  },
  "Everglades National Park": {
-  "already_had": 54,
+  "already_had": 67,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 13,
+  "kept": 0,
   "page": "florida",
   "too_small": 12,
-  "video_ready": 13,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Fannie Lou Hamer": {
@@ -1859,14 +1859,14 @@
   "wrong_license": 0
  },
  "Green Bank Observatory": {
-  "already_had": 63,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "appalachia-unexplained",
   "too_small": 17,
-  "video_ready": 0,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Grocery stores": {
@@ -2193,10 +2193,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
-  "too_small": 30,
-  "video_ready": 0,
+  "too_small": 29,
+  "video_ready": 1,
   "wrong_license": 15
  },
  "Iona Abbey": {
@@ -3069,13 +3069,13 @@
   "wrong_license": 0
  },
  "Pensacola, Florida": {
-  "already_had": 63,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "florida",
-  "too_small": 9,
+  "too_small": 10,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3421,13 +3421,13 @@
   "wrong_license": 0
  },
  "Saloons": {
-  "already_had": 43,
+  "already_had": 42,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 37,
+  "too_small": 38,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3443,14 +3443,14 @@
   "wrong_license": 0
  },
  "San Antonio, Texas": {
-  "already_had": 70,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 10,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Savannah, Georgia": {
@@ -4159,7 +4159,7 @@
  },
  "_era_video_ready": {
   "historical": 4392,
-  "modern_event": 4689,
+  "modern_event": 4694,
   "site_today": 2630
  }
 }
