@@ -1,13 +1,13 @@
 {
  "1935 Labor Day hurricane": {
-  "already_had": 31,
+  "already_had": 30,
   "book_scan": 0,
-  "candidates": 59,
+  "candidates": 60,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "florida",
   "too_small": 26,
-  "video_ready": 0,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "369th Infantry Regiment (United States)": {
@@ -1859,24 +1859,24 @@
   "wrong_license": 0
  },
  "Green Bank Observatory": {
-  "already_had": 61,
+  "already_had": 63,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "appalachia-unexplained",
   "too_small": 17,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Grocery stores": {
-  "already_had": 42,
+  "already_had": 41,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "growing-up-italian",
-  "too_small": 38,
+  "too_small": 39,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2189,14 +2189,14 @@
   "wrong_license": 0
  },
  "Intercontinental ballistic missiles": {
-  "already_had": 35,
+  "already_had": 36,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 29,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 15
  },
  "Iona Abbey": {
@@ -3443,14 +3443,14 @@
   "wrong_license": 0
  },
  "San Antonio, Texas": {
-  "already_had": 69,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 10,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Savannah, Georgia": {
@@ -4158,7 +4158,7 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4392,
+  "historical": 4394,
   "modern_event": 4694,
   "site_today": 2630
  }
