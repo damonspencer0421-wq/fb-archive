@@ -1,13 +1,13 @@
 {
  "1935 Labor Day hurricane": {
-  "already_had": 30,
+  "already_had": 32,
   "book_scan": 0,
   "candidates": 60,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "florida",
   "too_small": 26,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "369th Infantry Regiment (United States)": {
@@ -88,13 +88,13 @@
   "wrong_license": 1
  },
  "Abilene, Texas": {
-  "already_had": 57,
+  "already_had": 56,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 22,
+  "too_small": 23,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -880,14 +880,14 @@
   "wrong_license": 0
  },
  "Caves of Kentucky": {
-  "already_had": 71,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 11,
   "page": "appalachia-unexplained",
   "too_small": 3,
-  "video_ready": 0,
+  "video_ready": 11,
   "wrong_license": 6
  },
  "Caves of Tennessee": {
@@ -2486,13 +2486,13 @@
   "wrong_license": 0
  },
  "Lubbock, Texas": {
-  "already_had": 61,
+  "already_had": 59,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
-  "too_small": 19,
+  "too_small": 20,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2981,13 +2981,13 @@
   "wrong_license": 0
  },
  "Orange, Texas": {
-  "already_had": 61,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 19,
+  "too_small": 20,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3135,14 +3135,14 @@
   "wrong_license": 0
  },
  "Photographs by Gordon Parks": {
-  "already_had": 28,
+  "already_had": 27,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 52,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Photographs by Jack Delano": {
@@ -3564,14 +3564,14 @@
   "wrong_license": 0
  },
  "Shipwrecks in Florida": {
-  "already_had": 29,
+  "already_had": 26,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "florida",
-  "too_small": 51,
-  "video_ready": 0,
+  "too_small": 53,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Shirley Chisholm": {
@@ -3953,10 +3953,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
-  "too_small": 17,
-  "video_ready": 0,
+  "too_small": 16,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Tuskegee Institute": {
@@ -4103,14 +4103,14 @@
   "wrong_license": 0
  },
  "Wild West shows": {
-  "already_had": 49,
+  "already_had": 48,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-frontier-files",
   "too_small": 30,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Wilma Rudolph": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4394,
-  "modern_event": 4694,
-  "site_today": 2630
+  "historical": 4408,
+  "modern_event": 4695,
+  "site_today": 2631
  }
 }
