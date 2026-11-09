@@ -462,14 +462,14 @@
   "wrong_license": 0
  },
  "Augusta, Georgia": {
-  "already_had": 51,
+  "already_had": 48,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 3,
   "page": "georgia",
   "too_small": 28,
-  "video_ready": 0,
+  "video_ready": 3,
   "wrong_license": 1
  },
  "Austin, Texas": {
@@ -880,14 +880,14 @@
   "wrong_license": 0
  },
  "Caves of Kentucky": {
-  "already_had": 60,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 11,
+  "kept": 0,
   "page": "appalachia-unexplained",
   "too_small": 3,
-  "video_ready": 11,
+  "video_ready": 0,
   "wrong_license": 6
  },
  "Caves of Tennessee": {
@@ -937,11 +937,11 @@
  "Cemeteries in Kentucky": {
   "already_had": 58,
   "book_scan": 0,
-  "candidates": 77,
+  "candidates": 79,
   "exists": true,
   "kept": 0,
   "page": "appalachia-unexplained",
-  "too_small": 11,
+  "too_small": 13,
   "video_ready": 0,
   "wrong_license": 8
  },
@@ -957,14 +957,14 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 65,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Cemeteries in West Virginia": {
@@ -2244,14 +2244,14 @@
   "wrong_license": 0
  },
  "James Baldwin": {
-  "already_had": 51,
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 28,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 1
  },
  "James Van Der Zee": {
@@ -2486,11 +2486,11 @@
   "wrong_license": 0
  },
  "Lubbock, Texas": {
-  "already_had": 59,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 20,
   "video_ready": 0,
@@ -2831,10 +2831,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
-  "too_small": 31,
-  "video_ready": 0,
+  "too_small": 30,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Newsboys": {
@@ -3025,14 +3025,14 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 74,
+  "already_had": 73,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 5,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Palo Duro Canyon": {
@@ -3135,14 +3135,14 @@
   "wrong_license": 0
  },
  "Photographs by Gordon Parks": {
-  "already_had": 27,
+  "already_had": 28,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 52,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Photographs by Jack Delano": {
@@ -3443,14 +3443,14 @@
   "wrong_license": 0
  },
  "San Antonio, Texas": {
-  "already_had": 70,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 10,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Savannah, Georgia": {
@@ -3564,14 +3564,14 @@
   "wrong_license": 0
  },
  "Shipwrecks in Florida": {
-  "already_had": 26,
+  "already_had": 27,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "florida",
   "too_small": 53,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Shirley Chisholm": {
@@ -3949,14 +3949,14 @@
   "wrong_license": 0
  },
  "Tuskegee Airmen": {
-  "already_had": 62,
+  "already_had": 63,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 16,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Tuskegee Institute": {
@@ -4103,14 +4103,14 @@
   "wrong_license": 0
  },
  "Wild West shows": {
-  "already_had": 48,
+  "already_had": 49,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-frontier-files",
   "too_small": 30,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Wilma Rudolph": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4408,
-  "modern_event": 4695,
-  "site_today": 2631
+  "historical": 4409,
+  "modern_event": 4700,
+  "site_today": 2633
  }
 }
