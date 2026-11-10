@@ -462,14 +462,14 @@
   "wrong_license": 0
  },
  "Augusta, Georgia": {
-  "already_had": 48,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "georgia",
   "too_small": 28,
-  "video_ready": 3,
+  "video_ready": 0,
   "wrong_license": 1
  },
  "Austin, Texas": {
@@ -957,14 +957,14 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 64,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Cemeteries in West Virginia": {
@@ -1408,14 +1408,14 @@
   "wrong_license": 0
  },
  "El Paso, Texas": {
-  "already_had": 68,
+  "already_had": 66,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "lonestar-legacy",
   "too_small": 12,
-  "video_ready": 0,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Ellis Island": {
@@ -2244,14 +2244,14 @@
   "wrong_license": 0
  },
  "James Baldwin": {
-  "already_had": 50,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 28,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 1
  },
  "James Van Der Zee": {
@@ -2816,25 +2816,25 @@
   "wrong_license": 0
  },
  "New Orleans": {
-  "already_had": 33,
+  "already_had": 31,
+  "book_scan": 0,
+  "candidates": 80,
+  "exists": true,
+  "kept": 2,
+  "page": "louisiana",
+  "too_small": 47,
+  "video_ready": 2,
+  "wrong_license": 0
+ },
+ "New York City in the 1930s": {
+  "already_had": 50,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
-  "page": "louisiana",
-  "too_small": 47,
-  "video_ready": 0,
-  "wrong_license": 0
- },
- "New York City in the 1930s": {
-  "already_had": 49,
-  "book_scan": 0,
-  "candidates": 80,
-  "exists": true,
-  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 30,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Newsboys": {
@@ -3025,14 +3025,14 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 73,
+  "already_had": 74,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 5,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Palo Duro Canyon": {
@@ -3443,25 +3443,25 @@
   "wrong_license": 0
  },
  "San Antonio, Texas": {
-  "already_had": 69,
-  "book_scan": 0,
-  "candidates": 80,
-  "exists": true,
-  "kept": 1,
-  "page": "lonestar-legacy",
-  "too_small": 10,
-  "video_ready": 1,
-  "wrong_license": 0
- },
- "Savannah, Georgia": {
-  "already_had": 63,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
-  "page": "georgia",
-  "too_small": 17,
+  "page": "lonestar-legacy",
+  "too_small": 10,
   "video_ready": 0,
+  "wrong_license": 0
+ },
+ "Savannah, Georgia": {
+  "already_had": 61,
+  "book_scan": 0,
+  "candidates": 80,
+  "exists": true,
+  "kept": 3,
+  "page": "georgia",
+  "too_small": 16,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Schools in Texas": {
@@ -4048,13 +4048,13 @@
   "wrong_license": 0
  },
  "Vikings": {
-  "already_had": 43,
+  "already_had": 41,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "anglo-saxon",
-  "too_small": 35,
+  "too_small": 37,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4159,7 +4159,7 @@
  },
  "_era_video_ready": {
   "historical": 4409,
-  "modern_event": 4700,
-  "site_today": 2633
+  "modern_event": 4703,
+  "site_today": 2636
  }
 }
