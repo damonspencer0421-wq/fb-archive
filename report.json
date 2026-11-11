@@ -605,14 +605,14 @@
   "wrong_license": 0
  },
  "Bede": {
-  "already_had": 27,
+  "already_had": 25,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "anglo-saxon",
   "too_small": 49,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Beowulf": {
@@ -1408,14 +1408,14 @@
   "wrong_license": 0
  },
  "El Paso, Texas": {
-  "already_had": 66,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 12,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Ellis Island": {
@@ -1762,9 +1762,9 @@
  "Georgia (U.S. state)": {
   "already_had": 22,
   "book_scan": 0,
-  "candidates": 28,
+  "candidates": 33,
   "exists": true,
-  "kept": 0,
+  "kept": 5,
   "page": "georgia",
   "too_small": 6,
   "video_ready": 0,
@@ -2266,13 +2266,13 @@
   "wrong_license": 0
  },
  "Jefferson, Texas": {
-  "already_had": 77,
+  "already_had": 76,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 3,
+  "too_small": 4,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2816,24 +2816,24 @@
   "wrong_license": 0
  },
  "New Orleans": {
-  "already_had": 31,
+  "already_had": 33,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "louisiana",
   "too_small": 47,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "New York City in the 1930s": {
-  "already_had": 50,
+  "already_had": 49,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "growing-up-italian",
-  "too_small": 30,
+  "too_small": 31,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3454,14 +3454,14 @@
   "wrong_license": 0
  },
  "Savannah, Georgia": {
-  "already_had": 61,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "georgia",
   "too_small": 16,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Schools in Texas": {
@@ -4158,7 +4158,7 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4409,
+  "historical": 4410,
   "modern_event": 4703,
   "site_today": 2636
  }
