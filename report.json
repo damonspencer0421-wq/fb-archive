@@ -440,13 +440,13 @@
   "wrong_license": 0
  },
  "Athens, Georgia": {
-  "already_had": 58,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "georgia",
-  "too_small": 21,
+  "too_small": 22,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -605,14 +605,14 @@
   "wrong_license": 0
  },
  "Bede": {
-  "already_had": 25,
+  "already_had": 27,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 49,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Beowulf": {
@@ -1005,9 +1005,9 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
-  "too_small": 6,
+  "too_small": 5,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1760,11 +1760,11 @@
   "wrong_license": 0
  },
  "Georgia (U.S. state)": {
-  "already_had": 22,
+  "already_had": 27,
   "book_scan": 0,
   "candidates": 33,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "georgia",
   "too_small": 6,
   "video_ready": 0,
@@ -2497,14 +2497,14 @@
   "wrong_license": 0
  },
  "MacDill Air Force Base": {
-  "already_had": 72,
+  "already_had": 71,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 4,
   "page": "florida",
-  "too_small": 8,
-  "video_ready": 0,
+  "too_small": 5,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Macon, Georgia": {
@@ -2596,7 +2596,7 @@
   "wrong_license": 0
  },
  "Marfa, Texas": {
-  "already_had": 69,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
@@ -2604,7 +2604,7 @@
   "page": "lonestar-legacy",
   "too_small": 11,
   "video_ready": 0,
-  "wrong_license": 0
+  "wrong_license": 1
  },
  "Marshall Space Flight Center": {
   "already_had": 74,
@@ -2739,14 +2739,14 @@
   "wrong_license": 0
  },
  "Montgomery, Alabama": {
-  "already_had": 69,
+  "already_had": 68,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "alabama",
   "too_small": 11,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Muscle Shoals, Alabama": {
@@ -2805,14 +2805,14 @@
   "wrong_license": 0
  },
  "Negro league baseball": {
-  "already_had": 15,
+  "already_had": 4,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 10,
   "page": "black-unearthed",
   "too_small": 65,
-  "video_ready": 0,
+  "video_ready": 8,
   "wrong_license": 0
  },
  "New Orleans": {
@@ -4059,13 +4059,13 @@
   "wrong_license": 0
  },
  "Waco, Texas": {
-  "already_had": 52,
+  "already_had": 53,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 27,
+  "too_small": 26,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4410,
-  "modern_event": 4703,
-  "site_today": 2636
+  "historical": 4411,
+  "modern_event": 4714,
+  "site_today": 2637
  }
 }
