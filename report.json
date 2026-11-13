@@ -1001,11 +1001,11 @@
   "wrong_license": 0
  },
  "Child labor in the United States": {
-  "already_had": 74,
+  "already_had": 75,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 5,
   "video_ready": 0,
@@ -1210,11 +1210,11 @@
   "wrong_license": 0
  },
  "Convair B-36 Peacemaker": {
-  "already_had": 44,
+  "already_had": 43,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
   "too_small": 36,
   "video_ready": 0,
@@ -1705,13 +1705,13 @@
   "wrong_license": 0
  },
  "Freedmen": {
-  "already_had": 51,
+  "already_had": 52,
   "book_scan": 4,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "texas-unearthed",
-  "too_small": 24,
+  "too_small": 23,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2497,14 +2497,14 @@
   "wrong_license": 0
  },
  "MacDill Air Force Base": {
-  "already_had": 71,
+  "already_had": 75,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "florida",
   "too_small": 5,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Macon, Georgia": {
@@ -2600,11 +2600,11 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 11,
   "video_ready": 0,
-  "wrong_license": 1
+  "wrong_license": 0
  },
  "Marshall Space Flight Center": {
   "already_had": 74,
@@ -2739,14 +2739,14 @@
   "wrong_license": 0
  },
  "Montgomery, Alabama": {
-  "already_had": 68,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "alabama",
   "too_small": 11,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Muscle Shoals, Alabama": {
@@ -2805,14 +2805,14 @@
   "wrong_license": 0
  },
  "Negro league baseball": {
-  "already_had": 4,
+  "already_had": 13,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 10,
+  "kept": 2,
   "page": "black-unearthed",
-  "too_small": 65,
-  "video_ready": 8,
+  "too_small": 64,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "New Orleans": {
@@ -2992,14 +2992,14 @@
   "wrong_license": 0
  },
  "Organ grinders": {
-  "already_had": 46,
+  "already_had": 44,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "growing-up-italian",
   "too_small": 32,
-  "video_ready": 0,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Oseberg ship": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4411,
-  "modern_event": 4714,
+  "historical": 4412,
+  "modern_event": 4716,
   "site_today": 2637
  }
 }
