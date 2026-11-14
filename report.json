@@ -605,13 +605,13 @@
   "wrong_license": 0
  },
  "Bede": {
-  "already_had": 27,
+  "already_had": 25,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "anglo-saxon",
-  "too_small": 49,
+  "too_small": 51,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1210,13 +1210,13 @@
   "wrong_license": 0
  },
  "Convair B-36 Peacemaker": {
-  "already_had": 43,
+  "already_had": 42,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 4,
   "page": "texas-stand-up",
-  "too_small": 36,
+  "too_small": 34,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1280,10 +1280,10 @@
   "book_scan": 4,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "alabama",
-  "too_small": 25,
-  "video_ready": 0,
+  "too_small": 24,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Cotton plantations": {
@@ -2323,11 +2323,11 @@
  "Killeen, Texas": {
   "already_had": 35,
   "book_scan": 0,
-  "candidates": 74,
+  "candidates": 76,
   "exists": true,
   "kept": 0,
   "page": "texas-stand-up",
-  "too_small": 39,
+  "too_small": 41,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2409,14 +2409,14 @@
   "wrong_license": 0
  },
  "Lockheed U-2": {
-  "already_had": 60,
+  "already_had": 56,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 5,
   "page": "texas-stand-up",
-  "too_small": 20,
-  "video_ready": 0,
+  "too_small": 19,
+  "video_ready": 5,
   "wrong_license": 0
  },
  "Logging in the United States": {
@@ -2596,11 +2596,11 @@
   "wrong_license": 0
  },
  "Marfa, Texas": {
-  "already_had": 68,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 11,
   "video_ready": 0,
@@ -2805,14 +2805,14 @@
   "wrong_license": 0
  },
  "Negro league baseball": {
-  "already_had": 13,
+  "already_had": 15,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 64,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "New Orleans": {
@@ -2992,14 +2992,14 @@
   "wrong_license": 0
  },
  "Organ grinders": {
-  "already_had": 44,
+  "already_had": 46,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 32,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Oseberg ship": {
@@ -3412,9 +3412,9 @@
  "Sabine River": {
   "already_had": 50,
   "book_scan": 0,
-  "candidates": 78,
+  "candidates": 79,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
   "too_small": 28,
   "video_ready": 0,
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4412,
-  "modern_event": 4716,
+  "historical": 4413,
+  "modern_event": 4721,
   "site_today": 2637
  }
 }
