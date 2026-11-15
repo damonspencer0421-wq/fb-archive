@@ -957,11 +957,11 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 65,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 13,
   "video_ready": 0,
@@ -1177,14 +1177,14 @@
   "wrong_license": 0
  },
  "Comanche": {
-  "already_had": 35,
+  "already_had": 34,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-frontier-files",
   "too_small": 41,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 1
  },
  "Comanche people": {
@@ -1210,11 +1210,11 @@
   "wrong_license": 0
  },
  "Convair B-36 Peacemaker": {
-  "already_had": 42,
+  "already_had": 46,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 34,
   "video_ready": 0,
@@ -1276,14 +1276,14 @@
   "wrong_license": 0
  },
  "Cotton mills": {
-  "already_had": 51,
+  "already_had": 52,
   "book_scan": 4,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "alabama",
   "too_small": 24,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Cotton plantations": {
@@ -1762,9 +1762,9 @@
  "Georgia (U.S. state)": {
   "already_had": 27,
   "book_scan": 0,
-  "candidates": 33,
+  "candidates": 37,
   "exists": true,
-  "kept": 0,
+  "kept": 4,
   "page": "georgia",
   "too_small": 6,
   "video_ready": 0,
@@ -2409,14 +2409,14 @@
   "wrong_license": 0
  },
  "Lockheed U-2": {
-  "already_had": 56,
+  "already_had": 61,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 5,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 19,
-  "video_ready": 5,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Logging in the United States": {
@@ -3410,11 +3410,11 @@
   "wrong_license": 0
  },
  "Sabine River": {
-  "already_had": 50,
+  "already_had": 51,
   "book_scan": 0,
   "candidates": 79,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 28,
   "video_ready": 0,
@@ -4159,7 +4159,7 @@
  },
  "_era_video_ready": {
   "historical": 4413,
-  "modern_event": 4721,
+  "modern_event": 4722,
   "site_today": 2637
  }
 }
