@@ -266,11 +266,11 @@
  "Althea Gibson": {
   "already_had": 9,
   "book_scan": 0,
-  "candidates": 28,
+  "candidates": 27,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
-  "too_small": 19,
+  "too_small": 18,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -957,11 +957,11 @@
   "wrong_license": 0
  },
  "Cemeteries in Texas": {
-  "already_had": 64,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 13,
   "video_ready": 0,
@@ -1177,14 +1177,14 @@
   "wrong_license": 0
  },
  "Comanche": {
-  "already_had": 34,
+  "already_had": 35,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-frontier-files",
   "too_small": 41,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 1
  },
  "Comanche people": {
@@ -1760,11 +1760,11 @@
   "wrong_license": 0
  },
  "Georgia (U.S. state)": {
-  "already_had": 27,
+  "already_had": 31,
   "book_scan": 0,
   "candidates": 37,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "georgia",
   "too_small": 6,
   "video_ready": 0,
@@ -1817,7 +1817,7 @@
  "Great Migration (African American)": {
   "already_had": 12,
   "book_scan": 0,
-  "candidates": 20,
+  "candidates": 21,
   "exists": true,
   "kept": 0,
   "page": "black-unearthed",
@@ -1915,12 +1915,12 @@
  },
  "Harriet Tubman": {
   "already_had": 39,
-  "book_scan": 0,
+  "book_scan": 1,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
-  "too_small": 40,
+  "too_small": 38,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2145,14 +2145,14 @@
   "wrong_license": 0
  },
  "Ida B. Wells": {
-  "already_had": 60,
+  "already_had": 59,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
   "too_small": 19,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Illuminated manuscripts": {
@@ -4059,13 +4059,13 @@
   "wrong_license": 0
  },
  "Waco, Texas": {
-  "already_had": 53,
+  "already_had": 52,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 26,
+  "too_small": 27,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4160,6 +4160,6 @@
  "_era_video_ready": {
   "historical": 4413,
   "modern_event": 4722,
-  "site_today": 2637
+  "site_today": 2638
  }
 }
