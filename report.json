@@ -1331,14 +1331,14 @@
   "wrong_license": 0
  },
  "Dallas, Texas": {
-  "already_had": 46,
+  "already_had": 45,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-unearthed",
   "too_small": 32,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Dance halls": {
@@ -1914,11 +1914,11 @@
   "wrong_license": 0
  },
  "Harriet Tubman": {
-  "already_had": 39,
+  "already_had": 40,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 38,
   "video_ready": 0,
@@ -2145,14 +2145,14 @@
   "wrong_license": 0
  },
  "Ida B. Wells": {
-  "already_had": 59,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "black-unearthed",
   "too_small": 19,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Illuminated manuscripts": {
@@ -4159,7 +4159,7 @@
  },
  "_era_video_ready": {
   "historical": 4413,
-  "modern_event": 4722,
+  "modern_event": 4723,
   "site_today": 2638
  }
 }
