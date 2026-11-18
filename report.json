@@ -1331,14 +1331,14 @@
   "wrong_license": 0
  },
  "Dallas, Texas": {
-  "already_had": 45,
+  "already_had": 46,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-unearthed",
   "too_small": 32,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Dance halls": {
@@ -2739,13 +2739,13 @@
   "wrong_license": 0
  },
  "Montgomery, Alabama": {
-  "already_had": 69,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "alabama",
-  "too_small": 11,
+  "too_small": 10,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4083,12 +4083,12 @@
  "West Virginia": {
   "already_had": 33,
   "book_scan": 0,
-  "candidates": 60,
+  "candidates": 61,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "appalachia",
   "too_small": 27,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Wild Bunch": {
@@ -4160,6 +4160,6 @@
  "_era_video_ready": {
   "historical": 4413,
   "modern_event": 4723,
-  "site_today": 2638
+  "site_today": 2639
  }
 }
