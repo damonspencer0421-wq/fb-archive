@@ -253,14 +253,14 @@
   "wrong_license": 0
  },
  "Alabama River": {
-  "already_had": 65,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "alabama",
   "too_small": 15,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Althea Gibson": {
@@ -277,9 +277,9 @@
  "Amarillo, Texas": {
   "already_had": 56,
   "book_scan": 0,
-  "candidates": 74,
+  "candidates": 75,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
   "too_small": 18,
   "video_ready": 0,
@@ -418,14 +418,14 @@
   "wrong_license": 0
  },
  "Appalachian music": {
-  "already_had": 21,
+  "already_had": 12,
   "book_scan": 0,
-  "candidates": 48,
+  "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 40,
   "page": "appalachia",
-  "too_small": 27,
-  "video_ready": 0,
+  "too_small": 25,
+  "video_ready": 38,
   "wrong_license": 0
  },
  "Arthur Ashe": {
@@ -2061,10 +2061,10 @@
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "growing-up-italian",
-  "too_small": 52,
-  "video_ready": 0,
+  "too_small": 50,
+  "video_ready": 1,
   "wrong_license": 2
  },
  "History of Texas": {
@@ -3421,13 +3421,13 @@
   "wrong_license": 0
  },
  "Saloons": {
-  "already_had": 42,
+  "already_had": 43,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 38,
+  "too_small": 37,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4081,14 +4081,14 @@
   "wrong_license": 0
  },
  "West Virginia": {
-  "already_had": 33,
+  "already_had": 34,
   "book_scan": 0,
   "candidates": 61,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 27,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Wild Bunch": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4413,
-  "modern_event": 4723,
-  "site_today": 2639
+  "historical": 4415,
+  "modern_event": 4733,
+  "site_today": 2667
  }
 }
