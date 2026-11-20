@@ -253,14 +253,14 @@
   "wrong_license": 0
  },
  "Alabama River": {
-  "already_had": 64,
+  "already_had": 65,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "alabama",
   "too_small": 15,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Althea Gibson": {
@@ -275,11 +275,11 @@
   "wrong_license": 0
  },
  "Amarillo, Texas": {
-  "already_had": 56,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 75,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 18,
   "video_ready": 0,
@@ -396,14 +396,14 @@
   "wrong_license": 0
  },
  "Apalachicola, Florida": {
-  "already_had": 69,
+  "already_had": 66,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 3,
   "page": "florida",
   "too_small": 11,
-  "video_ready": 0,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Appalachian Mountains": {
@@ -418,14 +418,14 @@
   "wrong_license": 0
  },
  "Appalachian music": {
-  "already_had": 12,
+  "already_had": 52,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 40,
+  "kept": 2,
   "page": "appalachia",
   "too_small": 25,
-  "video_ready": 38,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Arthur Ashe": {
@@ -2057,14 +2057,14 @@
   "wrong_license": 0
  },
  "History of New York City": {
-  "already_had": 18,
+  "already_had": 20,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 50,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 2
  },
  "History of Texas": {
@@ -2816,13 +2816,13 @@
   "wrong_license": 0
  },
  "New Orleans": {
-  "already_had": 33,
+  "already_had": 34,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "louisiana",
-  "too_small": 47,
+  "too_small": 46,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3674,11 +3674,11 @@
   "wrong_license": 0
  },
  "St. Augustine, Florida": {
-  "already_had": 57,
+  "already_had": 56,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "florida",
   "too_small": 23,
   "video_ready": 0,
@@ -3755,10 +3755,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "florida",
-  "too_small": 49,
-  "video_ready": 0,
+  "too_small": 48,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Tarpon Springs, Florida": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4415,
+  "historical": 4418,
   "modern_event": 4733,
-  "site_today": 2667
+  "site_today": 2669
  }
 }
