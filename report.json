@@ -396,14 +396,14 @@
   "wrong_license": 0
  },
  "Apalachicola, Florida": {
-  "already_had": 66,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "florida",
   "too_small": 11,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Appalachian Mountains": {
@@ -418,14 +418,14 @@
   "wrong_license": 0
  },
  "Appalachian music": {
-  "already_had": 52,
+  "already_had": 54,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 25,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Arthur Ashe": {
@@ -1166,14 +1166,14 @@
   "wrong_license": 0
  },
  "Columbus, Georgia": {
-  "already_had": 55,
+  "already_had": 54,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "georgia",
   "too_small": 22,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Comanche": {
@@ -1386,14 +1386,14 @@
   "wrong_license": 0
  },
  "Dyess Air Force Base": {
-  "already_had": 70,
+  "already_had": 64,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 6,
   "page": "texas-stand-up",
   "too_small": 10,
-  "video_ready": 0,
+  "video_ready": 6,
   "wrong_license": 0
  },
  "Eglin Air Force Base": {
@@ -2376,14 +2376,14 @@
   "wrong_license": 0
  },
  "Laughlin Air Force Base": {
-  "already_had": 69,
+  "already_had": 63,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 6,
   "page": "texas-stand-up",
   "too_small": 11,
-  "video_ready": 0,
+  "video_ready": 6,
   "wrong_license": 0
  },
  "Lindisfarne": {
@@ -3674,11 +3674,11 @@
   "wrong_license": 0
  },
  "St. Augustine, Florida": {
-  "already_had": 56,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "florida",
   "too_small": 23,
   "video_ready": 0,
@@ -3751,14 +3751,14 @@
   "wrong_license": 0
  },
  "Tampa, Florida": {
-  "already_had": 31,
+  "already_had": 32,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "florida",
   "too_small": 48,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Tarpon Springs, Florida": {
@@ -3905,13 +3905,13 @@
   "wrong_license": 0
  },
  "Train stations in Texas": {
-  "already_had": 57,
+  "already_had": 56,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 23,
+  "too_small": 24,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4159,7 +4159,7 @@
  },
  "_era_video_ready": {
   "historical": 4418,
-  "modern_event": 4733,
-  "site_today": 2669
+  "modern_event": 4745,
+  "site_today": 2670
  }
 }
