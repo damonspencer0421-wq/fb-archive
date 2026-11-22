@@ -1173,7 +1173,7 @@
   "kept": 1,
   "page": "georgia",
   "too_small": 22,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Comanche": {
@@ -1386,14 +1386,14 @@
   "wrong_license": 0
  },
  "Dyess Air Force Base": {
-  "already_had": 64,
+  "already_had": 70,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 6,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 10,
-  "video_ready": 6,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Eglin Air Force Base": {
@@ -2013,13 +2013,13 @@
   "wrong_license": 0
  },
  "History of Italy": {
-  "already_had": 31,
+  "already_had": 30,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "growing-up-italian",
-  "too_small": 47,
+  "too_small": 48,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2376,14 +2376,14 @@
   "wrong_license": 0
  },
  "Laughlin Air Force Base": {
-  "already_had": 63,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 6,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 11,
-  "video_ready": 6,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Lindisfarne": {
@@ -3337,10 +3337,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "louisiana",
-  "too_small": 19,
-  "video_ready": 0,
+  "too_small": 17,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Roadside attractions in the United States": {
@@ -4158,7 +4158,7 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4418,
+  "historical": 4420,
   "modern_event": 4745,
   "site_today": 2670
  }
