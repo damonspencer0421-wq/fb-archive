@@ -191618,6 +191618,22 @@
   "video_ready": false,
   "year": null
  },
+ "ac9111611227": {
+  "category": "Coal mining in the United States",
+  "credit": "Adams, William W. Coal-mine Accidents In the United States, 1938. Washington, D.C.: U.S. Dept. of the Interior, Bureau of Mines, 1941 - https://babel.hathitrust.org/cgi/pt?id=uiug.30112101024427&amp;seq=116",
+  "date": "1941",
+  "description": "TABLE 80.-Coal-mine disasters in the United States in which five or more men were killed-Continued",
+  "era": "historical",
+  "license": "Public domain",
+  "orig_height": 3246,
+  "orig_width": 2164,
+  "page": "appalachia",
+  "path": "images/appalachia/ac9111611227.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:TABLE_80.-Coal-mine_disasters_in_the_United_States_in_which_five_or_more_men_were_killed-Continued.jpg",
+  "title": "File:TABLE 80.-Coal-mine disasters in the United States in which five or more men were killed-Continued.jpg",
+  "video_ready": false,
+  "year": 1941
+ },
  "ac91330c7f20": {
   "category": "Everglades National Park",
   "credit": "American Crocodile Survey",
@@ -254290,6 +254306,22 @@
   "video_ready": true,
   "year": 1923
  },
+ "e5e266e1773d": {
+  "category": "Domesday Book",
+  "credit": "Own work",
+  "date": "24 October 2026\u00a0(according to Exif data)",
+  "description": "Burton Joyce Domesday Monument",
+  "era": "site_today",
+  "license": "CC BY-SA 3.0",
+  "orig_height": 3000,
+  "orig_width": 4000,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/e5e266e1773d.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Burton_Joyce_Domesday_Monument.jpg",
+  "title": "File:Burton Joyce Domesday Monument.jpg",
+  "video_ready": true,
+  "year": 2026
+ },
  "e5e3f5ea97df": {
   "category": "Blue Ridge Mountains",
   "credit": "https://www.flickr.com/photos/47445767@N05/51361682307/",
@@ -277151,6 +277183,22 @@
   "title": "File:Barbara Jordan Terminal Dining at Gate 12.jpg",
   "video_ready": true,
   "year": 2017
+ },
+ "fae27d90f3ff": {
+  "category": "San Antonio River",
+  "credit": "This file was contributed to Wikimedia Commons by University of North Texas Libraries as part of a cooperation project. The donation was facilitated by the Digital Public Library of America.\nRecord in source catalog\nDPLA identifier: 802c54c849ba71229df9063c2cd7c938\nUniversity of North Texas Libraries identifier: https://texashistory.unt.edu/ark:/67531/metapth1623213/; 12590431; W1125.7 In8s no.72;",
+  "date": "March 1987date QS:P571,+1987-03-00T00:00:00Z/10",
+  "description": "Page iii: Abstract of the Texas Water Commission report Intensive Surveys of San Antonio River Segments 1901 and 1911: June 6, 1984 \u2013 May 16, 1985 (IS 87-04), published in March 1987. The report examines water quality, dissolved oxygen, wastewater pollution and benthic macroinvertebrates in the San Antonio River, Texas.",
+  "era": "historical",
+  "license": "CC BY 4.0",
+  "orig_height": 1982,
+  "orig_width": 1500,
+  "page": "texas-stand-up",
+  "path": "images/texas-stand-up/fae27d90f3ff.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Intensive_Survey_of_San_Antonio_River_Segments_1901_and_1911-_June_6_-_May_16,_1985_-_DPLA_-_802c54c849ba71229df9063c2cd7c938_(page_5).jpg",
+  "title": "File:Intensive Survey of San Antonio River Segments 1901 and 1911- June 6 - May 16, 1985 - DPLA - 802c54c849ba71229df9063c2cd7c938 (page 5).jpg",
+  "video_ready": false,
+  "year": 1901
  },
  "faed6b632166": {
   "category": "Buffalo soldiers",
