@@ -1133,11 +1133,11 @@
   "wrong_license": 0
  },
  "Coal mining in the United States": {
-  "already_had": 47,
+  "already_had": 48,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "appalachia",
   "too_small": 31,
   "video_ready": 0,
@@ -1364,14 +1364,14 @@
   "wrong_license": 0
  },
  "Domesday Book": {
-  "already_had": 15,
+  "already_had": 16,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 64,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Dust Bowl": {
@@ -1727,13 +1727,13 @@
   "wrong_license": 0
  },
  "Galveston, Texas": {
-  "already_had": 61,
+  "already_had": 60,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 19,
+  "too_small": 20,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2974,10 +2974,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "texas-stand-up",
-  "too_small": 34,
-  "video_ready": 0,
+  "too_small": 33,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Orange, Texas": {
@@ -3432,11 +3432,11 @@
   "wrong_license": 0
  },
  "San Antonio River": {
-  "already_had": 58,
+  "already_had": 59,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 21,
   "video_ready": 0,
@@ -3720,7 +3720,7 @@
  "Street vendors in New York City": {
   "already_had": 47,
   "book_scan": 0,
-  "candidates": 59,
+  "candidates": 60,
   "exists": true,
   "kept": 0,
   "page": "growing-up-italian",
@@ -4159,7 +4159,7 @@
  },
  "_era_video_ready": {
   "historical": 4420,
-  "modern_event": 4745,
+  "modern_event": 4747,
   "site_today": 2671
  }
 }

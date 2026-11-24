@@ -214594,6 +214594,22 @@
   "video_ready": false,
   "year": 2018
  },
+ "c14dbf728126": {
+  "category": "Operation Paperclip",
+  "credit": "Own work",
+  "date": "2025-09-15 18:09:06",
+  "description": "Wernher von Braun's office in the Davidson Center for Space Exploration of the U.S. Space &amp; Rocket Center in Huntsville, Alabama in 2025",
+  "era": "modern_event",
+  "license": "CC BY-SA 4.0",
+  "orig_height": 4160,
+  "orig_width": 6240,
+  "page": "texas-stand-up",
+  "path": "images/texas-stand-up/c14dbf728126.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Davidson_Center_for_Space_Exploration_2025q.jpg",
+  "title": "File:Davidson Center for Space Exploration 2025q.jpg",
+  "video_ready": true,
+  "year": 2025
+ },
  "c15678981d7c": {
   "category": "Austin, Texas",
   "credit": "Golden",
@@ -223176,6 +223192,22 @@
   "title": "File:Pantex Plant Substation.png",
   "video_ready": false,
   "year": 1957
+ },
+ "c8e8f70e66dc": {
+  "category": "Galveston, Texas",
+  "credit": "https://www.flickr.com/photos/elzbelz/51188287146/",
+  "date": "2021-05-16 14:50:38",
+  "description": "DCIM\\100MEDIA\\DJI_0571.JPG",
+  "era": "modern_event",
+  "license": "CC BY 2.0",
+  "orig_height": 2250,
+  "orig_width": 4000,
+  "page": "texas-stand-up",
+  "path": "images/texas-stand-up/c8e8f70e66dc.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:2021_05_16_Galveston_(6)_04.jpg",
+  "title": "File:2021 05 16 Galveston (6) 04.jpg",
+  "video_ready": true,
+  "year": 2021
  },
  "c8e942ae0258": {
   "category": "Comanche people",
