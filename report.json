@@ -1584,14 +1584,14 @@
   "wrong_license": 0
  },
  "Folklore of the United States": {
-  "already_had": 28,
+  "already_had": 27,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 52,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Fort Concho": {
@@ -1727,13 +1727,13 @@
   "wrong_license": 0
  },
  "Galveston, Texas": {
-  "already_had": 60,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 20,
+  "too_small": 23,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2277,14 +2277,14 @@
   "wrong_license": 0
  },
  "Jim Crow laws": {
-  "already_had": 46,
+  "already_had": 45,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 3,
   "page": "texas-unearthed",
-  "too_small": 31,
-  "video_ready": 0,
+  "too_small": 29,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Juneteenth": {
@@ -2919,10 +2919,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "anglo-saxon",
-  "too_small": 54,
-  "video_ready": 0,
+  "too_small": 53,
+  "video_ready": 1,
   "wrong_license": 1
  },
  "Oil wells in Texas": {
@@ -2970,14 +2970,14 @@
   "wrong_license": 0
  },
  "Operation Paperclip": {
-  "already_had": 46,
+  "already_had": 47,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "texas-stand-up",
   "too_small": 33,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Orange, Texas": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4420,
-  "modern_event": 4747,
-  "site_today": 2671
+  "historical": 4422,
+  "modern_event": 4748,
+  "site_today": 2672
  }
 }
