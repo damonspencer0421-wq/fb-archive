@@ -1100,13 +1100,13 @@
   "wrong_license": 0
  },
  "Coal mining in Alabama": {
-  "already_had": 79,
+  "already_had": 78,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "alabama",
-  "too_small": 1,
+  "too_small": 2,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -1584,14 +1584,14 @@
   "wrong_license": 0
  },
  "Folklore of the United States": {
-  "already_had": 27,
+  "already_had": 28,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 52,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Fort Concho": {
@@ -1727,13 +1727,13 @@
   "wrong_license": 0
  },
  "Galveston, Texas": {
-  "already_had": 57,
+  "already_had": 54,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 23,
+  "too_small": 26,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2277,14 +2277,14 @@
   "wrong_license": 0
  },
  "Jim Crow laws": {
-  "already_had": 45,
+  "already_had": 48,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 3,
+  "kept": 0,
   "page": "texas-unearthed",
   "too_small": 29,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Juneteenth": {
@@ -2675,11 +2675,11 @@
  "Mining disasters in the United States": {
   "already_had": 38,
   "book_scan": 0,
-  "candidates": 74,
+  "candidates": 75,
   "exists": true,
   "kept": 0,
   "page": "appalachia",
-  "too_small": 36,
+  "too_small": 37,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2915,13 +2915,13 @@
   "wrong_license": 0
  },
  "Offa's Dyke": {
-  "already_had": 25,
+  "already_had": 26,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 1,
   "page": "anglo-saxon",
-  "too_small": 53,
+  "too_small": 52,
   "video_ready": 1,
   "wrong_license": 1
  },
@@ -3751,13 +3751,13 @@
   "wrong_license": 0
  },
  "Tampa, Florida": {
-  "already_had": 32,
+  "already_had": 31,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "florida",
-  "too_small": 48,
+  "too_small": 49,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -4159,7 +4159,7 @@
  },
  "_era_video_ready": {
   "historical": 4422,
-  "modern_event": 4748,
+  "modern_event": 4749,
   "site_today": 2672
  }
 }

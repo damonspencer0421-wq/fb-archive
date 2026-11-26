@@ -200239,6 +200239,22 @@
   "video_ready": false,
   "year": 2004
  },
+ "b4d14bfa188d": {
+  "category": "Offa's Dyke",
+  "credit": "Geograph Britain and Ireland",
+  "date": "2011-08-09",
+  "description": "Beside Offa's Dyke",
+  "era": "modern_event",
+  "license": "CC BY-SA 2.0",
+  "orig_height": 2112,
+  "orig_width": 2816,
+  "page": "anglo-saxon",
+  "path": "images/anglo-saxon/b4d14bfa188d.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Beside_Offa%27s_Dyke_-_geograph.org.uk_-_2544746.jpg",
+  "title": "File:Beside Offa's Dyke - geograph.org.uk - 2544746.jpg",
+  "video_ready": true,
+  "year": 2011
+ },
  "b4d21c848681": {
   "category": "New York City in the 1930s",
   "credit": "https://nycrecords.access.preservica.com/uncategorized/IO_a73ac1f0-eaa8-47d4-8754-26f2739fc427/",
