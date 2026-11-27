@@ -473,14 +473,14 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 58,
+  "already_had": 57,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Bakeries": {
@@ -994,10 +994,10 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 2,
   "page": "georgia",
-  "too_small": 19,
-  "video_ready": 0,
+  "too_small": 17,
+  "video_ready": 2,
   "wrong_license": 0
  },
  "Child labor in the United States": {
@@ -1727,13 +1727,13 @@
   "wrong_license": 0
  },
  "Galveston, Texas": {
-  "already_had": 54,
+  "already_had": 53,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 26,
+  "too_small": 27,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -2915,14 +2915,14 @@
   "wrong_license": 0
  },
  "Offa's Dyke": {
-  "already_had": 26,
+  "already_had": 27,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "anglo-saxon",
   "too_small": 52,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 1
  },
  "Oil wells in Texas": {
@@ -3025,14 +3025,14 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 74,
+  "already_had": 69,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 4,
   "page": "growing-up-italian",
-  "too_small": 5,
-  "video_ready": 0,
+  "too_small": 6,
+  "video_ready": 4,
   "wrong_license": 0
  },
  "Palo Duro Canyon": {
@@ -3696,13 +3696,13 @@
   "wrong_license": 0
  },
  "Stagecoaches": {
-  "already_had": 55,
+  "already_had": 56,
   "book_scan": 1,
   "candidates": 80,
   "exists": true,
   "kept": 0,
   "page": "lonestar-legacy",
-  "too_small": 24,
+  "too_small": 23,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3720,12 +3720,12 @@
  "Street vendors in New York City": {
   "already_had": 47,
   "book_scan": 0,
-  "candidates": 60,
+  "candidates": 61,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "growing-up-italian",
   "too_small": 12,
-  "video_ready": 0,
+  "video_ready": 1,
   "wrong_license": 0
  },
  "Streetcars in New Orleans": {
@@ -4158,8 +4158,8 @@
   "wrong_license": 0
  },
  "_era_video_ready": {
-  "historical": 4422,
-  "modern_event": 4749,
+  "historical": 4423,
+  "modern_event": 4757,
   "site_today": 2672
  }
 }
