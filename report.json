@@ -473,14 +473,14 @@
   "wrong_license": 1
  },
  "Austin, Texas": {
-  "already_had": 57,
+  "already_had": 58,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "lonestar-legacy",
   "too_small": 13,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Bakeries": {
@@ -990,14 +990,14 @@
   "wrong_license": 0
  },
  "Chattahoochee River": {
-  "already_had": 60,
+  "already_had": 62,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 2,
+  "kept": 0,
   "page": "georgia",
   "too_small": 17,
-  "video_ready": 2,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Child labor in the United States": {
@@ -2556,9 +2556,9 @@
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 0,
+  "kept": 1,
   "page": "black-unearthed",
-  "too_small": 21,
+  "too_small": 20,
   "video_ready": 0,
   "wrong_license": 0
  },
@@ -3025,14 +3025,14 @@
   "wrong_license": 0
  },
  "Palermo": {
-  "already_had": 69,
+  "already_had": 73,
   "book_scan": 0,
   "candidates": 80,
   "exists": true,
-  "kept": 4,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 6,
-  "video_ready": 4,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Palo Duro Canyon": {
@@ -3718,14 +3718,14 @@
   "wrong_license": 0
  },
  "Street vendors in New York City": {
-  "already_had": 47,
+  "already_had": 48,
   "book_scan": 0,
   "candidates": 61,
   "exists": true,
-  "kept": 1,
+  "kept": 0,
   "page": "growing-up-italian",
   "too_small": 12,
-  "video_ready": 1,
+  "video_ready": 0,
   "wrong_license": 0
  },
  "Streetcars in New Orleans": {
